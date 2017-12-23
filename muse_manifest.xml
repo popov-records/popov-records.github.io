@@ -5,14 +5,14 @@
     <file name="sample-pack.css" crc="90404602" ref="sample-pack"/>
     <file name="remix-packs.css" crc="425794823" ref="remix-packs"/>
     <file name="mixes.css" crc="149486426" ref="mixes"/>
-    <file name="last-works.css" crc="441248298" ref="last-works"/>
+    <file name="last-works.css" crc="440483476" ref="last-works"/>
     <file name="albums.css" crc="3970226640" ref="albums"/>
     <file name="compilation.css" crc="4234079960" ref="compilation"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="3760988189" mt="1514024124000"/>
-    <file name="muse_manifest.xml" crc="466774102" mt="1514027833000"/>
-    <file name="sitemap.xml" crc="330204051" mt="1514027833000"/>
+    <file name="muse_manifest.xml" crc="504340161" mt="1514028013000"/>
+    <file name="sitemap.xml" crc="330204051" mt="1514028013000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
@@ -99,7 +99,7 @@
   </folder>
   <file name="index.html" crc="93250867" mt="1514024085496" redirect="true"/>
   <file name="albums.html" crc="4233529224" mt="1514027521853" redirect="true"/>
-  <file name="last-works.html" crc="194432452" mt="1514025171382" redirect="true"/>
+  <file name="last-works.html" crc="194432452" mt="1514028666755" redirect="true"/>
   <file name="mixes.html" crc="3902292984" mt="1514027787919" redirect="true"/>
   <file name="sample-pack.html" crc="192284519" mt="1514027984898" redirect="true"/>
   <file name="remix-packs.html" crc="4022732728" mt="1514026019373" redirect="true"/>

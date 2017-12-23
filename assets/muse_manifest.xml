@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4130080278" ref="index"/>
-    <file name="sample-pack.css" crc="4136186583" ref="sample-pack"/>
+    <file name="sample-pack.css" crc="90404602" ref="sample-pack"/>
     <file name="remix-packs.css" crc="425794823" ref="remix-packs"/>
     <file name="mixes.css" crc="149486426" ref="mixes"/>
     <file name="last-works.css" crc="441248298" ref="last-works"/>
@@ -11,8 +11,8 @@
   </folder>
   <folder name="assets">
     <file name="index.html" crc="3760988189" mt="1514024124000"/>
-    <file name="muse_manifest.xml" crc="84769776" mt="1514025477000"/>
-    <file name="sitemap.xml" crc="128908846" mt="1514025477000"/>
+    <file name="muse_manifest.xml" crc="466774102" mt="1514027833000"/>
+    <file name="sitemap.xml" crc="330204051" mt="1514027833000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
@@ -63,7 +63,7 @@
     <file name="l_poi6ez42w.jpg" crc="132357744" ref="last-works"/>
     <file name="www.jpg" crc="4195517350" ref="sample-pack"/>
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
-    <file name="u2739-4.png" crc="4133641623" ref="sample-pack"/>
+    <file name="u2739-4.png" crc="452166372" ref="sample-pack"/>
     <file name="u2740-18.png" crc="4081080463" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
@@ -101,7 +101,7 @@
   <file name="albums.html" crc="4233529224" mt="1514027521853" redirect="true"/>
   <file name="last-works.html" crc="194432452" mt="1514025171382" redirect="true"/>
   <file name="mixes.html" crc="3902292984" mt="1514027787919" redirect="true"/>
-  <file name="sample-pack.html" crc="3959797779" mt="1514027652754" redirect="true"/>
+  <file name="sample-pack.html" crc="192284519" mt="1514027984898" redirect="true"/>
   <file name="remix-packs.html" crc="4022732728" mt="1514026019373" redirect="true"/>
   <file name="compilation.html" crc="396571507" mt="1514027618852" redirect="true"/>
 </manifest>

@@ -386,7 +386,7 @@
 {
 	width: 0.01px;
 	margin-left: 260px;
-	margin-top: 47px;
+	margin-top: 41px;
 	position: relative;
 }
 
@@ -403,6 +403,7 @@
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u1618
@@ -422,7 +423,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 4px;
+	margin-top: 10px;
 	position: relative;
 }
 
@@ -430,7 +431,7 @@
 {
 	width: 0.01px;
 	margin-left: 230px;
-	margin-top: 23px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -438,7 +439,7 @@
 {
 	z-index: 16;
 	width: 739px;
-	min-height: 42px;
+	min-height: 51px;
 	text-align: center;
 	line-height: 58px;
 	color: #00FFFF;
@@ -447,6 +448,7 @@
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u1620
@@ -467,23 +469,23 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 4px;
+	margin-top: 10px;
 	position: relative;
 }
 
 #pu1615-4
 {
 	width: 0.01px;
-	margin-left: 82px;
-	margin-top: 22px;
+	margin-left: 46px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u1615-4
 {
 	z-index: 20;
-	width: 1032px;
-	min-height: 42px;
+	width: 1083px;
+	min-height: 52px;
 	text-align: center;
 	line-height: 58px;
 	color: #00FFFF;
@@ -492,6 +494,7 @@
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u1622
@@ -501,7 +504,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 1053px;
+	left: 1090px;
 }
 
 #u1458:hover,#u1620:hover,#u1622:hover
@@ -518,7 +521,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 5px;
+	margin-top: 11px;
 	position: relative;
 }
 
