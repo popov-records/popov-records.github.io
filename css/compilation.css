@@ -49,15 +49,6 @@
 {
 	z-index: 86;
 	width: 1200px;
-	background: #000000 url("../images/u4065-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(20%, #FFFFFF),to(#000000));
-	background: -webkit-linear-gradient(top,#FFFFFF 20%,#000000 );
-	background: -moz-linear-gradient(top,#FFFFFF 20%,#000000 );
-	background: -ms-linear-gradient(top,#FFFFFF 20%,#000000 );
-	background: -o-linear-gradient(top,#FFFFFF 20%,#000000 );
-	background: linear-gradient(to bottom,#FFFFFF 20%,#000000 );
-	border-style: none;
-	border-color: transparent;
 	position: fixed;
 	top: 157px;
 	left: 0px;
