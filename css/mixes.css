@@ -15,7 +15,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 500px;
+	min-height: 499.95447614806517px;
 	background: #000000 url("../images/u1327-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(20%, #000000),to(#000000));
 	background: -webkit-linear-gradient(top,#000000 20%,#000000 );
@@ -26,6 +26,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -342,7 +343,7 @@
 	z-index: 15;
 	background: url("../images/u1694_states.png") no-repeat 0px 0px;
 	margin-left: 48px;
-	margin-top: 58px;
+	margin-top: 54px;
 	position: relative;
 }
 
@@ -388,7 +389,7 @@
 	display: block;
 	vertical-align: top;
 	left: -80px;
-	margin-top: 113px;
+	margin-top: 91px;
 	position: relative;
 }
 
@@ -396,7 +397,7 @@
 {
 	width: 0.01px;
 	left: -1px;
-	margin-top: 123px;
+	margin-top: 105px;
 	position: relative;
 }
 
@@ -418,7 +419,8 @@
 	width: 1200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 204px;
+	margin-top: 244px;
+	left: 1px;
 }
 
 #u1721-5
@@ -426,7 +428,7 @@
 	z-index: 29;
 	display: block;
 	vertical-align: top;
-	margin-top: 32px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -460,7 +462,7 @@
 	display: block;
 	vertical-align: top;
 	left: -80px;
-	margin-top: 97px;
+	margin-top: 101px;
 	position: relative;
 }
 
@@ -468,11 +470,11 @@
 {
 	z-index: 42;
 	width: 1201px;
-	min-height: 171px;
+	min-height: 210px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 98px;
+	margin-top: 101px;
 	position: relative;
 }
 

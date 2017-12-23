@@ -331,17 +331,17 @@
 #pu2737
 {
 	width: 0.01px;
-	margin-top: 64px;
+	margin-top: 58px;
 	position: relative;
 }
 
 #u2737
 {
 	z-index: 8;
-	width: 569px;
+	width: 581px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 16px;
+	margin-top: 10px;
 }
 
 #u2740-18
@@ -351,7 +351,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: 627px;
+	left: 614px;
 }
 
 #buttonu2741
@@ -365,21 +365,21 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 30px;
-	margin-left: 450px;
-	margin-top: 103px;
+	margin-left: 451px;
+	margin-top: 116px;
 	position: relative;
 }
 
 #buttonu2741:hover
 {
 	background-color: #00FFFF;
-	margin: 103px 0px 0px 450px;
+	margin: 116px 0px 0px 451px;
 }
 
 #buttonu2741.ButtonSelected
 {
 	background-color: #00FF00;
-	margin: 103px 0px 0px 450px;
+	margin: 116px 0px 0px 451px;
 }
 
 #u2742
@@ -398,6 +398,16 @@
 #buttonu2741:hover #u2742
 {
 	background: url("../images/u2742-r.png") no-repeat 0px 0px;
+}
+
+#u4059-3
+{
+	z-index: 79;
+	width: 76px;
+	min-height: 25px;
+	margin-left: 570px;
+	margin-top: 102px;
+	position: relative;
 }
 
 body

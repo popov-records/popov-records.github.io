@@ -6,13 +6,13 @@
     <file name="remix-packs.css" crc="308879756" ref="remix-packs"/>
     <file name="mixes.css" crc="4153390526" ref="mixes"/>
     <file name="last-works.css" crc="3767718141" ref="last-works"/>
-    <file name="albums.css" crc="86296166" ref="albums"/>
+    <file name="albums.css" crc="3869040562" ref="albums"/>
     <file name="compilation.css" crc="4222448090" ref="compilation"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="4162130204" mt="1514010994000"/>
-    <file name="muse_manifest.xml" crc="3947704614" mt="1514010994000"/>
-    <file name="sitemap.xml" crc="3886829037" mt="1514010994000"/>
+    <file name="muse_manifest.xml" crc="4033422476" mt="1514011077000"/>
+    <file name="sitemap.xml" crc="3886829037" mt="1514011077000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
@@ -70,7 +70,7 @@
     <file name="u2742.png" crc="4176100769" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
     <file name="u1669-5.png" crc="255158905" ref="albums"/>
-    <file name="u1650-5.png" crc="14565115" ref="albums"/>
+    <file name="u1650-5.png" crc="28279764" ref="albums"/>
     <file name="u1657-5.png" crc="316574417" ref="albums"/>
     <file name="u1707-5.png" crc="4064692062" ref="mixes"/>
     <file name="u1693-8.png" crc="3761288013" ref="mixes"/>
@@ -82,7 +82,7 @@
     <file name="u3814.png" crc="467847281" ref="compilation"/>
     <file name="u3814-r.png" crc="308293067" ref="compilation"/>
     <file name="000.jpg" crc="3780331470" ref="compilation"/>
-    <file name="u1283-grad.png" crc="4160479679" ref="albums"/>
+    <file name="u1283-grad.png" crc="4012777992" ref="albums"/>
     <file name="u1305-grad.png" crc="3797077693" ref="last-works"/>
     <file name="u1327-grad.png" crc="390445368" ref="mixes"/>
     <file name="u2271-grad.png" crc="175311561" ref="remix-packs"/>
@@ -92,7 +92,7 @@
     <file name="u3812-53.png" crc="374574896" ref="compilation"/>
   </folder>
   <file name="index.html" crc="93250867" mt="1514010930608" redirect="true"/>
-  <file name="albums.html" crc="292029866" mt="1514010796919" redirect="true"/>
+  <file name="albums.html" crc="4026446587" mt="1514022420987" redirect="true"/>
   <file name="last-works.html" crc="152623097" mt="1514010731819" redirect="true"/>
   <file name="mixes.html" crc="481563217" mt="1514010710064" redirect="true"/>
   <file name="sample-pack.html" crc="352074233" mt="1514010639801" redirect="true"/>
