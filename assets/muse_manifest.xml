@@ -10,9 +10,9 @@
     <file name="compilation.css" crc="4222448090" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4269894504" mt="1514008004000"/>
-    <file name="muse_manifest.xml" crc="4069570020" mt="1514010855000"/>
-    <file name="sitemap.xml" crc="3886829037" mt="1514010855000"/>
+    <file name="index.html" crc="4162130204" mt="1514010994000"/>
+    <file name="muse_manifest.xml" crc="3947704614" mt="1514010994000"/>
+    <file name="sitemap.xml" crc="3886829037" mt="1514010994000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
