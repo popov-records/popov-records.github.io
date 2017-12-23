@@ -3,13 +3,13 @@
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4189393052" ref="index"/>
     <file name="sample-pack.css" crc="4102149368" ref="sample-pack"/>
-    <file name="albums.css" crc="4059844939" ref="albums"/>
+    <file name="albums.css" crc="3860543144" ref="albums"/>
     <file name="compilation.css" crc="527264414" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4249155768" mt="1514037764000"/>
-    <file name="muse_manifest.xml" crc="3823948739" mt="1514037764000"/>
-    <file name="sitemap.xml" crc="4077106428" mt="1514037764000"/>
+    <file name="index.html" crc="3953024756" mt="1514039448000"/>
+    <file name="muse_manifest.xml" crc="4041900178" mt="1514039448000"/>
+    <file name="sitemap.xml" crc="306847236" mt="1514039448000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack:compilation"/>
@@ -76,7 +76,7 @@
     <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr.png" crc="3993119960" ref="index"/>
     <file name="88.png" crc="4233948516" ref="index"/>
     <file name="u1653-29.png" crc="307732620" ref="albums"/>
-    <file name="u4449-23.png" crc="3921729257" ref="albums"/>
+    <file name="u4449-23.png" crc="4007751222" ref="albums"/>
     <file name="u4555-grad.png" crc="3844420172" ref="albums:index:sample-pack:compilation"/>
     <file name="u4555-r-grad.png" crc="456166129" ref="albums:index:sample-pack:compilation"/>
     <file name="u4555-m-grad.png" crc="87360521" ref="albums:index:sample-pack:compilation"/>
@@ -97,7 +97,7 @@
     <file name="u4517-r.png" crc="4243895445" ref="albums"/>
   </folder>
   <file name="index.html" crc="431155731" mt="1514039200482" redirect="true"/>
-  <file name="albums.html" crc="4064835983" mt="1514039145778" redirect="true"/>
-  <file name="sample-pack.html" crc="98609039" mt="1514039446484" redirect="true"/>
-  <file name="compilation.html" crc="191111003" mt="1514039447283" redirect="true"/>
+  <file name="albums.html" crc="421101949" mt="1514040177512" redirect="true"/>
+  <file name="sample-pack.html" crc="98609039" mt="1514040233117" redirect="true"/>
+  <file name="compilation.html" crc="191111003" mt="1514040233849" redirect="true"/>
 </manifest>
