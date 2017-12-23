@@ -325,7 +325,8 @@
 	z-index: 22;
 	display: block;
 	vertical-align: top;
-	margin-top: 14px;
+	left: -9px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -334,7 +335,7 @@
 	z-index: 6;
 	display: block;
 	vertical-align: top;
-	margin-top: 40px;
+	margin-top: 31px;
 	position: relative;
 }
 
@@ -428,14 +429,15 @@
 	z-index: 29;
 	display: block;
 	vertical-align: top;
-	margin-top: 33px;
+	left: -9px;
+	margin-top: 24px;
 	position: relative;
 }
 
 #pu1722
 {
 	width: 0.01px;
-	margin-top: 84px;
+	margin-top: 75px;
 	position: relative;
 }
 
