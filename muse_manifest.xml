@@ -1,40 +1,30 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4130080278" ref="index"/>
-    <file name="sample-pack.css" crc="90404602" ref="sample-pack"/>
-    <file name="remix-packs.css" crc="425794823" ref="remix-packs"/>
-    <file name="mixes.css" crc="149486426" ref="mixes"/>
-    <file name="last-works.css" crc="440483476" ref="last-works"/>
-    <file name="albums.css" crc="3970226640" ref="albums"/>
-    <file name="compilation.css" crc="4234079960" ref="compilation"/>
+    <file name="index.css" crc="4294607063" ref="index"/>
+    <file name="sample-pack.css" crc="169537768" ref="sample-pack"/>
+    <file name="albums.css" crc="505984646" ref="albums"/>
+    <file name="compilation.css" crc="4088817164" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3760988189" mt="1514024124000"/>
-    <file name="muse_manifest.xml" crc="504340161" mt="1514028013000"/>
-    <file name="sitemap.xml" crc="330204051" mt="1514028013000"/>
+    <file name="index.html" crc="4243873622" mt="1514034609000"/>
+    <file name="muse_manifest.xml" crc="4253288097" mt="1514034609000"/>
+    <file name="sitemap.xml" crc="521689613" mt="1514034609000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
-    <file name="museutils.js" crc="3880880085" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="albums:last-works:mixes:sample-pack:index:remix-packs:compilation"/>
-    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
-    <file name="pie.js" crc="4147615982" ref="remix-packs:sample-pack:compilation"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack:compilation"/>
+    <file name="museutils.js" crc="3880880085" ref="index:albums:sample-pack:compilation"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:albums:sample-pack:compilation"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="albums:sample-pack:index:compilation"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:sample-pack:compilation"/>
+    <file name="pie.js" crc="4147615982" ref="sample-pack:compilation"/>
   </folder>
   <folder name="images">
-    <file name="facebook-logo.png" crc="271883350" ref="index"/>
-    <file name="777.png" crc="224647079" ref="index"/>
-    <file name="88.png" crc="4233948516" ref="index"/>
     <file name="popov records )).jpg" crc="8539428" ref="albums"/>
-    <file name="blank.gif" crc="4208392903" ref="albums:mixes:remix-packs:sample-pack:compilation"/>
+    <file name="blank.gif" crc="4208392903" ref="albums:sample-pack:compilation:index"/>
     <file name="12140751_1503093500011026_7684575516008352364_n.jpg" crc="4267688531" ref="albums"/>
     <file name="8q3ydfzskfw.jpg" crc="3985480081" ref="albums"/>
-    <file name="551158359.png" crc="3950555478" ref="mixes"/>
-    <file name="551158740.jpg" crc="3847884155" ref="mixes"/>
-    <file name="7772.png" crc="3924387619" ref="index"/>
-    <file name="0001.png" crc="4110672584" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
-    <file name="image13.png" crc="129562499" ref="last-works"/>
+    <file name="0001.png" crc="4110672584" ref="index:albums:sample-pack:compilation"/>
     <file name="u1643-4.png" crc="3913076786" ref="albums"/>
     <file name="u1637_states.png" crc="193129378" ref="albums"/>
     <file name="u1637_states-m.png" crc="4067733390" ref="albums"/>
@@ -43,24 +33,7 @@
     <file name="u1659_states.png" crc="440897176" ref="albums"/>
     <file name="u1659_states-m.png" crc="3977981578" ref="albums"/>
     <file name="u1681-4.png" crc="110500383" ref="albums"/>
-    <file name="u1628-4.png" crc="472176686" ref="last-works"/>
-    <file name="u1687-4.png" crc="485683911" ref="mixes"/>
-    <file name="u1694_states.png" crc="423529576" ref="mixes"/>
-    <file name="u1694_states-r.png" crc="156005929" ref="mixes"/>
-    <file name="561191229.png" crc="261594939" ref="mixes"/>
-    <file name="iio.jpg" crc="392908828" ref="mixes"/>
-    <file name="u1730-4.png" crc="4268868203" ref="mixes"/>
     <file name="popov-records-favicon.ico" crc="34260875" ref="index"/>
-    <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr.png" crc="3993119960" ref="index"/>
-    <file name="u2320-4.png" crc="4152076436" ref="remix-packs"/>
-    <file name="u2385-4.png" crc="3941251421" ref="remix-packs"/>
-    <file name="u2386-4.png" crc="3861774655" ref="remix-packs"/>
-    <file name="ppp.jpg" crc="344698225" ref="remix-packs"/>
-    <file name="u2482.png" crc="467847281" ref="remix-packs"/>
-    <file name="u2482-r.png" crc="308293067" ref="remix-packs"/>
-    <file name="u2489.png" crc="467847281" ref="remix-packs"/>
-    <file name="u2489-r.png" crc="308293067" ref="remix-packs"/>
-    <file name="l_poi6ez42w.jpg" crc="132357744" ref="last-works"/>
     <file name="www.jpg" crc="4195517350" ref="sample-pack"/>
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
     <file name="u2739-4.png" crc="452166372" ref="sample-pack"/>
@@ -69,39 +42,61 @@
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
     <file name="u1650-5.png" crc="221951957" ref="albums"/>
     <file name="u1657-5.png" crc="249804073" ref="albums"/>
-    <file name="u1707-5.png" crc="399670109" ref="mixes"/>
-    <file name="u1693-8.png" crc="42636807" ref="mixes"/>
-    <file name="u3309-4.png" crc="4135307419" ref="mixes"/>
-    <file name="u1721-5.png" crc="29922991" ref="mixes"/>
     <file name="u3804-4.png" crc="4089443788" ref="compilation"/>
-    <file name="u3808-4.png" crc="337579220" ref="compilation"/>
+    <file name="u3808-4.png" crc="209480676" ref="compilation"/>
     <file name="u3809-8.png" crc="36968505" ref="compilation"/>
     <file name="u3814.png" crc="185732887" ref="compilation"/>
     <file name="u3814-r.png" crc="308293067" ref="compilation"/>
     <file name="000.jpg" crc="3780331470" ref="compilation"/>
     <file name="u1283-grad.png" crc="5138970" ref="albums"/>
-    <file name="u1305-grad.png" crc="4282246746" ref="last-works"/>
-    <file name="u1327-grad.png" crc="334497137" ref="mixes"/>
-    <file name="u2271-grad.png" crc="175311561" ref="remix-packs"/>
-    <file name="77570x571.jpg" crc="482143195" ref="remix-packs"/>
     <file name="u2678-grad.png" crc="316587672" ref="sample-pack"/>
     <file name="u3701-grad.png" crc="3780795764" ref="compilation"/>
     <file name="u3812-53.png" crc="374574896" ref="compilation"/>
     <file name="u1669-6.png" crc="261892493" ref="albums"/>
-    <file name="u2480-grad.png" crc="4182292476" ref="remix-packs"/>
-    <file name="u2480-r-grad.png" crc="517546829" ref="remix-packs"/>
-    <file name="u2488-grad.png" crc="4137151965" ref="remix-packs"/>
-    <file name="u2488-r-grad.png" crc="4239344688" ref="remix-packs"/>
     <file name="u2741-grad.png" crc="4173427513" ref="sample-pack"/>
     <file name="u2741-r-grad.png" crc="477634280" ref="sample-pack"/>
     <file name="u3813-grad.png" crc="21736450" ref="compilation"/>
     <file name="u3813-r-grad.png" crc="3762327519" ref="compilation"/>
+    <file name="777-u1813.png" crc="4236153561" ref="index"/>
+    <file name="u1876-4-a.png" crc="4215720195" ref="index"/>
+    <file name="u1871.png" crc="303640603" ref="index"/>
+    <file name="u1871-a.png" crc="303640603" ref="index"/>
+    <file name="u2706.png" crc="4208491228" ref="index"/>
+    <file name="u2706-a.png" crc="4208491228" ref="index"/>
+    <file name="u3772.png" crc="64903406" ref="index"/>
+    <file name="u3772-a.png" crc="64903406" ref="index"/>
+    <file name="u4096-grad.png" crc="3844420172" ref="albums:sample-pack:compilation:index"/>
+    <file name="u4096-r-grad.png" crc="456166129" ref="albums:sample-pack:compilation:index"/>
+    <file name="u4096-m-grad.png" crc="87360521" ref="albums:sample-pack:compilation:index"/>
+    <file name="u4098.png" crc="4215720195" ref="albums"/>
+    <file name="u4098-a.png" crc="4215720195" ref="albums"/>
+    <file name="u4106-4-a.png" crc="303640603" ref="albums"/>
+    <file name="u4089.png" crc="4208491228" ref="albums"/>
+    <file name="u4089-a.png" crc="4208491228" ref="albums"/>
+    <file name="u4112.png" crc="64903406" ref="albums"/>
+    <file name="u4112-a.png" crc="64903406" ref="albums"/>
+    <file name="u4350.png" crc="4215720195" ref="sample-pack"/>
+    <file name="u4350-a.png" crc="4215720195" ref="sample-pack"/>
+    <file name="u4358.png" crc="303640603" ref="sample-pack"/>
+    <file name="u4358-a.png" crc="303640603" ref="sample-pack"/>
+    <file name="u4341-4-a.png" crc="4208491228" ref="sample-pack"/>
+    <file name="u4364.png" crc="64903406" ref="sample-pack"/>
+    <file name="u4364-a.png" crc="64903406" ref="sample-pack"/>
+    <file name="u4413.png" crc="4215720195" ref="compilation"/>
+    <file name="u4413-a.png" crc="4215720195" ref="compilation"/>
+    <file name="u4421.png" crc="303640603" ref="compilation"/>
+    <file name="u4421-a.png" crc="303640603" ref="compilation"/>
+    <file name="u4404.png" crc="4208491228" ref="compilation"/>
+    <file name="u4404-a.png" crc="4208491228" ref="compilation"/>
+    <file name="u4427-4-a.png" crc="64903406" ref="compilation"/>
+    <file name="7772.png" crc="3924387619" ref="index"/>
+    <file name="facebook-logo.png" crc="271883350" ref="index"/>
+    <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr.png" crc="3993119960" ref="index"/>
+    <file name="u4065-grad.png" crc="4236907295" ref="albums:index:sample-pack:compilation"/>
+    <file name="88.png" crc="4233948516" ref="index"/>
   </folder>
-  <file name="index.html" crc="93250867" mt="1514024085496" redirect="true"/>
-  <file name="albums.html" crc="4233529224" mt="1514027521853" redirect="true"/>
-  <file name="last-works.html" crc="194432452" mt="1514028666755" redirect="true"/>
-  <file name="mixes.html" crc="3902292984" mt="1514027787919" redirect="true"/>
-  <file name="sample-pack.html" crc="192284519" mt="1514027984898" redirect="true"/>
-  <file name="remix-packs.html" crc="4022732728" mt="1514026019373" redirect="true"/>
-  <file name="compilation.html" crc="396571507" mt="1514027618852" redirect="true"/>
+  <file name="index.html" crc="3802608626" mt="1514034892194" redirect="true"/>
+  <file name="albums.html" crc="4166499595" mt="1514034891792" redirect="true"/>
+  <file name="sample-pack.html" crc="389353150" mt="1514034891877" redirect="true"/>
+  <file name="compilation.html" crc="165630807" mt="1514034891922" redirect="true"/>
 </manifest>
