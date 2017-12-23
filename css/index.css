@@ -112,20 +112,20 @@
 #u1875
 {
 	width: 298px;
-	background: #000000 url("../images/u4096-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 72px;
+	padding-bottom: 58px;
 	position: relative;
 }
 
 #u1875.MuseMenuActive
 {
-	background: #000000 url("../images/u4096-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -139,7 +139,7 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	top: 36px;
+	top: 29px;
 	left: 0px;
 }
 
@@ -147,7 +147,7 @@
 {
 	overflow: hidden;
 	width: 298px;
-	height: 22px;
+	height: 36px;
 	vertical-align: top;
 }
 
@@ -168,20 +168,20 @@
 #u1870
 {
 	width: 298px;
-	background: #000000 url("../images/u4096-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 72px;
+	padding-bottom: 58px;
 	position: relative;
 }
 
 #u1870:hover
 {
-	background: #000000 url("../images/u4096-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FFFF),to(#000000));
 	background: -webkit-linear-gradient(top,#00FFFF 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FFFF 46%,#000000 );
@@ -193,7 +193,7 @@
 
 #u1870:active
 {
-	background: #000000 url("../images/u4096-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 46%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 46%,#000000 );
@@ -205,13 +205,13 @@
 
 #u1871
 {
-	height: 22px;
+	height: 36px;
 	width: 298px;
 	vertical-align: top;
 	background: url("../images/u1871.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	top: 36px;
+	top: 29px;
 }
 
 #u1870.MuseMenuActive #u1871
@@ -231,20 +231,20 @@
 #u2703
 {
 	width: 299px;
-	background: #000000 url("../images/u4096-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 72px;
+	padding-bottom: 58px;
 	position: relative;
 }
 
 #u2703:hover
 {
-	background: #000000 url("../images/u4096-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FFFF),to(#000000));
 	background: -webkit-linear-gradient(top,#00FFFF 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FFFF 46%,#000000 );
@@ -256,7 +256,7 @@
 
 #u2703:active
 {
-	background: #000000 url("../images/u4096-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 46%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 46%,#000000 );
@@ -268,13 +268,13 @@
 
 #u2706
 {
-	height: 22px;
+	height: 36px;
 	width: 299px;
 	vertical-align: top;
 	background: url("../images/u2706.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	top: 36px;
+	top: 29px;
 }
 
 #u2703.MuseMenuActive #u2706
@@ -294,20 +294,20 @@
 #u3770
 {
 	width: 299px;
-	background: #000000 url("../images/u4096-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 72px;
+	padding-bottom: 58px;
 	position: relative;
 }
 
 #u3770:hover
 {
-	background: #000000 url("../images/u4096-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FFFF),to(#000000));
 	background: -webkit-linear-gradient(top,#00FFFF 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FFFF 46%,#000000 );
@@ -319,7 +319,7 @@
 
 #u3770:active
 {
-	background: #000000 url("../images/u4096-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4555-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 46%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 46%,#000000 );
@@ -331,13 +331,13 @@
 
 #u3772
 {
-	height: 22px;
+	height: 36px;
 	width: 299px;
 	vertical-align: top;
 	background: url("../images/u3772.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	top: 36px;
+	top: 29px;
 }
 
 #u3770.MuseMenuActive #u3772
