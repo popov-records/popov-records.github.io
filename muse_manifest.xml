@@ -1,18 +1,18 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4026864802" ref="index"/>
-    <file name="sample-pack.css" crc="67461358" ref="sample-pack"/>
-    <file name="remix-packs.css" crc="4215545813" ref="remix-packs"/>
-    <file name="mixes.css" crc="3852723761" ref="mixes"/>
-    <file name="last-works.css" crc="198873836" ref="last-works"/>
-    <file name="albums.css" crc="3860155484" ref="albums"/>
-    <file name="compilation.css" crc="14419039" ref="compilation"/>
+    <file name="index.css" crc="237908005" ref="index"/>
+    <file name="sample-pack.css" crc="42900316" ref="sample-pack"/>
+    <file name="remix-packs.css" crc="308879756" ref="remix-packs"/>
+    <file name="mixes.css" crc="4153390526" ref="mixes"/>
+    <file name="last-works.css" crc="3767718141" ref="last-works"/>
+    <file name="albums.css" crc="86296166" ref="albums"/>
+    <file name="compilation.css" crc="4222448090" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4269894504" mt="1514008004000"/>
-    <file name="muse_manifest.xml" crc="3930258560" mt="1514008249000"/>
-    <file name="sitemap.xml" crc="3886829037" mt="1514008249000"/>
+    <file name="index.html" crc="4162130204" mt="1514010994000"/>
+    <file name="muse_manifest.xml" crc="3947704614" mt="1514010994000"/>
+    <file name="sitemap.xml" crc="3886829037" mt="1514010994000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:last-works:mixes:sample-pack:remix-packs:compilation"/>
@@ -82,20 +82,20 @@
     <file name="u3814.png" crc="467847281" ref="compilation"/>
     <file name="u3814-r.png" crc="308293067" ref="compilation"/>
     <file name="000.jpg" crc="3780331470" ref="compilation"/>
-    <file name="u1283-grad.png" crc="4281150654" ref="albums"/>
-    <file name="u1305-grad.png" crc="530019976" ref="last-works"/>
-    <file name="u1327-grad.png" crc="179553870" ref="mixes"/>
-    <file name="u2271-grad.png" crc="4030073578" ref="remix-packs"/>
+    <file name="u1283-grad.png" crc="4160479679" ref="albums"/>
+    <file name="u1305-grad.png" crc="3797077693" ref="last-works"/>
+    <file name="u1327-grad.png" crc="390445368" ref="mixes"/>
+    <file name="u2271-grad.png" crc="175311561" ref="remix-packs"/>
     <file name="77570x571.jpg" crc="482143195" ref="remix-packs"/>
-    <file name="u2678-grad.png" crc="87362442" ref="sample-pack"/>
-    <file name="u3701-grad.png" crc="4184192930" ref="compilation"/>
+    <file name="u2678-grad.png" crc="3972981486" ref="sample-pack"/>
+    <file name="u3701-grad.png" crc="3993916639" ref="compilation"/>
     <file name="u3812-53.png" crc="374574896" ref="compilation"/>
   </folder>
-  <file name="index.html" crc="212969401" mt="1514007859892" redirect="true"/>
-  <file name="albums.html" crc="292029866" mt="1514007949270" redirect="true"/>
-  <file name="last-works.html" crc="152623097" mt="1514004885535" redirect="true"/>
-  <file name="mixes.html" crc="481563217" mt="1514004831786" redirect="true"/>
-  <file name="sample-pack.html" crc="352074233" mt="1514007756844" redirect="true"/>
-  <file name="remix-packs.html" crc="3960591694" mt="1514008155658" redirect="true"/>
-  <file name="compilation.html" crc="3960479949" mt="1514008505976" redirect="true"/>
+  <file name="index.html" crc="93250867" mt="1514010930608" redirect="true"/>
+  <file name="albums.html" crc="292029866" mt="1514010796919" redirect="true"/>
+  <file name="last-works.html" crc="152623097" mt="1514010731819" redirect="true"/>
+  <file name="mixes.html" crc="481563217" mt="1514010710064" redirect="true"/>
+  <file name="sample-pack.html" crc="352074233" mt="1514010639801" redirect="true"/>
+  <file name="remix-packs.html" crc="3960591694" mt="1514010680287" redirect="true"/>
+  <file name="compilation.html" crc="3960479949" mt="1514010591173" redirect="true"/>
 </manifest>
