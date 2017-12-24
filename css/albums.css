@@ -321,6 +321,13 @@
 	position: relative;
 }
 
+#pu1639-3
+{
+	width: 0.01px;
+	margin-top: 52px;
+	position: relative;
+}
+
 #u1639-3
 {
 	z-index: 58;
@@ -465,7 +472,7 @@
 #pu1651
 {
 	width: 0.01px;
-	margin-top: 6px;
+	margin-top: 13px;
 	position: relative;
 }
 
@@ -475,7 +482,6 @@
 	width: 584px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
 }
 
 #u1653-29
@@ -590,10 +596,10 @@
 	position: relative;
 }
 
-#pu1639-3,#pu1655
+#pu1655
 {
 	width: 0.01px;
-	margin-top: 52px;
+	margin-top: 57px;
 	position: relative;
 }
 
@@ -603,7 +609,7 @@
 	width: 586px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
+	margin-top: 25px;
 }
 
 #u4449-23
@@ -626,7 +632,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 104px;
+	margin-top: 99px;
 	position: relative;
 }
 
