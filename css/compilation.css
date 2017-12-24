@@ -72,7 +72,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 44px;
+	padding-bottom: 58px;
 	position: relative;
 }
 
@@ -102,7 +102,7 @@
 
 #u4413
 {
-	height: 50px;
+	height: 36px;
 	width: 298px;
 	vertical-align: top;
 	background: url("../images/u4413.png") no-repeat 0px 0px;
@@ -352,27 +352,27 @@
 #pu3896
 {
 	width: 0.01px;
-	top: -5px;
-	margin-bottom: -5px;
+	top: -8px;
+	margin-bottom: -8px;
 	position: relative;
 }
 
 #u3896
 {
 	z-index: 81;
-	width: 559px;
+	width: 586px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 67px;
+	margin-top: 70px;
 }
 
 #u3812-53
 {
 	z-index: 23;
 	position: relative;
-	width: 619px;
+	width: 585px;
 	margin-right: -10000px;
-	left: 588px;
+	left: 615px;
 }
 
 #u3809-8_img,#u3812-53_img
@@ -396,7 +396,7 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFFF0000', GradientType=0)";
 	border-style: none;
 	border-color: transparent;
-	margin-top: 56px;
+	margin-top: 26px;
 	position: relative;
 }
 
