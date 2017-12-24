@@ -349,7 +349,7 @@
 	color: #FFFFFF;
 	font-weight: bold;
 	margin-left: 237px;
-	margin-top: 60px;
+	margin-top: 42px;
 	position: relative;
 }
 
@@ -373,7 +373,7 @@
 	border-radius: 10px;
 	padding-bottom: 25px;
 	margin-left: 441px;
-	margin-top: 59px;
+	margin-top: 75px;
 	position: relative;
 }
 
@@ -388,7 +388,7 @@
 	background: linear-gradient(to bottom,#00FFFF 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 59px 0px 0px 441px;
+	margin: 75px 0px 0px 441px;
 }
 
 #buttonu4502.ButtonSelected
@@ -402,7 +402,7 @@
 	background: linear-gradient(to bottom,#00FF00 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 59px 0px 0px 441px;
+	margin: 75px 0px 0px 441px;
 }
 
 #u4504
@@ -427,7 +427,7 @@
 {
 	z-index: 110;
 	width: 1200px;
-	margin-top: 40px;
+	margin-top: 42px;
 	position: relative;
 }
 

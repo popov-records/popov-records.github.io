@@ -8,13 +8,13 @@
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/assets/muse_manifest.xml</loc>
-    <lastmod>2017-12-23</lastmod>
+    <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/assets/sitemap.xml</loc>
-    <lastmod>2017-12-23</lastmod>
+    <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -103,18 +103,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1650-5.png</loc>
-    <lastmod>2017-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1657-5.png</loc>
-    <lastmod>2017-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u3804-4.png</loc>
     <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,12 +158,6 @@
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u3812-53.png</loc>
-    <lastmod>2017-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1669-6.png</loc>
     <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -469,31 +451,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4348-grad.png</loc>
+    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1669-5.png</loc>
     <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4348-r-grad.png</loc>
+    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1650-4.png</loc>
     <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4348-m-grad.png</loc>
-    <lastmod>2017-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u2741-grad.png</loc>
-    <lastmod>2017-12-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u2741-r-grad.png</loc>
+    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1657-4.png</loc>
     <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -506,7 +476,7 @@
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/albums.html</loc>
-    <lastmod>2017-12-23</lastmod>
+    <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
