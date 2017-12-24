@@ -1,15 +1,15 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="3983832653"/>
+    <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4189393052" ref="index"/>
     <file name="sample-pack.css" crc="3994817480" ref="sample-pack"/>
-    <file name="albums.css" crc="3946129855" ref="albums"/>
+    <file name="albums.css" crc="3889002183" ref="albums"/>
     <file name="compilation.css" crc="446231253" ref="compilation"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="3953024756" mt="1514039448000"/>
-    <file name="muse_manifest.xml" crc="3952771892" mt="1514087461000"/>
-    <file name="sitemap.xml" crc="123183872" mt="1514087461000"/>
+    <file name="muse_manifest.xml" crc="61836996" mt="1514088979000"/>
+    <file name="sitemap.xml" crc="123183872" mt="1514088979000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack:compilation"/>
@@ -72,7 +72,7 @@
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
     <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr.png" crc="3993119960" ref="index"/>
     <file name="88.png" crc="4233948516" ref="index"/>
-    <file name="u1653-29.png" crc="307732620" ref="albums"/>
+    <file name="u1653-29.png" crc="12432899" ref="albums"/>
     <file name="u4449-23.png" crc="4007751222" ref="albums"/>
     <file name="u4555-grad.png" crc="3844420172" ref="albums:index:sample-pack:compilation"/>
     <file name="u4555-r-grad.png" crc="456166129" ref="albums:index:sample-pack:compilation"/>
@@ -97,7 +97,7 @@
     <file name="u1657-4.png" crc="463916906" ref="albums"/>
   </folder>
   <file name="index.html" crc="431155731" mt="1514039200482" redirect="true"/>
-  <file name="albums.html" crc="3982118032" mt="1514088855862" redirect="true"/>
+  <file name="albums.html" crc="3762313214" mt="1514109887346" redirect="true"/>
   <file name="sample-pack.html" crc="59771574" mt="1514088944607" redirect="true"/>
-  <file name="compilation.html" crc="272728037" mt="1514088978915" redirect="true"/>
+  <file name="compilation.html" crc="272728037" mt="1514109908153" redirect="true"/>
 </manifest>
