@@ -1,15 +1,15 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="4023935739"/>
+    <file name="site_global.css" crc="3983832653"/>
     <file name="index.css" crc="3782764604" ref="index"/>
-    <file name="sample-pack.css" crc="4062930858" ref="sample-pack"/>
-    <file name="albums.css" crc="4038817345" ref="albums"/>
-    <file name="compilation.css" crc="14769191" ref="compilation"/>
+    <file name="sample-pack.css" crc="348577387" ref="sample-pack"/>
+    <file name="albums.css" crc="4184832553" ref="albums"/>
+    <file name="compilation.css" crc="24032625" ref="compilation"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="4253272618" mt="1514122420000"/>
-    <file name="muse_manifest.xml" crc="4247376455" mt="1514122420000"/>
-    <file name="sitemap.xml" crc="4080525381" mt="1514122420000"/>
+    <file name="muse_manifest.xml" crc="308130897" mt="1517299506000"/>
+    <file name="sitemap.xml" crc="3865624284" mt="1517299506000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack:compilation"/>
@@ -39,7 +39,7 @@
     <file name="u3809-8.png" crc="4133271157" ref="compilation"/>
     <file name="u3814.png" crc="185732887" ref="compilation"/>
     <file name="u3814-r.png" crc="308293067" ref="compilation"/>
-    <file name="000.jpg" crc="3780331470" ref="compilation"/>
+    <file name="000.jpg" crc="3898443853" ref="compilation"/>
     <file name="u1283-grad.png" crc="4068201627" ref="albums"/>
     <file name="u2678-grad.png" crc="4009646547" ref="sample-pack"/>
     <file name="u3701-grad.png" crc="3780795764" ref="compilation"/>
@@ -74,16 +74,9 @@
     <file name="88.png" crc="4233948516" ref="index"/>
     <file name="u1653-29.png" crc="255053313" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
-    <file name="u4555-grad.png" crc="3844420172" ref="albums:index:sample-pack:compilation"/>
-    <file name="u4555-r-grad.png" crc="456166129" ref="albums:index:sample-pack:compilation"/>
-    <file name="u4555-m-grad.png" crc="87360521" ref="albums:index:sample-pack:compilation"/>
-    <file name="u4558.png" crc="1648249" ref="albums"/>
-    <file name="u4558-a.png" crc="1648249" ref="albums"/>
-    <file name="u4523-4-a.png" crc="201533613" ref="albums"/>
-    <file name="u4530.png" crc="4173222071" ref="albums"/>
-    <file name="u4530-a.png" crc="4173222071" ref="albums"/>
-    <file name="u4551.png" crc="366331285" ref="albums"/>
-    <file name="u4551-a.png" crc="366331285" ref="albums"/>
+    <file name="u4555-grad.png" crc="3844420172" ref="index"/>
+    <file name="u4555-r-grad.png" crc="456166129" ref="index"/>
+    <file name="u4555-m-grad.png" crc="87360521" ref="index"/>
     <file name="u4502-grad.png" crc="4173427513" ref="albums:sample-pack"/>
     <file name="u4502-r-grad.png" crc="477634280" ref="albums:sample-pack"/>
     <file name="u4504.png" crc="328100398" ref="albums"/>
@@ -95,9 +88,19 @@
     <file name="u1669-5.png" crc="4122041328" ref="albums"/>
     <file name="u1650-4.png" crc="3804319342" ref="albums"/>
     <file name="u1657-4.png" crc="463916906" ref="albums"/>
+    <file name="u4597-grad.png" crc="3844420172" ref="albums:sample-pack:compilation"/>
+    <file name="u4597-r-grad.png" crc="456166129" ref="albums:sample-pack:compilation"/>
+    <file name="u4597-m-grad.png" crc="87360521" ref="albums:sample-pack:compilation"/>
+    <file name="u4598.png" crc="1648249" ref="albums"/>
+    <file name="u4598-a.png" crc="1648249" ref="albums"/>
+    <file name="u4594-4-a.png" crc="201533613" ref="albums"/>
+    <file name="u4607.png" crc="4173222071" ref="albums"/>
+    <file name="u4607-a.png" crc="4173222071" ref="albums"/>
+    <file name="u4573.png" crc="366331285" ref="albums"/>
+    <file name="u4573-a.png" crc="366331285" ref="albums"/>
   </folder>
   <file name="index.html" crc="431155731" mt="1514121595447" redirect="true"/>
-  <file name="albums.html" crc="4157608239" mt="1514122999483" redirect="true"/>
-  <file name="sample-pack.html" crc="3806610671" mt="1514123065234" redirect="true"/>
-  <file name="compilation.html" crc="69468030" mt="1514122419741" redirect="true"/>
+  <file name="albums.html" crc="4033134801" mt="1519951578451" redirect="true"/>
+  <file name="sample-pack.html" crc="3916393441" mt="1519951638363" redirect="true"/>
+  <file name="compilation.html" crc="262721648" mt="1519951676821" redirect="true"/>
 </manifest>
