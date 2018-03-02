@@ -71,7 +71,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 44px;
+	padding-bottom: 58px;
 	position: relative;
 }
 
@@ -101,7 +101,7 @@
 
 #u4350
 {
-	height: 50px;
+	height: 36px;
 	width: 398px;
 	vertical-align: top;
 	background: url("../images/u4350.png") no-repeat 0px 0px;
@@ -278,9 +278,11 @@
 	z-index: 16;
 	display: block;
 	vertical-align: top;
+	margin-bottom: -9px;
 	position: relative;
 	margin-right: -10000px;
-	left: 617px;
+	margin-top: -9px;
+	left: 608px;
 }
 
 #buttonu2741

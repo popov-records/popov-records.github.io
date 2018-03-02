@@ -1,30 +1,29 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="319631617" ref="index"/>
-    <file name="sample-pack.css" crc="364924709" ref="sample-pack"/>
-    <file name="albums.css" crc="4184832553" ref="albums"/>
-    <file name="compilation.css" crc="3831258482" ref="compilation"/>
+    <file name="index.css" crc="389477257" ref="index"/>
+    <file name="sample-pack.css" crc="12787525" ref="sample-pack"/>
+    <file name="albums.css" crc="28775169" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="4083359916" mt="1520028002000"/>
-    <file name="muse_manifest.xml" crc="4079268363" mt="1520028385000"/>
-    <file name="sitemap.xml" crc="405997689" mt="1520028385000"/>
+    <file name="muse_manifest.xml" crc="205272040" mt="1520028400000"/>
+    <file name="sitemap.xml" crc="405997689" mt="1520028400000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack:compilation"/>
-    <file name="museutils.js" crc="3880880085" ref="index:albums:sample-pack:compilation"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:albums:sample-pack:compilation"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="albums:sample-pack:index:compilation"/>
-    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:sample-pack:compilation"/>
-    <file name="pie.js" crc="4147615982" ref="sample-pack:compilation:albums"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
+    <file name="museutils.js" crc="3880880085" ref="index:albums:sample-pack"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:albums:sample-pack"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="albums:sample-pack:index"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:sample-pack"/>
+    <file name="pie.js" crc="4147615982" ref="sample-pack:albums"/>
   </folder>
   <folder name="images">
     <file name="popov records )).jpg" crc="8539428" ref="albums"/>
-    <file name="blank.gif" crc="4208392903" ref="albums:sample-pack:compilation:index"/>
+    <file name="blank.gif" crc="4208392903" ref="albums:sample-pack:index"/>
     <file name="12140751_1503093500011026_7684575516008352364_n.jpg" crc="4267688531" ref="albums"/>
     <file name="8q3ydfzskfw.jpg" crc="3985480081" ref="albums"/>
-    <file name="0001.png" crc="4110672584" ref="albums:sample-pack:compilation"/>
+    <file name="0001.png" crc="4110672584" ref="albums:sample-pack"/>
     <file name="u1643-4.png" crc="3913076786" ref="albums"/>
     <file name="u1681-4.png" crc="110500383" ref="albums"/>
     <file name="popov-records-favicon.ico" crc="34260875" ref="index"/>
@@ -33,46 +32,26 @@
     <file name="u2740-18.png" crc="119950261" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
-    <file name="u3804-4.png" crc="4089443788" ref="compilation"/>
-    <file name="u3808-4.png" crc="460662686" ref="compilation"/>
-    <file name="u3814.png" crc="185732887" ref="compilation"/>
-    <file name="u3814-r.png" crc="308293067" ref="compilation"/>
-    <file name="000.jpg" crc="3898443853" ref="compilation"/>
     <file name="u1283-grad.png" crc="4068201627" ref="albums"/>
     <file name="u2678-grad.png" crc="4107687059" ref="sample-pack"/>
-    <file name="u3701-grad.png" crc="3780795764" ref="compilation"/>
-    <file name="u3812-53.png" crc="3876504664" ref="compilation"/>
-    <file name="u3813-grad.png" crc="21736450" ref="compilation"/>
-    <file name="u3813-r-grad.png" crc="3762327519" ref="compilation"/>
-    <file name="u1876-4-a.png" crc="1648249" ref="index"/>
-    <file name="u1871.png" crc="201533613" ref="index"/>
-    <file name="u1871-a.png" crc="201533613" ref="index"/>
-    <file name="u2706.png" crc="4173222071" ref="index"/>
-    <file name="u2706-a.png" crc="4173222071" ref="index"/>
-    <file name="u3772.png" crc="366331285" ref="index"/>
-    <file name="u3772-a.png" crc="366331285" ref="index"/>
-    <file name="u4350.png" crc="1648249" ref="sample-pack"/>
-    <file name="u4350-a.png" crc="4215720195" ref="sample-pack"/>
-    <file name="u4358.png" crc="201533613" ref="sample-pack"/>
-    <file name="u4358-a.png" crc="201533613" ref="sample-pack"/>
-    <file name="u4341-4-a.png" crc="4173222071" ref="sample-pack"/>
-    <file name="u4364.png" crc="366331285" ref="sample-pack"/>
-    <file name="u4364-a.png" crc="366331285" ref="sample-pack"/>
-    <file name="u4413.png" crc="1648249" ref="compilation"/>
-    <file name="u4413-a.png" crc="4215720195" ref="compilation"/>
-    <file name="u4421.png" crc="201533613" ref="compilation"/>
-    <file name="u4421-a.png" crc="201533613" ref="compilation"/>
-    <file name="u4404.png" crc="4173222071" ref="compilation"/>
-    <file name="u4404-a.png" crc="4173222071" ref="compilation"/>
-    <file name="u4427-4-a.png" crc="366331285" ref="compilation"/>
+    <file name="u1876-4-a.png" crc="4228722340" ref="index"/>
+    <file name="u1871.png" crc="3867685308" ref="index"/>
+    <file name="u1871-a.png" crc="3867685308" ref="index"/>
+    <file name="u2706.png" crc="4145397733" ref="index"/>
+    <file name="u2706-a.png" crc="4145397733" ref="index"/>
+    <file name="u4350.png" crc="4228722340" ref="sample-pack"/>
+    <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
+    <file name="u4358.png" crc="3867685308" ref="sample-pack"/>
+    <file name="u4358-a.png" crc="3867685308" ref="sample-pack"/>
+    <file name="u4341-4-a.png" crc="4145397733" ref="sample-pack"/>
     <file name="7772.png" crc="3924387619" ref="index"/>
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
     <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr.png" crc="3993119960" ref="index"/>
     <file name="88.png" crc="4233948516" ref="index"/>
     <file name="u1653-29.png" crc="255053313" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
-    <file name="u4502-grad.png" crc="4173427513" ref="albums"/>
-    <file name="u4502-r-grad.png" crc="477634280" ref="albums"/>
+    <file name="u4502-grad.png" crc="4173427513" ref="albums:sample-pack"/>
+    <file name="u4502-r-grad.png" crc="477634280" ref="albums:sample-pack"/>
     <file name="u4504.png" crc="328100398" ref="albums"/>
     <file name="u4504-r.png" crc="4243895445" ref="albums"/>
     <file name="u4514.png" crc="328100398" ref="albums"/>
@@ -82,29 +61,18 @@
     <file name="u1669-5.png" crc="4122041328" ref="albums"/>
     <file name="u1650-4.png" crc="3804319342" ref="albums"/>
     <file name="u1657-4.png" crc="463916906" ref="albums"/>
-    <file name="u4597-grad.png" crc="3844420172" ref="albums"/>
-    <file name="u4597-r-grad.png" crc="456166129" ref="albums"/>
-    <file name="u4597-m-grad.png" crc="87360521" ref="albums"/>
-    <file name="u4598.png" crc="1648249" ref="albums"/>
-    <file name="u4598-a.png" crc="1648249" ref="albums"/>
-    <file name="u4594-4-a.png" crc="201533613" ref="albums"/>
-    <file name="u4607.png" crc="4173222071" ref="albums"/>
-    <file name="u4607-a.png" crc="4173222071" ref="albums"/>
-    <file name="u4573.png" crc="366331285" ref="albums"/>
-    <file name="u4573-a.png" crc="366331285" ref="albums"/>
+    <file name="u4597-grad.png" crc="3844420172" ref="albums:index:sample-pack"/>
+    <file name="u4597-r-grad.png" crc="456166129" ref="albums:index:sample-pack"/>
+    <file name="u4597-m-grad.png" crc="87360521" ref="albums:index:sample-pack"/>
+    <file name="u4598.png" crc="4228722340" ref="albums"/>
+    <file name="u4598-a.png" crc="4228722340" ref="albums"/>
+    <file name="u4594-4-a.png" crc="3867685308" ref="albums"/>
+    <file name="u4607.png" crc="4145397733" ref="albums"/>
+    <file name="u4607-a.png" crc="4145397733" ref="albums"/>
     <file name="u2739-6.png" crc="69918167" ref="sample-pack"/>
-    <file name="u2741-grad.png" crc="4173427513" ref="sample-pack"/>
-    <file name="u2741-r-grad.png" crc="477634280" ref="sample-pack"/>
     <file name="777.png" crc="224647079" ref="index"/>
-    <file name="u1875-grad.png" crc="3844420172" ref="index"/>
-    <file name="u1870-r-grad.png" crc="456166129" ref="index"/>
-    <file name="u1870-m-grad.png" crc="87360521" ref="index"/>
-    <file name="u4348-grad.png" crc="3844420172" ref="sample-pack:compilation"/>
-    <file name="u4348-r-grad.png" crc="456166129" ref="sample-pack:compilation"/>
-    <file name="u4348-m-grad.png" crc="87360521" ref="sample-pack:compilation"/>
   </folder>
-  <file name="index.html" crc="68432945" mt="1520027907796" redirect="true"/>
-  <file name="albums.html" crc="4033134801" mt="1519951578451" redirect="true"/>
-  <file name="sample-pack.html" crc="257688399" mt="1520028398460" redirect="true"/>
-  <file name="compilation.html" crc="140797615" mt="1520028385274" redirect="true"/>
+  <file name="index.html" crc="223460864" mt="1520028511178" redirect="true"/>
+  <file name="albums.html" crc="164799275" mt="1520028511268" redirect="true"/>
+  <file name="sample-pack.html" crc="462318432" mt="1520028538121" redirect="true"/>
 </manifest>
