@@ -117,7 +117,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 58px;
+	padding-bottom: 51px;
 	position: relative;
 }
 
@@ -137,7 +137,7 @@
 {
 	position: relative;
 	margin-right: -10000px;
-	top: 29px;
+	top: 25px;
 	left: 0px;
 }
 
@@ -145,7 +145,7 @@
 {
 	overflow: hidden;
 	width: 398px;
-	height: 36px;
+	height: 43px;
 	vertical-align: top;
 }
 
@@ -173,7 +173,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 58px;
+	padding-bottom: 51px;
 	position: relative;
 }
 
@@ -203,13 +203,13 @@
 
 #u1871
 {
-	height: 36px;
+	height: 43px;
 	width: 399px;
 	vertical-align: top;
 	background: url("../images/u1871.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	top: 29px;
+	top: 25px;
 }
 
 #u1870.MuseMenuActive #u1871
@@ -236,7 +236,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 58px;
+	padding-bottom: 51px;
 	position: relative;
 }
 
@@ -266,13 +266,13 @@
 
 #u2706
 {
-	height: 36px;
+	height: 43px;
 	width: 399px;
 	vertical-align: top;
 	background: url("../images/u2706.png") no-repeat 0px 0px;
 	position: relative;
 	margin-right: -10000px;
-	top: 29px;
+	top: 25px;
 }
 
 #u2703.MuseMenuActive #u2706
