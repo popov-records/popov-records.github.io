@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="389477257" ref="index"/>
-    <file name="sample-pack.css" crc="12787525" ref="sample-pack"/>
-    <file name="albums.css" crc="28775169" ref="albums"/>
+    <file name="index.css" crc="4229374837" ref="index"/>
+    <file name="sample-pack.css" crc="3853324241" ref="sample-pack"/>
+    <file name="albums.css" crc="514491921" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4083359916" mt="1520028002000"/>
-    <file name="muse_manifest.xml" crc="205272040" mt="1520028400000"/>
-    <file name="sitemap.xml" crc="405997689" mt="1520028400000"/>
+    <file name="index.html" crc="4241940680" mt="1520028539000"/>
+    <file name="muse_manifest.xml" crc="308049745" mt="1520028539000"/>
+    <file name="sitemap.xml" crc="4173441738" mt="1520028539000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -29,7 +29,7 @@
     <file name="popov-records-favicon.ico" crc="34260875" ref="index"/>
     <file name="www.jpg" crc="4195517350" ref="sample-pack"/>
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
-    <file name="u2740-18.png" crc="119950261" ref="sample-pack"/>
+    <file name="u2740-18.png" crc="304570379" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
     <file name="u1283-grad.png" crc="4068201627" ref="albums"/>
@@ -46,8 +46,6 @@
     <file name="u4341-4-a.png" crc="4145397733" ref="sample-pack"/>
     <file name="7772.png" crc="3924387619" ref="index"/>
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
-    <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr.png" crc="3993119960" ref="index"/>
-    <file name="88.png" crc="4233948516" ref="index"/>
     <file name="u1653-29.png" crc="255053313" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
     <file name="u4502-grad.png" crc="4173427513" ref="albums:sample-pack"/>
@@ -71,8 +69,11 @@
     <file name="u4607-a.png" crc="4145397733" ref="albums"/>
     <file name="u2739-6.png" crc="69918167" ref="sample-pack"/>
     <file name="777.png" crc="224647079" ref="index"/>
+    <file name="giphy.gif" crc="97587039" ref="index"/>
+    <file name="88-u1807.png" crc="141448167" ref="index"/>
+    <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr-u2621.png" crc="4243386131" ref="index"/>
   </folder>
-  <file name="index.html" crc="223460864" mt="1520028511178" redirect="true"/>
-  <file name="albums.html" crc="164799275" mt="1520028511268" redirect="true"/>
-  <file name="sample-pack.html" crc="462318432" mt="1520028538121" redirect="true"/>
+  <file name="index.html" crc="3875533087" mt="1520031462068" redirect="true"/>
+  <file name="albums.html" crc="164799275" mt="1520031383500" redirect="true"/>
+  <file name="sample-pack.html" crc="119575714" mt="1520031384852" redirect="true"/>
 </manifest>
