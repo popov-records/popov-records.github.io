@@ -56,7 +56,7 @@
 
 #u4596
 {
-	width: 298px;
+	width: 398px;
 	min-height: 94px;
 	position: relative;
 	margin-right: -10000px;
@@ -64,7 +64,7 @@
 
 #u4597
 {
-	width: 298px;
+	width: 398px;
 	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
@@ -103,7 +103,7 @@
 #u4598
 {
 	height: 36px;
-	width: 298px;
+	width: 398px;
 	vertical-align: top;
 	background: url("../images/u4598.png") no-repeat 0px 0px;
 	position: relative;
@@ -118,16 +118,16 @@
 
 #u4589
 {
-	width: 298px;
+	width: 399px;
 	min-height: 94px;
 	position: relative;
 	margin-right: -10000px;
-	left: 300px;
+	left: 400px;
 }
 
 #u4592
 {
-	width: 298px;
+	width: 399px;
 	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
@@ -162,7 +162,7 @@
 #u4594-4_clip
 {
 	overflow: hidden;
-	width: 298px;
+	width: 399px;
 	height: 36px;
 	vertical-align: top;
 }
@@ -174,16 +174,16 @@
 
 #u4603
 {
-	width: 299px;
+	width: 399px;
 	min-height: 94px;
 	position: relative;
 	margin-right: -10000px;
-	left: 600px;
+	left: 801px;
 }
 
 #u4604
 {
-	width: 299px;
+	width: 399px;
 	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
@@ -222,7 +222,7 @@
 #u4607
 {
 	height: 36px;
-	width: 299px;
+	width: 399px;
 	vertical-align: top;
 	background: url("../images/u4607.png") no-repeat 0px 0px;
 	position: relative;
@@ -233,69 +233,6 @@
 #u4604.MuseMenuActive #u4607
 {
 	background: url("../images/u4607-a.png") no-repeat 0px 0px;
-}
-
-#u4568
-{
-	width: 299px;
-	min-height: 94px;
-	position: relative;
-	margin-right: -10000px;
-	left: 901px;
-}
-
-#u4571
-{
-	width: 299px;
-	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
-	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
-	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
-	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
-	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
-	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 58px;
-	position: relative;
-}
-
-#u4571:hover
-{
-	background: #000000 url("../images/u4597-r-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FFFF),to(#000000));
-	background: -webkit-linear-gradient(top,#00FFFF 46%,#000000 );
-	background: -moz-linear-gradient(top,#00FFFF 46%,#000000 );
-	background: -ms-linear-gradient(top,#00FFFF 46%,#000000 );
-	background: -o-linear-gradient(top,#00FFFF 46%,#000000 );
-	background: linear-gradient(to bottom,#00FFFF 46%,#000000 );
-	margin: 0px;
-}
-
-#u4571:active
-{
-	background: #000000 url("../images/u4597-m-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #6B6B6B),to(#000000));
-	background: -webkit-linear-gradient(top,#6B6B6B 46%,#000000 );
-	background: -moz-linear-gradient(top,#6B6B6B 46%,#000000 );
-	background: -ms-linear-gradient(top,#6B6B6B 46%,#000000 );
-	background: -o-linear-gradient(top,#6B6B6B 46%,#000000 );
-	background: linear-gradient(to bottom,#6B6B6B 46%,#000000 );
-	margin: 0px;
-}
-
-#u4573
-{
-	height: 36px;
-	width: 299px;
-	vertical-align: top;
-	background: url("../images/u4573.png") no-repeat 0px 0px;
-	position: relative;
-	margin-right: -10000px;
-	top: 29px;
-}
-
-#u4571.MuseMenuActive #u4573
-{
-	background: url("../images/u4573-a.png") no-repeat 0px 0px;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -351,9 +288,9 @@
 	z-index: 2;
 	width: 963px;
 	min-height: 1204px;
+	line-height: 48px;
 	color: #FFFFFF;
 	font-size: 36px;
-	line-height: 48px;
 	font-weight: bold;
 	margin-left: 237px;
 	margin-top: 68px;
