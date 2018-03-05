@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4097318757" ref="index"/>
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="index.css" crc="417486523" ref="index"/>
     <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
     <file name="albums.css" crc="530023042" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3808559265" mt="1520031511000"/>
-    <file name="muse_manifest.xml" crc="279969917" mt="1520032236000"/>
-    <file name="sitemap.xml" crc="4163362419" mt="1520032236000"/>
+    <file name="index.html" crc="3925887280" mt="1520032919000"/>
+    <file name="muse_manifest.xml" crc="26646767" mt="1520032919000"/>
+    <file name="sitemap.xml" crc="4000113349" mt="1520032919000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -33,11 +33,6 @@
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
     <file name="u1283-grad.png" crc="4068201627" ref="albums"/>
     <file name="u2678-grad.png" crc="4107687059" ref="sample-pack"/>
-    <file name="u1876-4-a.png" crc="4154818497" ref="index"/>
-    <file name="u1871.png" crc="4227181297" ref="index"/>
-    <file name="u1871-a.png" crc="4227181297" ref="index"/>
-    <file name="u2706.png" crc="35317143" ref="index"/>
-    <file name="u2706-a.png" crc="35317143" ref="index"/>
     <file name="u4350.png" crc="4154818497" ref="sample-pack"/>
     <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
     <file name="u4358.png" crc="4227181297" ref="sample-pack"/>
@@ -68,12 +63,20 @@
     <file name="u4607-a.png" crc="4145397733" ref="albums"/>
     <file name="u2739-6.png" crc="2050826" ref="sample-pack"/>
     <file name="777.png" crc="224647079" ref="index"/>
-    <file name="giphy.gif" crc="97587039" ref="index"/>
+    <file name="giphy.gif" crc="3848951629" ref="index"/>
     <file name="88-u1807.png" crc="141448167" ref="index"/>
-    <file name="mascot_for_beast_of_anime_girls_entry_by_dimoo-d4p4epr-u2621.png" crc="4243386131" ref="index"/>
     <file name="u4628-18.png" crc="304570379" ref="sample-pack"/>
+    <file name="giphy (1).gif" crc="227733121" ref="index"/>
+    <file name="9867491.gif" crc="154872250" ref="index"/>
+    <file name="tumblr_mrrmj5l6mq1s5qu6ro1_400.gif" crc="4093441152" ref="index"/>
+    <file name="u4676-4-a.png" crc="4154818497" ref="index"/>
+    <file name="u4680.png" crc="4227181297" ref="index"/>
+    <file name="u4680-a.png" crc="4227181297" ref="index"/>
+    <file name="u4688.png" crc="35317143" ref="index"/>
+    <file name="u4688-a.png" crc="35317143" ref="index"/>
+    <file name="999.gif" crc="3805238375" ref="index"/>
   </folder>
-  <file name="index.html" crc="3902959850" mt="1520032790393" redirect="true"/>
-  <file name="albums.html" crc="4226165333" mt="1520032914000" redirect="true"/>
-  <file name="sample-pack.html" crc="161738099" mt="1520032916856" redirect="true"/>
+  <file name="index.html" crc="354061919" mt="1520283713826" redirect="true"/>
+  <file name="albums.html" crc="4226165333" mt="1520283774500" redirect="true"/>
+  <file name="sample-pack.html" crc="161738099" mt="1520283777551" redirect="true"/>
 </manifest>
