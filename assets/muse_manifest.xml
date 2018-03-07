@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="461005747" ref="index"/>
+    <file name="index.css" crc="4104323577" ref="index"/>
     <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
     <file name="albums.css" crc="530023042" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3952615326" mt="1520283779000"/>
-    <file name="muse_manifest.xml" crc="509182812" mt="1520284130000"/>
-    <file name="sitemap.xml" crc="39463961" mt="1520284130000"/>
+    <file name="index.html" crc="4094070665" mt="1520284384000"/>
+    <file name="muse_manifest.xml" crc="295320004" mt="1520284384000"/>
+    <file name="sitemap.xml" crc="39463961" mt="1520284384000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -63,7 +63,6 @@
     <file name="u4607-a.png" crc="4145397733" ref="albums"/>
     <file name="u2739-6.png" crc="2050826" ref="sample-pack"/>
     <file name="777.png" crc="224647079" ref="index"/>
-    <file name="giphy.gif" crc="3848951629" ref="index"/>
     <file name="88-u1807.png" crc="141448167" ref="index"/>
     <file name="u4628-18.png" crc="304570379" ref="sample-pack"/>
     <file name="giphy (1).gif" crc="227733121" ref="index"/>
@@ -76,7 +75,7 @@
     <file name="u4688-a.png" crc="35317143" ref="index"/>
     <file name="999.gif" crc="3805238375" ref="index"/>
   </folder>
-  <file name="index.html" crc="3949164142" mt="1520284347843" redirect="true"/>
-  <file name="albums.html" crc="4226165333" mt="1520284380122" redirect="true"/>
-  <file name="sample-pack.html" crc="161738099" mt="1520284383057" redirect="true"/>
+  <file name="index.html" crc="362842351" mt="1520284683377" redirect="true"/>
+  <file name="albums.html" crc="4226165333" mt="1520284742046" redirect="true"/>
+  <file name="sample-pack.html" crc="161738099" mt="1520284744831" redirect="true"/>
 </manifest>
