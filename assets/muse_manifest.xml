@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4059079135" ref="index"/>
+    <file name="index.css" crc="82620103" ref="index"/>
     <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
-    <file name="albums.css" crc="3878621620" ref="albums"/>
+    <file name="albums.css" crc="3769131506" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3958597524" mt="1520284745000"/>
-    <file name="muse_manifest.xml" crc="413461110" mt="1520284745000"/>
-    <file name="sitemap.xml" crc="481935375" mt="1520284745000"/>
+    <file name="index.html" crc="103750908" mt="1520384419000"/>
+    <file name="muse_manifest.xml" crc="3871515023" mt="1520384419000"/>
+    <file name="sitemap.xml" crc="57848171" mt="1520384419000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -21,7 +21,6 @@
   <folder name="images">
     <file name="popov records )).jpg" crc="8539428" ref="albums"/>
     <file name="blank.gif" crc="4208392903" ref="albums:sample-pack:index"/>
-    <file name="12140751_1503093500011026_7684575516008352364_n.jpg" crc="4267688531" ref="albums"/>
     <file name="8q3ydfzskfw.jpg" crc="3985480081" ref="albums"/>
     <file name="0001.png" crc="4110672584" ref="albums:sample-pack"/>
     <file name="u1643-4.png" crc="3913076786" ref="albums"/>
@@ -65,7 +64,6 @@
     <file name="777.png" crc="224647079" ref="index"/>
     <file name="88-u1807.png" crc="141448167" ref="index"/>
     <file name="u4628-18.png" crc="304570379" ref="sample-pack"/>
-    <file name="9867491.gif" crc="154872250" ref="index"/>
     <file name="tumblr_mrrmj5l6mq1s5qu6ro1_400.gif" crc="4093441152" ref="index"/>
     <file name="u4676-4-a.png" crc="4154818497" ref="index"/>
     <file name="u4680.png" crc="4227181297" ref="index"/>
@@ -74,8 +72,9 @@
     <file name="u4688-a.png" crc="35317143" ref="index"/>
     <file name="999.gif" crc="3805238375" ref="index"/>
     <file name="eee8f423.gif" crc="4027823114" ref="index"/>
+    <file name="untitled-1.jpg" crc="355543511" ref="albums"/>
   </folder>
-  <file name="index.html" crc="116683200" mt="1520384311574" redirect="true"/>
-  <file name="albums.html" crc="4226165333" mt="1520384416032" redirect="true"/>
-  <file name="sample-pack.html" crc="161738099" mt="1520384418636" redirect="true"/>
+  <file name="index.html" crc="3834252098" mt="1521301930723" redirect="true"/>
+  <file name="albums.html" crc="367795953" mt="1521301874552" redirect="true"/>
+  <file name="sample-pack.html" crc="4176336720" mt="1521301962353" redirect="true"/>
 </manifest>
