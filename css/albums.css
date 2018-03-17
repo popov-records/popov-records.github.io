@@ -47,7 +47,7 @@
 
 #menuu4567
 {
-	z-index: 165;
+	z-index: 163;
 	width: 1200px;
 	position: fixed;
 	top: 153px;
@@ -72,7 +72,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 44px;
+	padding-bottom: 51px;
 	position: relative;
 }
 
@@ -102,7 +102,7 @@
 
 #u4598
 {
-	height: 50px;
+	height: 43px;
 	width: 398px;
 	vertical-align: top;
 	background: url("../images/u4598.png") no-repeat 0px 0px;
@@ -191,7 +191,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 44px;
+	padding-bottom: 51px;
 	position: relative;
 }
 
@@ -221,7 +221,7 @@
 
 #u4607
 {
-	height: 50px;
+	height: 43px;
 	width: 399px;
 	vertical-align: top;
 	background: url("../images/u4607.png") no-repeat 0px 0px;
@@ -242,7 +242,7 @@
 
 #u1673
 {
-	z-index: 118;
+	z-index: 116;
 	width: 1200px;
 	margin-top: 147px;
 	position: relative;
@@ -250,7 +250,7 @@
 
 #u1669-5
 {
-	z-index: 111;
+	z-index: 109;
 	display: block;
 	vertical-align: top;
 	left: -9px;
@@ -299,7 +299,7 @@
 
 #buttonu4502
 {
-	z-index: 153;
+	z-index: 151;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -351,7 +351,7 @@
 
 #u4504
 {
-	z-index: 155;
+	z-index: 153;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -369,7 +369,7 @@
 
 #u1664
 {
-	z-index: 109;
+	z-index: 107;
 	width: 1200px;
 	margin-top: 42px;
 	position: relative;
@@ -396,7 +396,7 @@
 
 #u3295-3
 {
-	z-index: 127;
+	z-index: 125;
 	width: 5px;
 	font-size: 100px;
 	line-height: 120px;
@@ -406,24 +406,25 @@
 	left: 1241px;
 }
 
-#pu1651
+#pu4764
 {
 	width: 0.01px;
 	margin-top: 13px;
 	position: relative;
 }
 
-#u1651
+#u4764
 {
-	z-index: 70;
+	z-index: 180;
 	width: 584px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 3px;
 }
 
 #u1653-29
 {
-	z-index: 72;
+	z-index: 70;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -21px;
@@ -435,7 +436,7 @@
 
 #u1660
 {
-	z-index: 107;
+	z-index: 105;
 	width: 1200px;
 	min-height: 187px;
 	border-style: none;
@@ -447,7 +448,7 @@
 
 #buttonu4512
 {
-	z-index: 157;
+	z-index: 155;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -499,7 +500,7 @@
 
 #u4514
 {
-	z-index: 159;
+	z-index: 157;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -517,7 +518,7 @@
 
 #u1670
 {
-	z-index: 116;
+	z-index: 114;
 	width: 1200px;
 	margin-top: 43px;
 	position: relative;
@@ -525,7 +526,7 @@
 
 #u1657-4
 {
-	z-index: 103;
+	z-index: 101;
 	display: block;
 	vertical-align: top;
 	margin-left: 43px;
@@ -542,7 +543,7 @@
 
 #u1655
 {
-	z-index: 101;
+	z-index: 99;
 	width: 586px;
 	position: relative;
 	margin-right: -10000px;
@@ -551,7 +552,7 @@
 
 #u4449-23
 {
-	z-index: 130;
+	z-index: 128;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -21px;
@@ -563,7 +564,7 @@
 
 #u1662
 {
-	z-index: 108;
+	z-index: 106;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -575,7 +576,7 @@
 
 #buttonu4515
 {
-	z-index: 161;
+	z-index: 159;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -627,7 +628,7 @@
 
 #u4517
 {
-	z-index: 163;
+	z-index: 161;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -645,7 +646,7 @@
 
 #u1684
 {
-	z-index: 125;
+	z-index: 123;
 	width: 1200px;
 	margin-top: 39px;
 	position: relative;
@@ -653,7 +654,7 @@
 
 #u1681-4
 {
-	z-index: 120;
+	z-index: 118;
 	left: -2px;
 	margin-top: 18px;
 	position: relative;
@@ -667,7 +668,7 @@
 
 #u1682
 {
-	z-index: 124;
+	z-index: 122;
 	width: 350px;
 	min-height: 464px;
 	border-style: none;
