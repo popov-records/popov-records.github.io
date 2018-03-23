@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="73605853" ref="index"/>
-    <file name="sample-pack.css" crc="3771614388" ref="sample-pack"/>
-    <file name="albums.css" crc="371636538" ref="albums"/>
+    <file name="index.css" crc="382953792" ref="index"/>
+    <file name="sample-pack.css" crc="273424071" ref="sample-pack"/>
+    <file name="albums.css" crc="3823636108" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4227551711" mt="1521834915000"/>
-    <file name="muse_manifest.xml" crc="299909721" mt="1521834915000"/>
-    <file name="sitemap.xml" crc="3927561764" mt="1521834915000"/>
+    <file name="index.html" crc="3795362999" mt="1521846899000"/>
+    <file name="muse_manifest.xml" crc="284382770" mt="1521846899000"/>
+    <file name="sitemap.xml" crc="511900978" mt="1521846899000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -17,10 +17,9 @@
     <file name="jquery.musemenu.js" crc="32367222" ref="albums:sample-pack:index"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:sample-pack"/>
     <file name="pie.js" crc="4147615982" ref="sample-pack:albums:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="albums:index:sample-pack"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:sample-pack"/>
   </folder>
   <folder name="images">
-    <file name="popov records )).jpg" crc="8539428" ref="albums"/>
     <file name="blank.gif" crc="4208392903" ref="albums:sample-pack:index"/>
     <file name="8q3ydfzskfw.jpg" crc="3985480081" ref="albums"/>
     <file name="0001.png" crc="4110672584" ref="albums:sample-pack"/>
@@ -31,7 +30,6 @@
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
-    <file name="u1283-grad.png" crc="3928635130" ref="albums"/>
     <file name="u2678-grad.png" crc="3801639544" ref="sample-pack"/>
     <file name="u4350.png" crc="4154818497" ref="sample-pack"/>
     <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
@@ -62,7 +60,6 @@
     <file name="u4607.png" crc="35317143" ref="albums"/>
     <file name="u4607-a.png" crc="4145397733" ref="albums"/>
     <file name="u2739-6.png" crc="2050826" ref="sample-pack"/>
-    <file name="777.png" crc="224647079" ref="index"/>
     <file name="88-u1807.png" crc="141448167" ref="index"/>
     <file name="u4628-18.png" crc="304570379" ref="sample-pack"/>
     <file name="tumblr_mrrmj5l6mq1s5qu6ro1_400.gif" crc="4093441152" ref="index"/>
@@ -76,10 +73,12 @@
     <file name="552.jpg" crc="3822793830" ref="albums"/>
     <file name="fondo-cubico-gris_1053-101-u4835-fr.png" crc="269219401" ref="index"/>
     <file name="fondo-cubico-gris_1053-101-u4840-fr.png" crc="4277342710" ref="sample-pack"/>
-    <file name="888-u4844-fr.png" crc="4102403525" ref="albums"/>
-    <file name="888-u4855-fr.png" crc="140304850" ref="albums"/>
+    <file name="888.jpg" crc="421119316" ref="albums"/>
+    <file name="popov records.jpg" crc="8539428" ref="albums"/>
+    <file name="u4729-grad.png" crc="141941423" ref="index"/>
+    <file name="777-u1813.png" crc="3852109515" ref="index"/>
   </folder>
-  <file name="index.html" crc="3840054432" mt="1521834131404" redirect="true"/>
-  <file name="albums.html" crc="220476435" mt="1521835319808" redirect="true"/>
-  <file name="sample-pack.html" crc="115115098" mt="1521834914982" redirect="true"/>
+  <file name="index.html" crc="4097875552" mt="1521846492785" redirect="true"/>
+  <file name="albums.html" crc="4034675687" mt="1521847064429" redirect="true"/>
+  <file name="sample-pack.html" crc="115115098" mt="1521847107365" redirect="true"/>
 </manifest>

@@ -71,7 +71,7 @@
 	background: -ms-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -o-linear-gradient(top,#00FF00 46%,#000000 );
 	background: linear-gradient(to bottom,#00FF00 46%,#000000 );
-	padding-bottom: 51px;
+	padding-bottom: 30px;
 	position: relative;
 }
 
@@ -101,7 +101,7 @@
 
 #u4350
 {
-	height: 43px;
+	height: 64px;
 	width: 398px;
 	vertical-align: top;
 	background: url("../images/u4350.png") no-repeat 0px 0px;

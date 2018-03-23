@@ -36,7 +36,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -31px;
+	margin-top: -65px;
 	left: -63px;
 }
 
@@ -44,19 +44,18 @@
 {
 	z-index: 2;
 	width: 1200px;
-	background: -webkit-gradient(linear, center top, center bottom, from(#000000),color-stop(100%, #FF00BA));
-	background: -webkit-linear-gradient(top,#000000 ,#FF00BA 100%);
-	background: -moz-linear-gradient(top,#000000 ,#FF00BA 100%);
-	background: -ms-linear-gradient(top,#000000 ,#FF00BA 100%);
-	background: -o-linear-gradient(top,#000000 ,#FF00BA 100%);
-	background: linear-gradient(to bottom,#000000 ,#FF00BA 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF000000, endColorstr=#FFFF00BA, GradientType=0);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF000000', endColorstr='#FFFF00BA', GradientType=0)";
-	border-style: none;
-	border-color: transparent;
-	padding-bottom: 330px;
+	background: #FF00BA url("../images/u4729-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(54%, #000000),to(#FF00BA));
+	background: -webkit-linear-gradient(top,#000000 54%,#FF00BA );
+	background: -moz-linear-gradient(top,#000000 54%,#FF00BA );
+	background: -ms-linear-gradient(top,#000000 54%,#FF00BA );
+	background: -o-linear-gradient(top,#000000 54%,#FF00BA );
+	background: linear-gradient(to bottom,#000000 54%,#FF00BA );
+	border-color: #000000;
+	padding-bottom: 379px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 35px;
 	left: 63px;
 }
 
@@ -66,18 +65,8 @@
 	width: 183px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 8px;
-	left: 43px;
-}
-
-#u1813
-{
-	z-index: 14;
-	width: 686px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -18px;
-	left: 265px;
+	margin-top: 7px;
+	left: 13px;
 }
 
 #u1805
@@ -87,14 +76,14 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
-	left: 1006px;
+	margin-top: 40px;
+	left: 1043px;
 }
 
 #u1805:active
 {
 	background-color: transparent;
-	margin: 41px -10000px 0px 0px;
+	margin: 40px -10000px 0px 0px;
 }
 
 #u4835
@@ -108,7 +97,7 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 209px;
+	margin-top: 243px;
 	left: 63px;
 	background: #FFB2FF url("../images/fondo-cubico-gris_1053-101-u4835-fr.png") no-repeat center center;
 	background-color: rgba(255, 0, 255, 0.3);
@@ -130,7 +119,7 @@
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 77px;
+	margin-top: 111px;
 	left: 1220px;
 }
 
@@ -140,8 +129,19 @@
 	width: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 264px;
+	margin-top: 298px;
 	left: 890px;
+}
+
+#u1813
+{
+	z-index: 14;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -30px;
+	left: 227px;
 }
 
 #u4649
@@ -150,7 +150,7 @@
 	width: 364px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 281px;
+	margin-top: 315px;
 	left: 96px;
 }
 
@@ -161,7 +161,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 723px;
+	margin-top: 757px;
 	left: -24px;
 }
 
@@ -171,7 +171,7 @@
 	width: 368px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 281px;
+	margin-top: 315px;
 	left: 875px;
 }
 
