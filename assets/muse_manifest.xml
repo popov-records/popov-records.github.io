@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4099638592" ref="index"/>
-    <file name="sample-pack.css" crc="4010244228" ref="sample-pack"/>
-    <file name="albums.css" crc="307202874" ref="albums"/>
+    <file name="index.css" crc="73605853" ref="index"/>
+    <file name="sample-pack.css" crc="3771614388" ref="sample-pack"/>
+    <file name="albums.css" crc="334808711" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="42827001" mt="1521830887000"/>
-    <file name="muse_manifest.xml" crc="3854910356" mt="1521832669000"/>
-    <file name="sitemap.xml" crc="280825483" mt="1521832669000"/>
+    <file name="index.html" crc="3828714948" mt="1521832979000"/>
+    <file name="muse_manifest.xml" crc="315232386" mt="1521832979000"/>
+    <file name="sitemap.xml" crc="280825483" mt="1521832979000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -31,8 +31,8 @@
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
-    <file name="u1283-grad.png" crc="4082100117" ref="albums"/>
-    <file name="u2678-grad.png" crc="470287108" ref="sample-pack"/>
+    <file name="u1283-grad.png" crc="3928635130" ref="albums"/>
+    <file name="u2678-grad.png" crc="3801639544" ref="sample-pack"/>
     <file name="u4350.png" crc="4154818497" ref="sample-pack"/>
     <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
     <file name="u4358.png" crc="4227181297" ref="sample-pack"/>
@@ -74,12 +74,12 @@
     <file name="999.gif" crc="3805238375" ref="index"/>
     <file name="eee8f423.gif" crc="4027823114" ref="index"/>
     <file name="552.jpg" crc="3822793830" ref="albums"/>
-    <file name="fondo-cubico-gris_1053-101-u4830-fr.png" crc="387308726" ref="albums"/>
-    <file name="fondo-cubico-gris_1053-101-u4835-fr.png" crc="194592413" ref="index"/>
-    <file name="fondo-cubico-gris_1053-101-u4839-fr.png" crc="77746558" ref="albums"/>
-    <file name="fondo-cubico-gris_1053-101-u4840-fr.png" crc="265943698" ref="sample-pack"/>
+    <file name="fondo-cubico-gris_1053-101-u4835-fr.png" crc="269219401" ref="index"/>
+    <file name="fondo-cubico-gris_1053-101-u4840-fr.png" crc="4277342710" ref="sample-pack"/>
+    <file name="888-u4844-fr.png" crc="4102403525" ref="albums"/>
+    <file name="888-u4855-fr.png" crc="140304850" ref="albums"/>
   </folder>
-  <file name="index.html" crc="3840054432" mt="1521832920902" redirect="true"/>
-  <file name="albums.html" crc="10742840" mt="1521832973481" redirect="true"/>
-  <file name="sample-pack.html" crc="4012114782" mt="1521832669516" redirect="true"/>
+  <file name="index.html" crc="3840054432" mt="1521834131404" redirect="true"/>
+  <file name="albums.html" crc="4245845488" mt="1521834908592" redirect="true"/>
+  <file name="sample-pack.html" crc="115115098" mt="1521834832037" redirect="true"/>
 </manifest>
