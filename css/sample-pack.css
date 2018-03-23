@@ -256,7 +256,6 @@
 #u4840_position_content
 {
 	margin-top: 79px;
-	margin-bottom: 2px;
 }
 
 #u2735
@@ -280,7 +279,7 @@
 #pu2737
 {
 	width: 0.01px;
-	left: -1px;
+	margin-left: 8px;
 	margin-top: 56px;
 	position: relative;
 }
@@ -288,10 +287,15 @@
 #u2737
 {
 	z-index: 27;
-	width: 584px;
+	width: 567px;
+	border-width: 8px;
+	border-style: solid;
+	border-color: #FF0000;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 16px;
+	margin-top: 15px;
+	left: -8px;
 }
 
 #u4628-18
@@ -303,7 +307,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -9px;
-	left: 608px;
+	left: 599px;
 }
 
 #buttonu2741

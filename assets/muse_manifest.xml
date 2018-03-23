@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4230657671" ref="index"/>
+    <file name="index.css" crc="4099638592" ref="index"/>
     <file name="sample-pack.css" crc="4010244228" ref="sample-pack"/>
     <file name="albums.css" crc="307202874" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="42827001" mt="1521830887000"/>
-    <file name="muse_manifest.xml" crc="3985222732" mt="1521832067000"/>
-    <file name="sitemap.xml" crc="3970876774" mt="1521832067000"/>
+    <file name="muse_manifest.xml" crc="3854910356" mt="1521832669000"/>
+    <file name="sitemap.xml" crc="280825483" mt="1521832669000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -79,7 +79,7 @@
     <file name="fondo-cubico-gris_1053-101-u4839-fr.png" crc="77746558" ref="albums"/>
     <file name="fondo-cubico-gris_1053-101-u4840-fr.png" crc="265943698" ref="sample-pack"/>
   </folder>
-  <file name="index.html" crc="3829710256" mt="1521830847624" redirect="true"/>
-  <file name="albums.html" crc="10742840" mt="1521832665280" redirect="true"/>
-  <file name="sample-pack.html" crc="4012114782" mt="1521832585368" redirect="true"/>
+  <file name="index.html" crc="3840054432" mt="1521832920902" redirect="true"/>
+  <file name="albums.html" crc="10742840" mt="1521832973481" redirect="true"/>
+  <file name="sample-pack.html" crc="4012114782" mt="1521832669516" redirect="true"/>
 </manifest>
