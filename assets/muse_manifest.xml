@@ -2,13 +2,13 @@
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4230657671" ref="index"/>
-    <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
-    <file name="albums.css" crc="3858001943" ref="albums"/>
+    <file name="sample-pack.css" crc="4010244228" ref="sample-pack"/>
+    <file name="albums.css" crc="307202874" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="42827001" mt="1521830887000"/>
-    <file name="muse_manifest.xml" crc="101996165" mt="1521831633000"/>
-    <file name="sitemap.xml" crc="3970876774" mt="1521831633000"/>
+    <file name="muse_manifest.xml" crc="3985222732" mt="1521832067000"/>
+    <file name="sitemap.xml" crc="3970876774" mt="1521832067000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -17,7 +17,7 @@
     <file name="jquery.musemenu.js" crc="32367222" ref="albums:sample-pack:index"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:sample-pack"/>
     <file name="pie.js" crc="4147615982" ref="sample-pack:albums:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="albums:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="albums:index:sample-pack"/>
   </folder>
   <folder name="images">
     <file name="popov records )).jpg" crc="8539428" ref="albums"/>
@@ -32,7 +32,7 @@
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
     <file name="u1283-grad.png" crc="4082100117" ref="albums"/>
-    <file name="u2678-grad.png" crc="4107687059" ref="sample-pack"/>
+    <file name="u2678-grad.png" crc="470287108" ref="sample-pack"/>
     <file name="u4350.png" crc="4154818497" ref="sample-pack"/>
     <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
     <file name="u4358.png" crc="4227181297" ref="sample-pack"/>
@@ -77,8 +77,9 @@
     <file name="fondo-cubico-gris_1053-101-u4830-fr.png" crc="387308726" ref="albums"/>
     <file name="fondo-cubico-gris_1053-101-u4835-fr.png" crc="194592413" ref="index"/>
     <file name="fondo-cubico-gris_1053-101-u4839-fr.png" crc="77746558" ref="albums"/>
+    <file name="fondo-cubico-gris_1053-101-u4840-fr.png" crc="265943698" ref="sample-pack"/>
   </folder>
   <file name="index.html" crc="3829710256" mt="1521830847624" redirect="true"/>
-  <file name="albums.html" crc="10742840" mt="1521832007138" redirect="true"/>
-  <file name="sample-pack.html" crc="161738099" mt="1521832066741" redirect="true"/>
+  <file name="albums.html" crc="10742840" mt="1521832665280" redirect="true"/>
+  <file name="sample-pack.html" crc="4012114782" mt="1521832585368" redirect="true"/>
 </manifest>
