@@ -2,13 +2,13 @@
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4042609439" ref="index"/>
-    <file name="sample-pack.css" crc="132788617" ref="sample-pack"/>
-    <file name="albums.css" crc="465049454" ref="albums"/>
+    <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
+    <file name="albums.css" crc="3944021031" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3797396232" mt="1521302396000"/>
-    <file name="muse_manifest.xml" crc="4066789010" mt="1521303017000"/>
-    <file name="sitemap.xml" crc="380802208" mt="1521303017000"/>
+    <file name="index.html" crc="285956209" mt="1521380651000"/>
+    <file name="muse_manifest.xml" crc="222117298" mt="1521380651000"/>
+    <file name="sitemap.xml" crc="357479569" mt="1521380651000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -39,10 +39,10 @@
     <file name="u4341-4-a.png" crc="35317143" ref="sample-pack"/>
     <file name="7772.png" crc="3924387619" ref="index"/>
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
-    <file name="u1653-29.png" crc="255053313" ref="albums"/>
+    <file name="u1653-29.png" crc="182706507" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
-    <file name="u4502-grad.png" crc="4173427513" ref="albums"/>
-    <file name="u4502-r-grad.png" crc="477634280" ref="albums"/>
+    <file name="u4502-grad.png" crc="4173427513" ref="albums:sample-pack"/>
+    <file name="u4502-r-grad.png" crc="477634280" ref="albums:sample-pack"/>
     <file name="u4504.png" crc="328100398" ref="albums"/>
     <file name="u4504-r.png" crc="4243895445" ref="albums"/>
     <file name="u4514.png" crc="328100398" ref="albums"/>
@@ -52,9 +52,9 @@
     <file name="u1669-5.png" crc="4122041328" ref="albums"/>
     <file name="u1650-4.png" crc="3804319342" ref="albums"/>
     <file name="u1657-4.png" crc="463916906" ref="albums"/>
-    <file name="u4597-grad.png" crc="3844420172" ref="albums"/>
-    <file name="u4597-r-grad.png" crc="456166129" ref="albums"/>
-    <file name="u4597-m-grad.png" crc="87360521" ref="albums"/>
+    <file name="u4597-grad.png" crc="3844420172" ref="albums:sample-pack"/>
+    <file name="u4597-r-grad.png" crc="456166129" ref="albums:sample-pack"/>
+    <file name="u4597-m-grad.png" crc="87360521" ref="albums:sample-pack"/>
     <file name="u4598.png" crc="4154818497" ref="albums"/>
     <file name="u4598-a.png" crc="4228722340" ref="albums"/>
     <file name="u4594-4-a.png" crc="4227181297" ref="albums"/>
@@ -73,13 +73,15 @@
     <file name="999.gif" crc="3805238375" ref="index"/>
     <file name="eee8f423.gif" crc="4027823114" ref="index"/>
     <file name="552.jpg" crc="3822793830" ref="albums"/>
-    <file name="u4674-grad.png" crc="3844420172" ref="index:sample-pack"/>
-    <file name="u4679-r-grad.png" crc="456166129" ref="index:sample-pack"/>
-    <file name="u4679-m-grad.png" crc="87360521" ref="index:sample-pack"/>
-    <file name="u2741-grad.png" crc="4173427513" ref="sample-pack"/>
-    <file name="u2741-r-grad.png" crc="477634280" ref="sample-pack"/>
+    <file name="u4674-grad.png" crc="3844420172" ref="index"/>
+    <file name="u4679-r-grad.png" crc="456166129" ref="index"/>
+    <file name="u4679-m-grad.png" crc="87360521" ref="index"/>
+    <file name="u4796-grad.png" crc="34693648" ref="albums"/>
+    <file name="u4797-grad.png" crc="278996678" ref="albums"/>
+    <file name="u4795-grad.png" crc="266413519" ref="albums"/>
+    <file name="u4798-grad.png" crc="449578601" ref="albums"/>
   </folder>
   <file name="index.html" crc="312220789" mt="1521380588256" redirect="true"/>
-  <file name="albums.html" crc="3767484804" mt="1521302966809" redirect="true"/>
-  <file name="sample-pack.html" crc="431086533" mt="1521380650199" redirect="true"/>
+  <file name="albums.html" crc="25835867" mt="1521496486068" redirect="true"/>
+  <file name="sample-pack.html" crc="161738099" mt="1521496573084" redirect="true"/>
 </manifest>

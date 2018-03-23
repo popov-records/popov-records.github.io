@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4042609439" ref="index"/>
+    <file name="index.css" crc="4175741672" ref="index"/>
     <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
-    <file name="albums.css" crc="3944021031" ref="albums"/>
+    <file name="albums.css" crc="296893983" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="285956209" mt="1521380651000"/>
-    <file name="muse_manifest.xml" crc="222117298" mt="1521380651000"/>
-    <file name="sitemap.xml" crc="357479569" mt="1521380651000"/>
+    <file name="muse_manifest.xml" crc="3889225418" mt="1521496574000"/>
+    <file name="sitemap.xml" crc="52214032" mt="1521496574000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -17,6 +17,7 @@
     <file name="jquery.musemenu.js" crc="32367222" ref="albums:sample-pack:index"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:sample-pack"/>
     <file name="pie.js" crc="4147615982" ref="sample-pack:albums"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="albums:index"/>
   </folder>
   <folder name="images">
     <file name="popov records )).jpg" crc="8539428" ref="albums"/>
@@ -30,7 +31,7 @@
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
-    <file name="u1283-grad.png" crc="4068201627" ref="albums"/>
+    <file name="u1283-grad.png" crc="4209198916" ref="albums"/>
     <file name="u2678-grad.png" crc="4107687059" ref="sample-pack"/>
     <file name="u4350.png" crc="4154818497" ref="sample-pack"/>
     <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
@@ -39,7 +40,7 @@
     <file name="u4341-4-a.png" crc="35317143" ref="sample-pack"/>
     <file name="7772.png" crc="3924387619" ref="index"/>
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
-    <file name="u1653-29.png" crc="182706507" ref="albums"/>
+    <file name="u1653-29.png" crc="397690423" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
     <file name="u4502-grad.png" crc="4173427513" ref="albums:sample-pack"/>
     <file name="u4502-r-grad.png" crc="477634280" ref="albums:sample-pack"/>
@@ -52,9 +53,9 @@
     <file name="u1669-5.png" crc="4122041328" ref="albums"/>
     <file name="u1650-4.png" crc="3804319342" ref="albums"/>
     <file name="u1657-4.png" crc="463916906" ref="albums"/>
-    <file name="u4597-grad.png" crc="3844420172" ref="albums:sample-pack"/>
-    <file name="u4597-r-grad.png" crc="456166129" ref="albums:sample-pack"/>
-    <file name="u4597-m-grad.png" crc="87360521" ref="albums:sample-pack"/>
+    <file name="u4597-grad.png" crc="3844420172" ref="albums:sample-pack:index"/>
+    <file name="u4597-r-grad.png" crc="456166129" ref="albums:sample-pack:index"/>
+    <file name="u4597-m-grad.png" crc="87360521" ref="albums:sample-pack:index"/>
     <file name="u4598.png" crc="4154818497" ref="albums"/>
     <file name="u4598-a.png" crc="4228722340" ref="albums"/>
     <file name="u4594-4-a.png" crc="4227181297" ref="albums"/>
@@ -73,15 +74,10 @@
     <file name="999.gif" crc="3805238375" ref="index"/>
     <file name="eee8f423.gif" crc="4027823114" ref="index"/>
     <file name="552.jpg" crc="3822793830" ref="albums"/>
-    <file name="u4674-grad.png" crc="3844420172" ref="index"/>
-    <file name="u4679-r-grad.png" crc="456166129" ref="index"/>
-    <file name="u4679-m-grad.png" crc="87360521" ref="index"/>
-    <file name="u4796-grad.png" crc="34693648" ref="albums"/>
-    <file name="u4797-grad.png" crc="278996678" ref="albums"/>
-    <file name="u4795-grad.png" crc="266413519" ref="albums"/>
-    <file name="u4798-grad.png" crc="449578601" ref="albums"/>
+    <file name="fondo-cubico-gris_1053-101-u4830-fr.png" crc="387308726" ref="albums"/>
+    <file name="fondo-cubico-gris_1053-101-u4835-fr.png" crc="194592413" ref="index"/>
   </folder>
-  <file name="index.html" crc="312220789" mt="1521380588256" redirect="true"/>
-  <file name="albums.html" crc="25835867" mt="1521496486068" redirect="true"/>
-  <file name="sample-pack.html" crc="161738099" mt="1521496573084" redirect="true"/>
+  <file name="index.html" crc="46465497" mt="1521830405253" redirect="true"/>
+  <file name="albums.html" crc="4182166638" mt="1521828493421" redirect="true"/>
+  <file name="sample-pack.html" crc="161738099" mt="1521830469881" redirect="true"/>
 </manifest>

@@ -15,7 +15,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 1401px;
+	min-height: 1692px;
 	background: -webkit-gradient(linear, center top, center bottom, from(#FF00FF),color-stop(100%, #FF0000));
 	background: -webkit-linear-gradient(top,#FF00FF ,#FF0000 100%);
 	background: -moz-linear-gradient(top,#FF00FF ,#FF0000 100%);
@@ -24,10 +24,9 @@
 	background: linear-gradient(to bottom,#FF00FF ,#FF0000 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFF00FF, endColorstr=#FFFF0000, GradientType=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFF00FF', endColorstr='#FFFF0000', GradientType=0)";
-	border-width: 1px;
-	border-style: solid;
+	border-style: none;
 	border-color: #000000;
-	padding-bottom: 292px;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -63,7 +62,7 @@
 
 #u1811
 {
-	z-index: 11;
+	z-index: 12;
 	width: 183px;
 	position: relative;
 	margin-right: -10000px;
@@ -73,7 +72,7 @@
 
 #u1813
 {
-	z-index: 13;
+	z-index: 14;
 	width: 686px;
 	position: relative;
 	margin-right: -10000px;
@@ -83,7 +82,7 @@
 
 #u1805
 {
-	z-index: 15;
+	z-index: 16;
 	width: 110px;
 	background-color: transparent;
 	position: relative;
@@ -98,19 +97,35 @@
 	margin: 41px -10000px 0px 0px;
 }
 
-#u4741
+#u4835
 {
 	z-index: 3;
 	width: 1199px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	padding-bottom: 383px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 242px;
-	left: 64px;
+	left: 63px;
+	background: transparent url("../images/fondo-cubico-gris_1053-101-u4835-fr.png") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u4741
+{
+	z-index: 4;
+	width: 1199px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
 }
 
 #u1803-3
 {
-	z-index: 5;
+	z-index: 6;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
@@ -120,7 +135,7 @@
 
 #u1804-3
 {
-	z-index: 8;
+	z-index: 9;
 	width: 5px;
 	position: relative;
 	margin-right: -10000px;
@@ -130,7 +145,7 @@
 
 #u4649
 {
-	z-index: 17;
+	z-index: 18;
 	width: 364px;
 	position: relative;
 	margin-right: -10000px;
@@ -140,7 +155,7 @@
 
 #u1807
 {
-	z-index: 21;
+	z-index: 22;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -151,7 +166,7 @@
 
 #u4723
 {
-	z-index: 23;
+	z-index: 24;
 	width: 368px;
 	position: relative;
 	margin-right: -10000px;
@@ -170,7 +185,7 @@
 
 #menuu4657
 {
-	z-index: 25;
+	z-index: 26;
 	width: 1200px;
 	position: fixed;
 	top: 150px;
@@ -188,7 +203,7 @@
 #u4674
 {
 	width: 398px;
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -201,7 +216,7 @@
 
 #u4674.MuseMenuActive
 {
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -244,7 +259,7 @@
 #u4679
 {
 	width: 399px;
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -257,7 +272,7 @@
 
 #u4679:hover
 {
-	background: #000000 url("../images/u4679-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FFFF),to(#000000));
 	background: -webkit-linear-gradient(top,#00FFFF 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FFFF 46%,#000000 );
@@ -269,7 +284,7 @@
 
 #u4679:active
 {
-	background: #000000 url("../images/u4679-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 46%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 46%,#000000 );
@@ -307,7 +322,7 @@
 #u4686
 {
 	width: 399px;
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -320,7 +335,7 @@
 
 #u4686:hover
 {
-	background: #000000 url("../images/u4679-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FFFF),to(#000000));
 	background: -webkit-linear-gradient(top,#00FFFF 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FFFF 46%,#000000 );
@@ -332,7 +347,7 @@
 
 #u4686:active
 {
-	background: #000000 url("../images/u4679-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4597-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 46%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 46%,#000000 );
@@ -365,7 +380,7 @@
 
 #u4639
 {
-	z-index: 19;
+	z-index: 20;
 	width: 1029px;
 	position: fixed;
 	top: 467px;
@@ -374,7 +389,7 @@
 
 body
 {
-	padding-top: 29px;
+	padding-top: 30px;
 	padding-bottom: 25px;
 }
 

@@ -15,17 +15,18 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 500px;
+	min-height: 499.587172921224px;
 	background: #000000 url("../images/u1283-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(20%, #000000),to(#000000));
-	background: -webkit-linear-gradient(top,#000000 20%,#000000 );
-	background: -moz-linear-gradient(top,#000000 20%,#000000 );
-	background: -ms-linear-gradient(top,#000000 20%,#000000 );
-	background: -o-linear-gradient(top,#000000 20%,#000000 );
-	background: linear-gradient(to bottom,#000000 20%,#000000 );
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(74%, #000000),to(#000000));
+	background: -webkit-linear-gradient(top,#000000 74%,#000000 );
+	background: -moz-linear-gradient(top,#000000 74%,#000000 );
+	background: -ms-linear-gradient(top,#000000 74%,#000000 );
+	background: -o-linear-gradient(top,#000000 74%,#000000 );
+	background: linear-gradient(to bottom,#000000 74%,#000000 );
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,12 +34,12 @@
 #page_position_content
 {
 	margin-top: -17px;
-	margin-bottom: 100px;
+	margin-bottom: 94px;
 }
 
 #u1643-4
 {
-	z-index: 66;
+	z-index: 63;
 	display: block;
 	vertical-align: top;
 	margin-left: 331px;
@@ -47,7 +48,7 @@
 
 #menuu4567
 {
-	z-index: 169;
+	z-index: 164;
 	width: 1200px;
 	position: fixed;
 	top: 153px;
@@ -242,7 +243,7 @@
 
 #u1673
 {
-	z-index: 120;
+	z-index: 115;
 	width: 1200px;
 	margin-top: 147px;
 	position: relative;
@@ -250,7 +251,7 @@
 
 #u1669-5
 {
-	z-index: 113;
+	z-index: 110;
 	display: block;
 	vertical-align: top;
 	left: -9px;
@@ -267,7 +268,7 @@
 
 #u1639-3
 {
-	z-index: 61;
+	z-index: 58;
 	width: 32px;
 	position: relative;
 	margin-right: -10000px;
@@ -277,7 +278,7 @@
 
 #u1640
 {
-	z-index: 64;
+	z-index: 61;
 	width: 1201px;
 	position: relative;
 	margin-right: -10000px;
@@ -285,12 +286,12 @@
 
 #u1638-55
 {
-	z-index: 6;
+	z-index: 3;
 	width: 963px;
 	min-height: 1204px;
-	line-height: 48px;
 	color: #FFFFFF;
 	font-size: 36px;
+	line-height: 48px;
 	font-weight: bold;
 	margin-left: 237px;
 	margin-top: 68px;
@@ -299,7 +300,7 @@
 
 #buttonu4502
 {
-	z-index: 155;
+	z-index: 150;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -351,7 +352,7 @@
 
 #u4504
 {
-	z-index: 157;
+	z-index: 152;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -367,50 +368,47 @@
 	background: url("../images/u4504-r.png") no-repeat 0px 0px;
 }
 
-#pu4796
+#pu4830
 {
 	width: 0.01px;
 	margin-top: 85px;
 	position: relative;
 }
 
-#u4796
+#u4830
 {
-	z-index: 5;
-	width: 1200px;
-	background: #FFFF00 url("../images/u4796-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(10%, #000000),to(#FFFF00));
-	background: -webkit-linear-gradient(top,#000000 10%,#FFFF00 );
-	background: -moz-linear-gradient(top,#000000 10%,#FFFF00 );
-	background: -ms-linear-gradient(top,#000000 10%,#FFFF00 );
-	background: -o-linear-gradient(top,#000000 10%,#FFFF00 );
-	background: linear-gradient(to bottom,#000000 10%,#FFFF00 );
-	border-style: none;
-	border-color: transparent;
-	padding-bottom: 0px;
+	z-index: 2;
+	width: 1199px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
+	background: transparent url("../images/fondo-cubico-gris_1053-101-u4830-fr.png") no-repeat center center;
+	background-size: cover !important;
 }
 
-#u4796_position_content
+#u4830_position_content
 {
-	margin-top: -43px;
-	margin-bottom: -175px;
+	margin-top: -44px;
+	margin-bottom: -43px;
 }
 
 #u1664
 {
-	z-index: 111;
+	z-index: 108;
 	width: 1200px;
+	left: -1px;
 	position: relative;
 }
 
 #u1650-4
 {
-	z-index: 70;
+	z-index: 67;
 	display: block;
 	vertical-align: top;
-	margin-left: 11px;
+	margin-left: 10px;
 	margin-top: 15px;
 	position: relative;
 }
@@ -418,148 +416,53 @@
 #pu4779
 {
 	width: 0.01px;
+	margin-left: 6px;
 	margin-top: 74px;
 	position: relative;
 }
 
 #u4779
 {
-	z-index: 167;
+	z-index: 162;
 	width: 583px;
+	border-width: 6px;
+	border-style: solid;
+	border-color: #FFFF00;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
+	margin-top: -5px;
+	left: -6px;
 }
 
 #u1653-29
 {
-	z-index: 74;
+	z-index: 71;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -5px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -5px;
-	left: 610px;
-}
-
-#u3295-3
-{
-	z-index: 129;
-	width: 5px;
-	font-size: 100px;
-	line-height: 120px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 221px;
-	left: 1261px;
-}
-
-#pu4797
-{
-	width: 0.01px;
-	position: relative;
-}
-
-#u4797
-{
-	z-index: 3;
-	width: 1200px;
-	background: #00FF00 url("../images/u4797-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(10%, #000000),to(#00FF00));
-	background: -webkit-linear-gradient(top,#000000 10%,#00FF00 );
-	background: -moz-linear-gradient(top,#000000 10%,#00FF00 );
-	background: -ms-linear-gradient(top,#000000 10%,#00FF00 );
-	background: -o-linear-gradient(top,#000000 10%,#00FF00 );
-	background: linear-gradient(to bottom,#000000 10%,#00FF00 );
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 751px;
-}
-
-#u4797_position_content
-{
-	margin-top: 67px;
-	margin-bottom: -170px;
-}
-
-#u1657-4
-{
-	z-index: 105;
-	display: block;
-	vertical-align: top;
-	margin-left: 43px;
-	position: relative;
-}
-
-#pu1655
-{
-	width: 0.01px;
-	margin-top: 57px;
-	position: relative;
-}
-
-#u1655
-{
-	z-index: 103;
-	width: 586px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 25px;
-}
-
-#u4449-23
-{
-	z-index: 132;
-	display: block;
-	vertical-align: top;
-	margin-bottom: -21px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -21px;
-	left: 596px;
-}
-
-#u4795
-{
-	z-index: 4;
-	width: 1200px;
-	background: #000000 url("../images/u4795-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(#FFFF00),color-stop(90%, #000000));
-	background: -webkit-linear-gradient(top,#FFFF00 ,#000000 90%);
-	background: -moz-linear-gradient(top,#FFFF00 ,#000000 90%);
-	background: -ms-linear-gradient(top,#FFFF00 ,#000000 90%);
-	background: -o-linear-gradient(top,#FFFF00 ,#000000 90%);
-	background: linear-gradient(to bottom,#FFFF00 ,#000000 90%);
-	border-style: none;
-	border-color: transparent;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u4795_position_content
-{
-	margin-top: 300px;
-	margin-bottom: 86px;
+	left: 603px;
 }
 
 #u1660
 {
-	z-index: 109;
+	z-index: 106;
 	width: 1200px;
-	min-height: 187px;
+	min-height: 170px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	left: -1px;
+	margin-top: 125px;
 	position: relative;
 }
 
 #buttonu4512
 {
-	z-index: 159;
+	z-index: 154;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -576,8 +479,8 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 25px;
-	margin-left: 446px;
-	margin-top: 76px;
+	margin-left: 445px;
+	margin-top: 93px;
 	position: relative;
 }
 
@@ -592,7 +495,7 @@
 	background: linear-gradient(to bottom,#00FFFF 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 76px 0px 0px 446px;
+	margin: 93px 0px 0px 445px;
 }
 
 #buttonu4512.ButtonSelected
@@ -606,12 +509,12 @@
 	background: linear-gradient(to bottom,#00FF00 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 76px 0px 0px 446px;
+	margin: 93px 0px 0px 445px;
 }
 
 #u4514
 {
-	z-index: 161;
+	z-index: 156;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -627,60 +530,86 @@
 	background: url("../images/u4514-r.png") no-repeat 0px 0px;
 }
 
-#u1670
+#u4820
 {
-	z-index: 118;
+	z-index: 181;
 	width: 1200px;
+	left: -1px;
+	margin-top: 33px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 708px;
 }
 
-#pu4798
+#u3295-3
+{
+	z-index: 124;
+	width: 5px;
+	font-size: 100px;
+	line-height: 120px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 221px;
+	left: 1261px;
+}
+
+#u1657-4
+{
+	z-index: 102;
+	display: block;
+	vertical-align: top;
+	margin-left: 43px;
+	margin-top: 77px;
+	position: relative;
+}
+
+#pu1655
 {
 	width: 0.01px;
-	top: -5px;
-	margin-bottom: -5px;
+	margin-left: 7px;
+	margin-top: 57px;
 	position: relative;
 }
 
-#u4798
+#u1655
 {
-	z-index: 2;
-	width: 1200px;
-	background: #000000 url("../images/u4798-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(#00FF00),color-stop(90%, #000000));
-	background: -webkit-linear-gradient(top,#00FF00 ,#000000 90%);
-	background: -moz-linear-gradient(top,#00FF00 ,#000000 90%);
-	background: -ms-linear-gradient(top,#00FF00 ,#000000 90%);
-	background: -o-linear-gradient(top,#00FF00 ,#000000 90%);
-	background: linear-gradient(to bottom,#00FF00 ,#000000 90%);
-	border-style: none;
-	border-color: transparent;
+	z-index: 100;
+	width: 586px;
+	border-width: 6px;
+	border-style: solid;
+	border-color: #00FF00;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 19px;
+	left: -6px;
 }
 
-#u4798_position_content
+#u4449-23
 {
-	margin-top: 275px;
-	margin-bottom: 82px;
+	z-index: 127;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -21px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -21px;
+	left: 589px;
 }
 
 #u1662
 {
-	z-index: 110;
+	z-index: 107;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-top: 95px;
 	position: relative;
 }
 
 #buttonu4515
 {
-	z-index: 163;
+	z-index: 158;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -698,7 +627,7 @@
 	border-radius: 10px;
 	padding-bottom: 25px;
 	margin-left: 451px;
-	margin-top: 92px;
+	margin-top: 96px;
 	position: relative;
 }
 
@@ -713,7 +642,7 @@
 	background: linear-gradient(to bottom,#00FFFF 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 92px 0px 0px 451px;
+	margin: 96px 0px 0px 451px;
 }
 
 #buttonu4515.ButtonSelected
@@ -727,12 +656,12 @@
 	background: linear-gradient(to bottom,#00FF00 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 92px 0px 0px 451px;
+	margin: 96px 0px 0px 451px;
 }
 
 #u4517
 {
-	z-index: 165;
+	z-index: 160;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -750,19 +679,17 @@
 
 #u1684
 {
-	z-index: 127;
+	z-index: 122;
 	width: 1200px;
+	margin-top: 54px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 678px;
-	left: 1px;
 }
 
 #u1681-4
 {
-	z-index: 122;
+	z-index: 117;
 	left: -2px;
-	margin-top: 18px;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -774,14 +701,15 @@
 
 #u1682
 {
-	z-index: 126;
-	width: 350px;
+	z-index: 121;
+	width: 348px;
 	min-height: 464px;
-	border-style: none;
-	border-color: transparent;
+	border-width: 6px;
+	border-style: solid;
+	border-color: #FF0000;
 	background-color: transparent;
-	margin-left: 425px;
-	margin-top: 77px;
+	margin-left: 419px;
+	margin-top: 71px;
 	position: relative;
 }
 
