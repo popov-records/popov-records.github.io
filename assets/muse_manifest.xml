@@ -3,12 +3,12 @@
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4230657671" ref="index"/>
     <file name="sample-pack.css" crc="4248780920" ref="sample-pack"/>
-    <file name="albums.css" crc="18156613" ref="albums"/>
+    <file name="albums.css" crc="497741787" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="42827001" mt="1521830887000"/>
-    <file name="muse_manifest.xml" crc="3838869131" mt="1521830887000"/>
-    <file name="sitemap.xml" crc="3817772869" mt="1521830887000"/>
+    <file name="muse_manifest.xml" crc="3822289477" mt="1521830912000"/>
+    <file name="sitemap.xml" crc="3817772869" mt="1521830912000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -31,7 +31,7 @@
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
     <file name="u2742-r.png" crc="4243895445" ref="sample-pack"/>
-    <file name="u1283-grad.png" crc="4209198916" ref="albums"/>
+    <file name="u1283-grad.png" crc="4082100117" ref="albums"/>
     <file name="u2678-grad.png" crc="4107687059" ref="sample-pack"/>
     <file name="u4350.png" crc="4154818497" ref="sample-pack"/>
     <file name="u4350-a.png" crc="3892000951" ref="sample-pack"/>
@@ -76,8 +76,9 @@
     <file name="552.jpg" crc="3822793830" ref="albums"/>
     <file name="fondo-cubico-gris_1053-101-u4830-fr.png" crc="387308726" ref="albums"/>
     <file name="fondo-cubico-gris_1053-101-u4835-fr.png" crc="194592413" ref="index"/>
+    <file name="fondo-cubico-gris_1053-101-u4839-fr.png" crc="77746558" ref="albums"/>
   </folder>
   <file name="index.html" crc="3829710256" mt="1521830847624" redirect="true"/>
-  <file name="albums.html" crc="4182166638" mt="1521830909195" redirect="true"/>
-  <file name="sample-pack.html" crc="161738099" mt="1521830911415" redirect="true"/>
+  <file name="albums.html" crc="10742840" mt="1521831573201" redirect="true"/>
+  <file name="sample-pack.html" crc="161738099" mt="1521831632076" redirect="true"/>
 </manifest>
