@@ -15,7 +15,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 499.59999999999945px;
+	min-height: 1689.8999999999999px;
 	background: #000000 url("../images/u2678-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #000000),to(#000000));
 	background: -webkit-linear-gradient(top,#000000 30%,#000000 );
@@ -33,6 +33,7 @@
 #page_position_content
 {
 	margin-top: -16px;
+	margin-bottom: 108px;
 }
 
 #u2734-4
@@ -46,7 +47,7 @@
 
 #menuu4317
 {
-	z-index: 42;
+	z-index: 39;
 	width: 1200px;
 	position: fixed;
 	top: 158px;
@@ -243,26 +244,22 @@
 {
 	z-index: 2;
 	width: 1199px;
+	height: 1481px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	padding-bottom: 0px;
-	margin-top: 65px;
-	position: relative;
+	position: fixed;
+	top: 208px;
+	left: 0px;
 	background: transparent url("../images/fondo-cubico-gris_1053-101-u4840-fr.png") no-repeat center center;
 	background-size: cover !important;
-}
-
-#u4840_position_content
-{
-	margin-top: 79px;
 }
 
 #u2735
 {
 	z-index: 25;
 	width: 1200px;
-	left: -1px;
+	margin-top: 163px;
 	position: relative;
 }
 
@@ -271,16 +268,16 @@
 	z-index: 29;
 	display: block;
 	vertical-align: top;
-	margin-left: 35px;
-	margin-top: 29px;
+	margin-left: 36px;
+	margin-top: 12px;
 	position: relative;
 }
 
 #pu2737
 {
 	width: 0.01px;
-	margin-left: 8px;
-	margin-top: 56px;
+	margin-left: 9px;
+	margin-top: 55px;
 	position: relative;
 }
 
@@ -329,8 +326,8 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 25px;
-	margin-left: 450px;
-	margin-top: 104px;
+	margin-left: 451px;
+	margin-top: 105px;
 	position: relative;
 }
 
@@ -345,7 +342,7 @@
 	background: linear-gradient(to bottom,#00FFFF 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 104px 0px 0px 450px;
+	margin: 105px 0px 0px 451px;
 }
 
 #buttonu2741.ButtonSelected
@@ -359,7 +356,7 @@
 	background: linear-gradient(to bottom,#00FF00 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 104px 0px 0px 450px;
+	margin: 105px 0px 0px 451px;
 }
 
 #u2742
@@ -380,20 +377,9 @@
 	background: url("../images/u2742-r.png") no-repeat 0px 0px;
 }
 
-#u4059-3
-{
-	z-index: 39;
-	width: 76px;
-	min-height: 25px;
-	margin-left: 574px;
-	margin-top: 82px;
-	position: relative;
-}
-
 body
 {
 	padding-top: 36px;
-	padding-bottom: 36px;
 }
 
 #page .verticalspacer
