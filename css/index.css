@@ -45,12 +45,12 @@
 	z-index: 2;
 	width: 1200px;
 	background: #FF00BA url("../images/u4729-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(54%, #000000),to(#FF00BA));
-	background: -webkit-linear-gradient(top,#000000 54%,#FF00BA );
-	background: -moz-linear-gradient(top,#000000 54%,#FF00BA );
-	background: -ms-linear-gradient(top,#000000 54%,#FF00BA );
-	background: -o-linear-gradient(top,#000000 54%,#FF00BA );
-	background: linear-gradient(to bottom,#000000 54%,#FF00BA );
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(10%, #000000),to(#FF00BA));
+	background: -webkit-linear-gradient(top,#000000 10%,#FF00BA );
+	background: -moz-linear-gradient(top,#000000 10%,#FF00BA );
+	background: -ms-linear-gradient(top,#000000 10%,#FF00BA );
+	background: -o-linear-gradient(top,#000000 10%,#FF00BA );
+	background: linear-gradient(to bottom,#000000 10%,#FF00BA );
 	border-color: #000000;
 	padding-bottom: 379px;
 	position: relative;
