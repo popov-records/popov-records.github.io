@@ -4,16 +4,35 @@
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="7.4.30.244"/>
-  <link rel="shortcut icon" href="images/popov-records-favicon.ico?34260875"/>
+  <link rel="shortcut icon" href="images/popov-records-favicon.ico?4077571282"/>
   <title>POPOV RECORDS</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4023935739"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?254398344" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?4118982386" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
 </script>
-   </head>
+    <!--custom head HTML-->
+  <style>
+html{height:100vh!important}
+body,img{
+-webkit-animation-duration:4s;
+              animation-duration:4s;
+-webkit-animation-name:load;
+              animation-name:load;
+}
+@keyframes load{
+    from {opacity:0;}
+    to {opacity:1;}
+}
+@-webkit-keyframes load{
+    from {opacity:0;}
+    to { opacity:1;}
+}
+</style>
+
+ </head>
  <body>
 
   <div class="gradient clearfix" id="page"><!-- group -->
@@ -87,8 +106,8 @@
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu4657').registerPositionScrollEffect([{"in":[-Infinity,180.6],"speed":[0,1]},{"in":[180.6,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u4639').registerPositionScrollEffect([{"in":[-Infinity,75.95],"speed":[0,0]},{"in":[75.95,Infinity],"speed":[0,1.8]}]);/* scroll effect */
+$('#menuu4657').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,180.6]},{"speed":[0,0],"in":[180.6,Infinity]}]);/* scroll effect */
+$('#u4639').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,75.95]},{"speed":[0,1.8],"in":[75.95,Infinity]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

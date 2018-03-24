@@ -2,13 +2,13 @@
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4118982386" ref="index"/>
-    <file name="sample-pack.css" crc="3777657468" ref="sample-pack"/>
-    <file name="albums.css" crc="99770710" ref="albums"/>
+    <file name="sample-pack.css" crc="77010620" ref="sample-pack"/>
+    <file name="albums.css" crc="3781439679" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="500927559" mt="1521858036000"/>
-    <file name="muse_manifest.xml" crc="3876632867" mt="1521858036000"/>
-    <file name="sitemap.xml" crc="4031773049" mt="1521858036000"/>
+    <file name="index.html" crc="4200136039" mt="1521929020000"/>
+    <file name="muse_manifest.xml" crc="4031546084" mt="1521929020000"/>
+    <file name="sitemap.xml" crc="3783637530" mt="1521929020000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -25,7 +25,7 @@
     <file name="0001.png" crc="4110672584" ref="albums:sample-pack"/>
     <file name="u1643-4.png" crc="3913076786" ref="albums"/>
     <file name="u1681-4.png" crc="110500383" ref="albums"/>
-    <file name="popov-records-favicon.ico" crc="4077571282" ref="index"/>
+    <file name="popov-records-favicon.ico" crc="4233994155" ref="index"/>
     <file name="www.jpg" crc="4195517350" ref="sample-pack"/>
     <file name="u2734-4.png" crc="3780994598" ref="sample-pack"/>
     <file name="u2742.png" crc="328100398" ref="sample-pack"/>
@@ -78,7 +78,7 @@
     <file name="u4729-grad.png" crc="233559998" ref="index"/>
     <file name="777-u1813.png" crc="3852109515" ref="index"/>
   </folder>
-  <file name="index.html" crc="30821298" mt="1521928951340" redirect="true"/>
-  <file name="albums.html" crc="15055219" mt="1521929015103" redirect="true"/>
-  <file name="sample-pack.html" crc="3970596671" mt="1521929018625" redirect="true"/>
+  <file name="index.html" crc="30821298" mt="1521929460964" redirect="true"/>
+  <file name="albums.html" crc="445069095" mt="1521929506353" redirect="true"/>
+  <file name="sample-pack.html" crc="3996355532" mt="1521929589837" redirect="true"/>
 </manifest>
