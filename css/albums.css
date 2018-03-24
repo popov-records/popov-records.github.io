@@ -307,10 +307,10 @@
 	z-index: 112;
 	width: 990px;
 	min-height: 1296px;
-	line-height: 48px;
+	text-align: center;
 	font-size: 36px;
 	color: #FFFFFF;
-	text-align: center;
+	line-height: 48px;
 	font-weight: bold;
 	margin-left: 100px;
 	margin-top: 75px;
@@ -641,8 +641,8 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 25px;
-	margin-left: 451px;
-	margin-top: 96px;
+	margin-left: 450px;
+	margin-top: 118px;
 	position: relative;
 }
 
@@ -657,7 +657,7 @@
 	background: linear-gradient(to bottom,#00FFFF 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 96px 0px 0px 451px;
+	margin: 118px 0px 0px 450px;
 }
 
 #buttonu4515.ButtonSelected
@@ -671,7 +671,7 @@
 	background: linear-gradient(to bottom,#00FF00 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 96px 0px 0px 451px;
+	margin: 118px 0px 0px 450px;
 }
 
 #u4517
@@ -696,7 +696,7 @@
 {
 	z-index: 66;
 	width: 1200px;
-	margin-top: 53px;
+	margin-top: 31px;
 	position: relative;
 }
 

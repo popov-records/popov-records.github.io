@@ -1,14 +1,6 @@
 .html
 {
-	background-color: #000000;
-	background: -webkit-gradient(linear, center top, center bottom, from(#000000),color-stop(100%, #FF0000));
-	background: -webkit-linear-gradient(top,#000000 ,#FF0000 100%);
-	background: -moz-linear-gradient(top,#000000 ,#FF0000 100%);
-	background: -ms-linear-gradient(top,#000000 ,#FF0000 100%);
-	background: -o-linear-gradient(top,#000000 ,#FF0000 100%);
-	background: linear-gradient(to bottom,#000000 ,#FF0000 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF000000, endColorstr=#FFFF0000, GradientType=0);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF000000', endColorstr='#FFFF0000', GradientType=0)";
+	background-color: #212020;
 }
 
 #page
