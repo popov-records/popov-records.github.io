@@ -13,7 +13,8 @@
 	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
-	background: #000000 url("../images/888.jpg") repeat center center;
+	background: #323232 url("../images/presence-page-fr.png") repeat center center;
+	background-color: rgba(0, 0, 0, 0.8);
 }
 
 #page_position_content
@@ -23,7 +24,7 @@
 
 #u4888
 {
-	z-index: 3;
+	z-index: 135;
 	width: 1199px;
 	border-width: 1px;
 	border-style: solid;
@@ -35,7 +36,7 @@
 
 #u1643-4
 {
-	z-index: 7;
+	z-index: 139;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -46,7 +47,7 @@
 
 #menuu4567
 {
-	z-index: 245;
+	z-index: 247;
 	width: 1200px;
 	position: fixed;
 	top: 153px;
@@ -239,32 +240,17 @@
 	cursor: pointer;
 }
 
-#u4907
-{
-	z-index: 2;
-	width: 1200px;
-	height: 7340px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #666666;
-	background-color: rgba(0, 0, 0, 0.6);
-	position: fixed;
-	top: 247px;
-	left: 0px;
-	-pie-background: rgba(0, 0, 0, 0.6);
-}
-
 #u1673
 {
-	z-index: 59;
+	z-index: 194;
 	width: 1200px;
 	margin-top: 120px;
 	position: relative;
 }
 
-#u1669-5
+#u1669-6
 {
-	z-index: 54;
+	z-index: 188;
 	display: block;
 	vertical-align: top;
 	left: -9px;
@@ -274,7 +260,7 @@
 
 #u4894
 {
-	z-index: 110;
+	z-index: 245;
 	width: 1128px;
 	border-width: 15px;
 	border-style: solid;
@@ -287,46 +273,35 @@
 
 #u1639-3
 {
-	z-index: 4;
+	z-index: 136;
 	width: 32px;
 	margin-left: 841px;
 	margin-top: 13px;
 	position: relative;
 }
 
-#u4899-133
+#pu4967-133
 {
-	z-index: 112;
-	width: 990px;
-	min-height: 1296px;
-	text-align: center;
-	font-size: 36px;
-	color: #FFFFFF;
-	line-height: 48px;
-	font-weight: bold;
-	margin-left: 100px;
-	margin-top: 75px;
+	width: 0.01px;
+	margin-left: 65px;
+	margin-top: 49px;
 	position: relative;
 }
 
-#u4899-5,#u4899-10,#u4899-15,#u4899-20,#u4899-25,#u4899-30,#u4899-35,#u4899-40,#u4899-45,#u4899-50,#u4899-55,#u4899-60,#u4899-65,#u4899-70,#u4899-75,#u4899-80,#u4899-85,#u4899-90,#u4899-95,#u4899-100,#u4899-105,#u4899-110,#u4899-115,#u4899-120,#u4899-125,#u4899-130
+#u4967-133
 {
-	font-style: italic;
-}
-
-#u4899,#u4899-6,#u4899-11,#u4899-16,#u4899-21,#u4899-26,#u4899-31,#u4899-36,#u4899-41,#u4899-46,#u4899-51,#u4899-56,#u4899-61,#u4899-66,#u4899-71,#u4899-76,#u4899-81,#u4899-86,#u4899-91,#u4899-96,#u4899-101,#u4899-106,#u4899-111,#u4899-116,#u4899-121,#u4899-126
-{
-	color: #FF0000;
-}
-
-#u4899-3,#u4899-8,#u4899-13,#u4899-18,#u4899-23,#u4899-28,#u4899-33,#u4899-38,#u4899-43,#u4899-48,#u4899-53,#u4899-58,#u4899-63,#u4899-68,#u4899-73,#u4899-78,#u4899-83,#u4899-88,#u4899-93,#u4899-98,#u4899-103,#u4899-108,#u4899-113,#u4899-118,#u4899-123,#u4899-128
-{
-	color: #00FFFF;
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -2px;
 }
 
 #buttonu4502
 {
-	z-index: 94;
+	z-index: 229;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -343,9 +318,10 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	padding-bottom: 25px;
-	margin-left: 441px;
-	margin-top: 50px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 1372px;
+	left: 376px;
 }
 
 #buttonu4502:hover
@@ -359,7 +335,7 @@
 	background: linear-gradient(to bottom,#00FFFF 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 50px 0px 0px 441px;
+	margin: 1372px -10000px 0px 0px;
 }
 
 #buttonu4502.ButtonSelected
@@ -373,12 +349,12 @@
 	background: linear-gradient(to bottom,#00FF00 40%,#000000 );
 	width: 288px;
 	min-height: 0px;
-	margin: 50px 0px 0px 441px;
+	margin: 1372px -10000px 0px 0px;
 }
 
 #u4504
 {
-	z-index: 96;
+	z-index: 231;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -396,13 +372,13 @@
 
 #u1664
 {
-	z-index: 52;
+	z-index: 186;
 	width: 1200px;
 	margin-top: 42px;
 	position: relative;
 }
 
-#pu1650-4
+#pu1650-5
 {
 	width: 0.01px;
 	margin-left: 19px;
@@ -410,9 +386,9 @@
 	position: relative;
 }
 
-#u1650-4
+#u1650-5
 {
-	z-index: 11;
+	z-index: 143;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -423,7 +399,7 @@
 
 #u3295-3
 {
-	z-index: 68;
+	z-index: 203;
 	width: 5px;
 	font-size: 100px;
 	line-height: 120px;
@@ -443,7 +419,7 @@
 
 #u4779
 {
-	z-index: 106;
+	z-index: 241;
 	width: 566px;
 	border-width: 6px;
 	border-style: solid;
@@ -457,7 +433,7 @@
 
 #u1653-29
 {
-	z-index: 15;
+	z-index: 148;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -5px;
@@ -469,7 +445,7 @@
 
 #u1660
 {
-	z-index: 50;
+	z-index: 184;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -482,7 +458,7 @@
 
 #buttonu4512
 {
-	z-index: 98;
+	z-index: 233;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -534,7 +510,7 @@
 
 #u4514
 {
-	z-index: 100;
+	z-index: 235;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -552,15 +528,15 @@
 
 #u4820
 {
-	z-index: 108;
+	z-index: 243;
 	width: 1200px;
 	margin-top: 33px;
 	position: relative;
 }
 
-#u1657-4
+#u1657-5
 {
-	z-index: 46;
+	z-index: 179;
 	display: block;
 	vertical-align: top;
 	margin-left: 38px;
@@ -578,7 +554,7 @@
 
 #u1655
 {
-	z-index: 44;
+	z-index: 177;
 	width: 573px;
 	border-width: 6px;
 	border-style: solid;
@@ -592,7 +568,7 @@
 
 #u4449-23
 {
-	z-index: 71;
+	z-index: 206;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -21px;
@@ -604,7 +580,7 @@
 
 #u1662
 {
-	z-index: 51;
+	z-index: 185;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -616,7 +592,7 @@
 
 #buttonu4515
 {
-	z-index: 102;
+	z-index: 237;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -668,7 +644,7 @@
 
 #u4517
 {
-	z-index: 104;
+	z-index: 239;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -686,7 +662,7 @@
 
 #u1684
 {
-	z-index: 66;
+	z-index: 201;
 	width: 1200px;
 	margin-top: 31px;
 	position: relative;
@@ -694,7 +670,7 @@
 
 #u1681-4
 {
-	z-index: 61;
+	z-index: 196;
 	left: -3px;
 	margin-top: 11px;
 	position: relative;
@@ -708,7 +684,7 @@
 
 #u1682
 {
-	z-index: 65;
+	z-index: 200;
 	width: 350px;
 	min-height: 469px;
 	border-style: none;

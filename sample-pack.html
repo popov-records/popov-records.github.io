@@ -6,8 +6,8 @@
   <meta name="generator" content="7.4.30.244"/>
   <title>SAMPLE PACK</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?4023935739"/>
-  <link rel="stylesheet" type="text/css" href="css/sample-pack.css?4061257324" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?3983832653"/>
+  <link rel="stylesheet" type="text/css" href="css/sample-pack.css?170951116" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -30,12 +30,16 @@ body,img{
     to { opacity:1;}
 }
 </style>
+
+
  </head>
  <body>
 
-  <div class="gradient clearfix" id="page"><!-- column -->
+  <div class="rgba-background clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <img class="colelem" id="u2734-4" src="images/u2734-4.png" alt="SAMPLE PACK" width="885" height="148"/><!-- rasterized frame -->
+    <div class="clearfix colelem" id="u4953"><!-- group -->
+     <img class="grpelem" id="u2734-4" src="images/u2734-4.png" alt="SAMPLE PACK" width="885" height="148"/><!-- rasterized frame -->
+    </div>
     <ul class="MenuBar clearfix mse_pre_init" id="menuu4317"><!-- horizontal box -->
      <li class="MenuItemContainer clearfix grpelem" id="u4345"><!-- vertical box -->
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu gradient clearfix colelem" id="u4348" href="index.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u4350" alt="POPOV RECORDS" src="images/blank.gif"/><!-- state-based BG images --></a>
@@ -47,7 +51,6 @@ body,img{
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive gradient clearfix colelem" id="u4339" href="sample-pack.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap grpelem" id="u4341-4"><!-- rasterized frame --><div id="u4341-4_clip"><img id="u4341-4_img" src="images/u4341-4-a.png" alt="SAMPLE PACK" width="399" height="43"/></div></div></a>
      </li>
     </ul>
-    <div class="museBGSize mse_pre_init" id="u4840"><!-- simple frame --></div>
     <div class="clip_frame colelem" id="u2735"><!-- image -->
      <img class="block" id="u2735_img" src="images/0001.png" alt="" width="1200" height="86"/>
     </div>
@@ -88,7 +91,6 @@ body,img{
   <script src="scripts/museutils.js?3880880085" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?32367222" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?56249048" type="text/javascript"></script>
-  <script src="scripts/jquery.musepolyfill.bgsize.js?3899542795" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?4199601726" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -96,8 +98,8 @@ body,img{
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu4317').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,194.35]},{"speed":[0,0],"in":[194.35,Infinity]}]);/* scroll effect */
-$('#u4840').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,193.75]},{"speed":[0,0],"in":[193.75,Infinity]}]);/* scroll effect */
+$('#menuu4317').registerPositionScrollEffect([{"in":[-Infinity,194.35],"speed":[0,1]},{"in":[194.35,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#page').registerBackgroundPositionScrollEffect([{"in":[-Infinity,36],"speed":[0,1]},{"in":[36,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
