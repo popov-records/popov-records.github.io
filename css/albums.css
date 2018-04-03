@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 499.73717292122456px;
+	min-height: 499.75px;
 	border-style: none;
 	border-color: #000000;
 	padding-bottom: 0px;
@@ -19,12 +19,12 @@
 
 #page_position_content
 {
-	margin-bottom: 256px;
+	margin-bottom: 172px;
 }
 
 #u4888
 {
-	z-index: 138;
+	z-index: 139;
 	width: 1199px;
 	border-width: 1px;
 	border-style: solid;
@@ -36,7 +36,7 @@
 
 #u1643-4
 {
-	z-index: 142;
+	z-index: 143;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -47,7 +47,7 @@
 
 #menuu4567
 {
-	z-index: 250;
+	z-index: 251;
 	width: 1200px;
 	position: fixed;
 	top: 153px;
@@ -242,7 +242,7 @@
 
 #u1673
 {
-	z-index: 197;
+	z-index: 198;
 	width: 1200px;
 	margin-top: 120px;
 	position: relative;
@@ -250,7 +250,7 @@
 
 #u1669-6
 {
-	z-index: 191;
+	z-index: 192;
 	display: block;
 	vertical-align: top;
 	left: -9px;
@@ -260,7 +260,7 @@
 
 #u4894
 {
-	z-index: 248;
+	z-index: 249;
 	width: 1128px;
 	border-width: 15px;
 	border-style: solid;
@@ -273,7 +273,7 @@
 
 #u1639-3
 {
-	z-index: 139;
+	z-index: 140;
 	width: 32px;
 	margin-left: 841px;
 	margin-top: 13px;
@@ -282,7 +282,7 @@
 
 #u4981
 {
-	z-index: 4;
+	z-index: 5;
 	width: 1158px;
 	background: transparent url("../images/u4981-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(102, 45, 145, 0.42)),color-stop(68%, rgba(0, 0, 0, 0.7)));
@@ -301,7 +301,7 @@
 
 #u4967-133
 {
-	z-index: 5;
+	z-index: 6;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -140px;
@@ -313,7 +313,7 @@
 
 #buttonu4502
 {
-	z-index: 232;
+	z-index: 233;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -365,7 +365,7 @@
 
 #u4504
 {
-	z-index: 234;
+	z-index: 235;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -383,7 +383,7 @@
 
 #u1664
 {
-	z-index: 189;
+	z-index: 190;
 	width: 1200px;
 	margin-top: 42px;
 	position: relative;
@@ -399,7 +399,7 @@
 
 #u1650-5
 {
-	z-index: 146;
+	z-index: 147;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -410,7 +410,7 @@
 
 #u3295-3
 {
-	z-index: 206;
+	z-index: 207;
 	width: 5px;
 	font-size: 100px;
 	line-height: 120px;
@@ -430,7 +430,7 @@
 
 #u4779
 {
-	z-index: 244;
+	z-index: 245;
 	width: 571px;
 	border-width: 6px;
 	border-style: solid;
@@ -443,7 +443,7 @@
 
 #u4982
 {
-	z-index: 3;
+	z-index: 4;
 	width: 585px;
 	background: transparent url("../images/u4982-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
@@ -461,7 +461,7 @@
 
 #u1653-29
 {
-	z-index: 151;
+	z-index: 152;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -12px;
@@ -473,7 +473,7 @@
 
 #u1660
 {
-	z-index: 187;
+	z-index: 188;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -486,7 +486,7 @@
 
 #buttonu4512
 {
-	z-index: 236;
+	z-index: 237;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -538,7 +538,7 @@
 
 #u4514
 {
-	z-index: 238;
+	z-index: 239;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -556,7 +556,7 @@
 
 #u4820
 {
-	z-index: 246;
+	z-index: 247;
 	width: 1200px;
 	margin-top: 33px;
 	position: relative;
@@ -564,7 +564,7 @@
 
 #u1657-5
 {
-	z-index: 182;
+	z-index: 183;
 	display: block;
 	vertical-align: top;
 	margin-left: 38px;
@@ -582,7 +582,7 @@
 
 #u1655
 {
-	z-index: 180;
+	z-index: 181;
 	width: 573px;
 	border-width: 6px;
 	border-style: solid;
@@ -597,7 +597,7 @@
 
 #u4983
 {
-	z-index: 2;
+	z-index: 3;
 	width: 588px;
 	background: transparent url("../images/u4983-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
@@ -615,7 +615,7 @@
 
 #u4449-23
 {
-	z-index: 209;
+	z-index: 210;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -57px;
@@ -627,7 +627,7 @@
 
 #u1662
 {
-	z-index: 188;
+	z-index: 189;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -639,7 +639,7 @@
 
 #buttonu4515
 {
-	z-index: 240;
+	z-index: 241;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -691,7 +691,7 @@
 
 #u4517
 {
-	z-index: 242;
+	z-index: 243;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -709,7 +709,7 @@
 
 #u1684
 {
-	z-index: 204;
+	z-index: 205;
 	width: 1200px;
 	margin-top: 31px;
 	position: relative;
@@ -717,7 +717,7 @@
 
 #u1681-4
 {
-	z-index: 199;
+	z-index: 200;
 	left: -3px;
 	margin-top: 11px;
 	position: relative;
@@ -729,17 +729,37 @@
 	vertical-align: top;
 }
 
+#u4984
+{
+	z-index: 2;
+	width: 585px;
+	background: transparent url("../images/u4984-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
+	background: -webkit-linear-gradient(top,rgba(255, 0, 255, 0.31) ,rgba(0, 0, 0, 0.7) 60%);
+	background: -moz-linear-gradient(top,rgba(255, 0, 255, 0.31) ,rgba(0, 0, 0, 0.7) 60%);
+	background: -ms-linear-gradient(top,rgba(255, 0, 255, 0.31) ,rgba(0, 0, 0, 0.7) 60%);
+	background: -o-linear-gradient(top,rgba(255, 0, 255, 0.31) ,rgba(0, 0, 0, 0.7) 60%);
+	background: linear-gradient(to bottom,rgba(255, 0, 255, 0.31) ,rgba(0, 0, 0, 0.7) 60%);
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 84px;
+	margin-left: 307px;
+	margin-top: 90px;
+	position: relative;
+}
+
 #u1682
 {
-	z-index: 203;
+	z-index: 204;
 	width: 350px;
 	min-height: 469px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 424px;
-	margin-top: 177px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 87px;
+	left: 118px;
 }
 
 body
