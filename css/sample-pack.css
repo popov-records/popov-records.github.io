@@ -7,10 +7,9 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 1689.55px;
+	min-height: 1690px;
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: #323232 url("../images/presence-page-fr2.png") repeat center center;
@@ -19,7 +18,7 @@
 
 #page_position_content
 {
-	margin-bottom: 46px;
+	margin-bottom: 111px;
 }
 
 #u4953
@@ -239,19 +238,12 @@
 	cursor: pointer;
 }
 
-#pu2735
-{
-	width: 0.01px;
-	margin-top: 137px;
-	position: relative;
-}
-
 #u2735
 {
 	z-index: 25;
 	width: 1200px;
+	margin-top: 137px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u2739-6
@@ -259,45 +251,17 @@
 	z-index: 29;
 	display: block;
 	vertical-align: top;
-	margin-bottom: -5px;
+	margin-left: 36px;
+	margin-top: 12px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 98px;
-	left: 36px;
 }
 
-#u4974
-{
-	z-index: 56;
-	width: 200px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 68px;
-	left: 633px;
-}
-
-#pu4628-18
+#pu2737
 {
 	width: 0.01px;
 	margin-left: 9px;
-	margin-top: 60px;
+	margin-top: 55px;
 	position: relative;
-}
-
-#u4628-18
-{
-	z-index: 3;
-	display: block;
-	vertical-align: top;
-	margin-bottom: -9px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -9px;
-	left: 599px;
 }
 
 #u2737
@@ -314,32 +278,16 @@
 	left: -8px;
 }
 
-#u4976
+#u4628-18
 {
-	z-index: 57;
-	width: 200px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -9px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 508px;
-	left: 624px;
-}
-
-#u4978
-{
-	z-index: 58;
-	width: 200px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 508px;
-	left: 624px;
+	margin-top: -9px;
+	left: 599px;
 }
 
 #buttonu2741
@@ -410,15 +358,6 @@
 #buttonu2741:hover #u2742
 {
 	background: url("../images/u2742-r.png") no-repeat 0px 0px;
-}
-
-#u4980-4
-{
-	z-index: 59;
-	width: 200px;
-	margin-left: 500px;
-	margin-top: 31px;
-	position: relative;
 }
 
 body
