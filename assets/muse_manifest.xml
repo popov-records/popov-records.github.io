@@ -2,13 +2,13 @@
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="3834370740" ref="index"/>
-    <file name="sample-pack.css" crc="437987341" ref="sample-pack"/>
-    <file name="albums.css" crc="270309923" ref="albums"/>
+    <file name="sample-pack.css" crc="3828044138" ref="sample-pack"/>
+    <file name="albums.css" crc="505572153" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="160838704" mt="1522728176000"/>
-    <file name="muse_manifest.xml" crc="4288732832" mt="1522735677000"/>
-    <file name="sitemap.xml" crc="420926648" mt="1522735677000"/>
+    <file name="muse_manifest.xml" crc="4091381439" mt="1522786080000"/>
+    <file name="sitemap.xml" crc="4261913520" mt="1522786080000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -80,8 +80,9 @@
     <file name="u4981-grad.png" crc="4127239588" ref="albums"/>
     <file name="u4982-grad.png" crc="3947653493" ref="albums"/>
     <file name="u4983-grad.png" crc="225466845" ref="albums"/>
+    <file name="u4984-grad.png" crc="3792148622" ref="albums"/>
   </folder>
   <file name="index.html" crc="3890403508" mt="1522727912860" redirect="true"/>
-  <file name="albums.html" crc="4062327047" mt="1522785963346" redirect="true"/>
-  <file name="sample-pack.html" crc="4166258793" mt="1522735601675" redirect="true"/>
+  <file name="albums.html" crc="213698275" mt="1522786742292" redirect="true"/>
+  <file name="sample-pack.html" crc="4166258793" mt="1522786813308" redirect="true"/>
 </manifest>
