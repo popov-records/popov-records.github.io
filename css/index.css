@@ -370,18 +370,20 @@
 
 #u4986
 {
-	z-index: 43;
+	z-index: 44;
+	height: 352px;
+	width: 462px;
+	vertical-align: top;
+	background: url("../images/u4986.png") no-repeat 2px 2px;
 	position: relative;
-	width: 458px;
 	margin-right: -10000px;
-	margin-top: 1222px;
-	left: 431px;
+	margin-top: 1220px;
+	left: 429px;
 }
 
-#u4986_img
+#u4986:hover
 {
-	display: block;
-	vertical-align: top;
+	background: url("../images/u4986-r.png") no-repeat 0px 0px;
 }
 
 #u4639
