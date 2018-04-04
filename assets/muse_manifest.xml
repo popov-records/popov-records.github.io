@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="63000596" ref="index"/>
-    <file name="sample-pack.css" crc="377801980" ref="sample-pack"/>
+    <file name="index.css" crc="358513908" ref="index"/>
+    <file name="sample-pack.css" crc="4019730295" ref="sample-pack"/>
     <file name="albums.css" crc="4027230938" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="160838704" mt="1522728176000"/>
-    <file name="muse_manifest.xml" crc="3951818352" mt="1522790829000"/>
-    <file name="sitemap.xml" crc="167603677" mt="1522790829000"/>
+    <file name="index.html" crc="3945127227" mt="1522799769000"/>
+    <file name="muse_manifest.xml" crc="3912767070" mt="1522799769000"/>
+    <file name="sitemap.xml" crc="3768556604" mt="1522799769000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -82,9 +82,10 @@
     <file name="u4983-grad.png" crc="225466845" ref="albums"/>
     <file name="u4984-grad.png" crc="3792148622" ref="albums"/>
     <file name="u4985-grad.png" crc="4176934840" ref="sample-pack"/>
-    <file name="bandcamp-1-u4986.png" crc="242337731" ref="index"/>
+    <file name="u4986.png" crc="242337731" ref="index"/>
+    <file name="u4986-r.png" crc="194387697" ref="index"/>
   </folder>
-  <file name="index.html" crc="4082317277" mt="1522799724333" redirect="true"/>
-  <file name="albums.html" crc="518259802" mt="1522799764907" redirect="true"/>
-  <file name="sample-pack.html" crc="433166113" mt="1522790834583" redirect="true"/>
+  <file name="index.html" crc="41293162" mt="1522800561021" redirect="true"/>
+  <file name="albums.html" crc="518259802" mt="1522800583375" redirect="true"/>
+  <file name="sample-pack.html" crc="433166113" mt="1522800587057" redirect="true"/>
 </manifest>
