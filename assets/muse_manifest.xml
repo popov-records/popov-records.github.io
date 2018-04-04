@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="491977508" ref="index"/>
+    <file name="index.css" crc="3918930117" ref="index"/>
     <file name="sample-pack.css" crc="4019730295" ref="sample-pack"/>
     <file name="albums.css" crc="309778629" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="475947538" mt="1522804587000"/>
-    <file name="muse_manifest.xml" crc="408881791" mt="1522804587000"/>
-    <file name="sitemap.xml" crc="4245980743" mt="1522804587000"/>
+    <file name="muse_manifest.xml" crc="4023106841" mt="1522805192000"/>
+    <file name="sitemap.xml" crc="4245980743" mt="1522805192000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -79,7 +79,7 @@
     <file name="u4983-grad.png" crc="225466845" ref="albums"/>
     <file name="u4984-grad.png" crc="3792148622" ref="albums"/>
     <file name="u4985-grad.png" crc="4176934840" ref="sample-pack"/>
-    <file name="u4986.png" crc="12358092" ref="index"/>
+    <file name="u4986.png" crc="4169618826" ref="index"/>
     <file name="u4986-r.png" crc="69565495" ref="index"/>
     <file name="u1811.png" crc="64518440" ref="index"/>
     <file name="u1811-r.png" crc="65361850" ref="index"/>
@@ -89,7 +89,7 @@
     <file name="u1805-r.png" crc="3766261119" ref="index"/>
     <file name="u1805-m.png" crc="3766261119" ref="index"/>
   </folder>
-  <file name="index.html" crc="480840948" mt="1522804556814" redirect="true"/>
-  <file name="albums.html" crc="190770270" mt="1522805116555" redirect="true"/>
-  <file name="sample-pack.html" crc="4281911901" mt="1522805191331" redirect="true"/>
+  <file name="index.html" crc="480840948" mt="1522805479686" redirect="true"/>
+  <file name="albums.html" crc="190770270" mt="1522805191020" redirect="true"/>
+  <file name="sample-pack.html" crc="4281911901" mt="1522805521591" redirect="true"/>
 </manifest>
