@@ -727,15 +727,11 @@
 #u1681-4
 {
 	z-index: 200;
+	display: block;
+	vertical-align: top;
 	left: -3px;
 	margin-top: 11px;
 	position: relative;
-}
-
-#u1681-4_img
-{
-	display: block;
-	vertical-align: top;
 }
 
 #u4984
