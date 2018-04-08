@@ -12,7 +12,7 @@
 	border-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	background: #323232 url("../images/presence-page-fr2.png") repeat center center;
+	background: #323232 url("../images/presence-page-fr.png") repeat center center;
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
@@ -63,7 +63,7 @@
 #u5162
 {
 	width: 398px;
-	background: #000000 url("../images/u5127-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -76,7 +76,7 @@
 
 #u5162:hover
 {
-	background: #000000 url("../images/u5127-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4679-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #42410B),to(#000000));
 	background: -webkit-linear-gradient(top,#42410B 30%,#000000 );
 	background: -moz-linear-gradient(top,#42410B 30%,#000000 );
@@ -88,7 +88,7 @@
 
 #u5162:active
 {
-	background: #000000 url("../images/u5127-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4679-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 30%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 30%,#000000 );
@@ -131,7 +131,7 @@
 #u5155
 {
 	width: 399px;
-	background: #000000 url("../images/u5127-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -144,7 +144,7 @@
 
 #u5155:hover
 {
-	background: #000000 url("../images/u5127-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4679-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #42410B),to(#000000));
 	background: -webkit-linear-gradient(top,#42410B 30%,#000000 );
 	background: -moz-linear-gradient(top,#42410B 30%,#000000 );
@@ -156,7 +156,7 @@
 
 #u5155:active
 {
-	background: #000000 url("../images/u5127-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4679-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 30%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 30%,#000000 );
@@ -199,7 +199,7 @@
 #u5182
 {
 	width: 399px;
-	background: #000000 url("../images/u5127-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -212,7 +212,7 @@
 
 #u5182.MuseMenuActive
 {
-	background: #000000 url("../images/u5127-grad.png") repeat-x left top;
+	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -322,7 +322,7 @@
 {
 	z-index: 36;
 	width: 288px;
-	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
+	background: #000000 url("../images/u2741-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 40%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 40%,#000000 );
@@ -344,7 +344,7 @@
 
 #buttonu2741:hover
 {
-	background: #000000 url("../images/u4502-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u2741-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FFFF),to(#000000));
 	background: -webkit-linear-gradient(top,#00FFFF 40%,#000000 );
 	background: -moz-linear-gradient(top,#00FFFF 40%,#000000 );
@@ -358,7 +358,7 @@
 
 #buttonu2741.ButtonSelected
 {
-	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
+	background: #000000 url("../images/u2741-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 40%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 40%,#000000 );
