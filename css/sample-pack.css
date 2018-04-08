@@ -63,7 +63,7 @@
 #u5162
 {
 	width: 398px;
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -76,7 +76,7 @@
 
 #u5162:hover
 {
-	background: #000000 url("../images/u4679-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #42410B),to(#000000));
 	background: -webkit-linear-gradient(top,#42410B 30%,#000000 );
 	background: -moz-linear-gradient(top,#42410B 30%,#000000 );
@@ -88,7 +88,7 @@
 
 #u5162:active
 {
-	background: #000000 url("../images/u4679-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 30%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 30%,#000000 );
@@ -131,7 +131,7 @@
 #u5155
 {
 	width: 399px;
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -144,7 +144,7 @@
 
 #u5155:hover
 {
-	background: #000000 url("../images/u4679-r-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #42410B),to(#000000));
 	background: -webkit-linear-gradient(top,#42410B 30%,#000000 );
 	background: -moz-linear-gradient(top,#42410B 30%,#000000 );
@@ -156,7 +156,7 @@
 
 #u5155:active
 {
-	background: #000000 url("../images/u4679-m-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-m-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(30%, #6B6B6B),to(#000000));
 	background: -webkit-linear-gradient(top,#6B6B6B 30%,#000000 );
 	background: -moz-linear-gradient(top,#6B6B6B 30%,#000000 );
@@ -199,7 +199,7 @@
 #u5182
 {
 	width: 399px;
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );
@@ -212,7 +212,7 @@
 
 #u5182.MuseMenuActive
 {
-	background: #000000 url("../images/u4674-grad.png") repeat-x left top;
+	background: #000000 url("../images/u5162-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(46%, #00FF00),to(#000000));
 	background: -webkit-linear-gradient(top,#00FF00 46%,#000000 );
 	background: -moz-linear-gradient(top,#00FF00 46%,#000000 );

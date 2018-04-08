@@ -58,11 +58,9 @@
 
 #u1811
 {
-	z-index: 15;
-	height: 119px;
+	z-index: 14;
 	width: 183px;
-	vertical-align: top;
-	background: url("../images/u1811.png") no-repeat 0px 0px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 42px;
@@ -71,12 +69,18 @@
 
 #u1811:hover
 {
-	background: url("../images/u1811-r.png") no-repeat 0px 0px;
+	margin: 42px -10000px 0px 0px;
+}
+
+#u1811_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
 }
 
 #u1813
 {
-	z-index: 18;
+	z-index: 17;
 	height: 312px;
 	width: 918px;
 	vertical-align: top;
@@ -95,11 +99,9 @@
 
 #u1805
 {
-	z-index: 21;
-	height: 53px;
+	z-index: 19;
 	width: 110px;
-	vertical-align: top;
-	background: url("../images/u1805.png") no-repeat 0px 0px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 75px;
@@ -108,17 +110,19 @@
 
 #u1805:hover
 {
-	background: url("../images/u1805-r.png") no-repeat 0px 0px;
+	background-color: transparent;
+	margin: 75px -10000px 0px 0px;
 }
 
 #u1805:active
 {
-	background: url("../images/u1805-m.png") no-repeat 0px 0px;
+	background-color: transparent;
+	margin: 75px -10000px 0px 0px;
 }
 
 #u5111
 {
-	z-index: 54;
+	z-index: 51;
 	width: 853px;
 	height: 54px;
 	position: relative;
@@ -137,7 +141,7 @@
 
 #menuu4657
 {
-	z-index: 32;
+	z-index: 29;
 	width: 1200px;
 	position: fixed;
 	top: 150px;
@@ -388,7 +392,7 @@
 
 #u4649
 {
-	z-index: 24;
+	z-index: 21;
 	width: 364px;
 	position: relative;
 	margin-right: -10000px;
@@ -398,7 +402,7 @@
 
 #u1807
 {
-	z-index: 28;
+	z-index: 25;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -409,7 +413,7 @@
 
 #u4723
 {
-	z-index: 30;
+	z-index: 27;
 	width: 368px;
 	position: relative;
 	margin-right: -10000px;
@@ -419,7 +423,7 @@
 
 #u4986
 {
-	z-index: 52;
+	z-index: 49;
 	height: 259px;
 	width: 338px;
 	vertical-align: top;
@@ -437,7 +441,7 @@
 
 #u4639
 {
-	z-index: 26;
+	z-index: 23;
 	width: 1029px;
 	position: fixed;
 	top: 431px;

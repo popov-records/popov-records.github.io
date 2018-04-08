@@ -1,15 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4013742364" ref="index"/>
-    <file name="sample-pack.css" crc="42996660" ref="sample-pack"/>
+    <file name="index.css" crc="3863048579" ref="index"/>
+    <file name="sample-pack.css" crc="138393594" ref="sample-pack"/>
     <file name="albums.css" crc="425660776" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3953130623" mt="1522887330000"/>
-    <file name="muse_manifest.xml" crc="4218687495" mt="1522887330000"/>
-    <file name="sitemap.xml" crc="412489227" mt="1522887330000"/>
-    <file name="3.mp3" crc="4152284372" mt="1523106674000"/>
+    <file name="index.html" crc="4057709987" mt="1523203945000"/>
+    <file name="muse_manifest.xml" crc="462020460" mt="1523204584000"/>
+    <file name="sitemap.xml" crc="192686942" mt="1523204584000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -67,13 +66,8 @@
     <file name="u4985-grad.png" crc="4176934840" ref="sample-pack"/>
     <file name="u4986.png" crc="4169618826" ref="index"/>
     <file name="u4986-r.png" crc="69565495" ref="index"/>
-    <file name="u1811.png" crc="64518440" ref="index"/>
-    <file name="u1811-r.png" crc="65361850" ref="index"/>
     <file name="u1813.png" crc="301295547" ref="index"/>
     <file name="u1813-r.png" crc="4073107146" ref="index"/>
-    <file name="u1805.png" crc="4109705710" ref="index"/>
-    <file name="u1805-r.png" crc="3766261119" ref="index"/>
-    <file name="u1805-m.png" crc="3766261119" ref="index"/>
     <file name="u5034-grad.png" crc="112477649" ref="index"/>
     <file name="u4680-r.png" crc="370896156" ref="index"/>
     <file name="u4688-r.png" crc="4090716627" ref="index"/>
@@ -94,13 +88,18 @@
     <file name="u5157-r.png" crc="370896156" ref="sample-pack"/>
     <file name="u5157-a.png" crc="4227181297" ref="sample-pack"/>
     <file name="u5184-4-a.png" crc="35317143" ref="sample-pack"/>
-    <file name="u4674-grad.png" crc="3844420172" ref="index:sample-pack"/>
-    <file name="u4679-r-grad.png" crc="18129895" ref="index:sample-pack"/>
-    <file name="u4679-m-grad.png" crc="131545940" ref="index:sample-pack"/>
+    <file name="u4674-grad.png" crc="3844420172" ref="index"/>
+    <file name="u4679-r-grad.png" crc="18129895" ref="index"/>
+    <file name="u4679-m-grad.png" crc="131545940" ref="index"/>
     <file name="u2741-grad.png" crc="4173427513" ref="sample-pack"/>
     <file name="u2741-r-grad.png" crc="477634280" ref="sample-pack"/>
+    <file name="u5162-grad.png" crc="3844420172" ref="sample-pack"/>
+    <file name="u5162-r-grad.png" crc="18129895" ref="sample-pack"/>
+    <file name="u5162-m-grad.png" crc="131545940" ref="sample-pack"/>
+    <file name="7772.png" crc="353307193" ref="index"/>
+    <file name="facebook-logo.png" crc="271883350" ref="index"/>
   </folder>
-  <file name="index.html" crc="37787105" mt="1522898645291" redirect="true"/>
+  <file name="index.html" crc="321543761" mt="1523204715579" redirect="true"/>
   <file name="albums.html" crc="4098952223" mt="1522887239788" redirect="true"/>
-  <file name="sample-pack.html" crc="4239603881" mt="1523203808318" redirect="true"/>
+  <file name="sample-pack.html" crc="3922809581" mt="1522887252283" redirect="true"/>
 </manifest>
