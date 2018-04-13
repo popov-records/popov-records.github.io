@@ -364,7 +364,7 @@
 	background: linear-gradient(to bottom,rgba(255, 0, 255, 0.58) 20%,#FF0000 );
 	border-style: none;
 	border-color: transparent;
-	padding-bottom: 368px;
+	padding-bottom: 519px;
 	position: relative;
 	margin-right: -10000px;
 	left: 63px;
@@ -373,11 +373,11 @@
 #u4741
 {
 	z-index: 6;
-	width: 1199px;
+	width: 1054px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 16px;
-	left: 1px;
+	margin-top: 10px;
+	left: 75px;
 }
 
 #u1804-3
