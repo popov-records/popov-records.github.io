@@ -301,18 +301,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1811.png</loc>
-    <lastmod>2018-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1811-r.png</loc>
-    <lastmod>2018-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1813.png</loc>
     <lastmod>2018-04-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,24 +308,6 @@
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1813-r.png</loc>
-    <lastmod>2018-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1805.png</loc>
-    <lastmod>2018-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1805-r.png</loc>
-    <lastmod>2018-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1805-m.png</loc>
     <lastmod>2018-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -511,8 +481,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/7772.png</loc>
+    <lastmod>2018-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/facebook-logo.png</loc>
+    <lastmod>2018-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/index.html</loc>
-    <lastmod>2018-04-05</lastmod>
+    <lastmod>2018-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

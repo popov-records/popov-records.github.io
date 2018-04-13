@@ -6,9 +6,9 @@
     <file name="albums.css" crc="425660776" ref="albums"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4057709987" mt="1523203945000"/>
-    <file name="muse_manifest.xml" crc="462020460" mt="1523204584000"/>
-    <file name="sitemap.xml" crc="192686942" mt="1523204584000"/>
+    <file name="index.html" crc="23873322" mt="1523204731000"/>
+    <file name="muse_manifest.xml" crc="51575949" mt="1523204731000"/>
+    <file name="sitemap.xml" crc="148916033" mt="1523204731000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -100,6 +100,6 @@
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
   </folder>
   <file name="index.html" crc="321543761" mt="1523204715579" redirect="true"/>
-  <file name="albums.html" crc="4098952223" mt="1522887239788" redirect="true"/>
+  <file name="albums.html" crc="3823246893" mt="1523586390192" redirect="true"/>
   <file name="sample-pack.html" crc="3922809581" mt="1522887252283" redirect="true"/>
 </manifest>
