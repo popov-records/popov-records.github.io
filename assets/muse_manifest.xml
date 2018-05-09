@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="3863048579" ref="index"/>
+    <file name="index.css" crc="436323596" ref="index"/>
     <file name="sample-pack.css" crc="138393594" ref="sample-pack"/>
     <file name="albums.css" crc="425660776" ref="albums"/>
   </folder>
   <folder name="assets">
     <file name="index.html" crc="23873322" mt="1523204731000"/>
-    <file name="muse_manifest.xml" crc="4216003123" mt="1523586403000"/>
-    <file name="sitemap.xml" crc="4161050954" mt="1523586403000"/>
+    <file name="muse_manifest.xml" crc="3909833994" mt="1523587609000"/>
+    <file name="sitemap.xml" crc="4279576423" mt="1523587609000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:sample-pack"/>
@@ -99,7 +99,7 @@
     <file name="7772.png" crc="353307193" ref="index"/>
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
   </folder>
-  <file name="index.html" crc="321543761" mt="1523204715579" redirect="true"/>
+  <file name="index.html" crc="3962148376" mt="1523598477221" redirect="true"/>
   <file name="albums.html" crc="3823246893" mt="1523586390192" redirect="true"/>
   <file name="sample-pack.html" crc="328620363" mt="1523587599641" redirect="true"/>
 </manifest>
