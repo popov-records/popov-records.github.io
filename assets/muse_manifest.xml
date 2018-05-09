@@ -3,12 +3,12 @@
     <file name="site_global.css" crc="4023935739"/>
     <file name="index.css" crc="4017462685" ref="index"/>
     <file name="albums.css" crc="425660776" ref="albums"/>
-    <file name="compilation.css" crc="121517219" ref="compilation"/>
+    <file name="compilation.css" crc="378341136" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4145781725" mt="1525900805000"/>
-    <file name="muse_manifest.xml" crc="4133342216" mt="1525901197000"/>
-    <file name="sitemap.xml" crc="86366699" mt="1525901197000"/>
+    <file name="index.html" crc="64855905" mt="1525904101000"/>
+    <file name="muse_manifest.xml" crc="237398776" mt="1525904354000"/>
+    <file name="sitemap.xml" crc="4175928237" mt="1525904354000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -27,8 +27,8 @@
     <file name="popov-records-favicon.ico" crc="4233994155" ref="index"/>
     <file name="u1653-29.png" crc="439244387" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
-    <file name="u4502-grad.png" crc="4173427513" ref="albums:compilation"/>
-    <file name="u4502-r-grad.png" crc="477634280" ref="albums:compilation"/>
+    <file name="u4502-grad.png" crc="4173427513" ref="albums"/>
+    <file name="u4502-r-grad.png" crc="477634280" ref="albums"/>
     <file name="u4504.png" crc="328100398" ref="albums"/>
     <file name="u4504-r.png" crc="4243895445" ref="albums"/>
     <file name="u4514.png" crc="328100398" ref="albums"/>
@@ -46,7 +46,7 @@
     <file name="eee8f423.gif" crc="4027823114" ref="index"/>
     <file name="552.jpg" crc="3822793830" ref="albums"/>
     <file name="popov records.jpg" crc="8539428" ref="albums"/>
-    <file name="presence-page-fr.png" crc="3831714568" ref="albums"/>
+    <file name="presence-page-fr.png" crc="3831714568" ref="albums:compilation"/>
     <file name="presence.jpg" crc="211251185" ref="index"/>
     <file name="u4835-grad.png" crc="121709721" ref="index"/>
     <file name="u1669-6.png" crc="435619978" ref="albums"/>
@@ -64,9 +64,9 @@
     <file name="u5034-grad.png" crc="112477649" ref="index"/>
     <file name="u4680-r.png" crc="370896156" ref="index"/>
     <file name="u4688-r.png" crc="133177627" ref="index"/>
-    <file name="u5127-grad.png" crc="3844420172" ref="albums:index:compilation"/>
-    <file name="u5127-r-grad.png" crc="18129895" ref="albums:index:compilation"/>
-    <file name="u5127-m-grad.png" crc="131545940" ref="albums:index:compilation"/>
+    <file name="u5127-grad.png" crc="3844420172" ref="albums:index"/>
+    <file name="u5127-r-grad.png" crc="18129895" ref="albums:index"/>
+    <file name="u5127-m-grad.png" crc="131545940" ref="albums:index"/>
     <file name="u5129.png" crc="4154818497" ref="albums"/>
     <file name="u5129-r.png" crc="3967864283" ref="albums"/>
     <file name="u5129-a.png" crc="4154818497" ref="albums"/>
@@ -83,16 +83,20 @@
     <file name="u5184-4-a.png" crc="436227061" ref="compilation"/>
     <file name="7772.png" crc="353307193" ref="index"/>
     <file name="facebook-logo.png" crc="271883350" ref="index"/>
-    <file name="presence-page-fr2.png" crc="3831714568" ref="compilation"/>
     <file name="u2734-4.png" crc="4083489529" ref="compilation"/>
     <file name="u5206-5.png" crc="73439468" ref="compilation"/>
     <file name="u5213-grad.png" crc="282125572" ref="compilation"/>
     <file name="8e4zzns5fki.jpg" crc="3896624480" ref="compilation"/>
-    <file name="u5210-60.png" crc="4043365384" ref="compilation"/>
+    <file name="u5210-60.png" crc="492461525" ref="compilation"/>
     <file name="u5216.png" crc="328100398" ref="compilation"/>
     <file name="u5216-r.png" crc="4243895445" ref="compilation"/>
+    <file name="u5162-grad.png" crc="3844420172" ref="compilation"/>
+    <file name="u5162-r-grad.png" crc="18129895" ref="compilation"/>
+    <file name="u5162-m-grad.png" crc="131545940" ref="compilation"/>
+    <file name="u5215-grad.png" crc="4173427513" ref="compilation"/>
+    <file name="u5215-r-grad.png" crc="477634280" ref="compilation"/>
   </folder>
   <file name="index.html" crc="4293237301" mt="1525904049100" redirect="true"/>
   <file name="albums.html" crc="522343911" mt="1525904049096" redirect="true"/>
-  <file name="compilation.html" crc="3891094138" mt="1525904061854" redirect="true"/>
+  <file name="compilation.html" crc="4111171973" mt="1525904783600" redirect="true"/>
 </manifest>
