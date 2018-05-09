@@ -6,9 +6,9 @@
     <file name="compilation.css" crc="121517219" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4145781725" mt="1525900805000"/>
-    <file name="muse_manifest.xml" crc="4133342216" mt="1525901197000"/>
-    <file name="sitemap.xml" crc="86366699" mt="1525901197000"/>
+    <file name="index.html" crc="64855905" mt="1525904101000"/>
+    <file name="muse_manifest.xml" crc="60862996" mt="1525904102000"/>
+    <file name="sitemap.xml" crc="4175928237" mt="1525904102000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
