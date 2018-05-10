@@ -7,8 +7,8 @@
   </folder>
   <folder name="assets">
     <file name="index.html" crc="64855905" mt="1525904101000"/>
-    <file name="muse_manifest.xml" crc="379922753" mt="1525904869000"/>
-    <file name="sitemap.xml" crc="262447320" mt="1525904869000"/>
+    <file name="muse_manifest.xml" crc="3959650474" mt="1525963644000"/>
+    <file name="sitemap.xml" crc="257032144" mt="1525963644000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
