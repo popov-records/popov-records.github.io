@@ -140,7 +140,7 @@
 
 #menuu4657
 {
-	z-index: 32;
+	z-index: 30;
 	width: 1200px;
 	position: fixed;
 	top: 150px;
@@ -355,7 +355,7 @@
 {
 	z-index: 2;
 	width: 1200px;
-	min-height: 1623px;
+	min-height: 1774px;
 	background: transparent url("../images/u5288-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(20%, rgba(255, 0, 255, 0.58)),to(#FF0000));
 	background: -webkit-linear-gradient(top,rgba(255, 0, 255, 0.58) 20%,#FF0000 );
@@ -365,9 +365,9 @@
 	background: linear-gradient(to bottom,rgba(255, 0, 255, 0.58) 20%,#FF0000 );
 	border-style: none;
 	border-color: transparent;
-	line-height: 180px;
 	text-align: center;
 	font-size: 150px;
+	line-height: 180px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
@@ -402,62 +402,51 @@
 	margin-top: 198px;
 }
 
-#u5258
+#u5294
 {
 	z-index: 26;
-	width: 200px;
-	min-height: 1262px;
+	width: 961px;
+	min-height: 860px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 72px;
-	line-height: 86px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 293px;
+	left: 23px;
+}
+
+#u5308
+{
+	z-index: 27;
+	width: 200px;
+	min-height: 1466px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 293px;
 	left: 1002px;
 }
 
-#u5291
+#u5310
 {
 	z-index: 28;
-	background: url("../images/u5291_states.png") no-repeat 0px 0px;
-	position: relative;
-	width: 993px;
-	margin-right: -10000px;
-	margin-top: 1294px;
-	left: 6px;
-}
-
-#u5291_states
-{
-	height: 202px;
-	width: 993px;
-	vertical-align: top;
-}
-
-#u5291:hover #u5291_states
-{
-	background: url("../images/u5291_states-r.png") no-repeat 9px 9px;
-}
-
-#u5294
-{
-	z-index: 30;
-	width: 894px;
-	min-height: 908px;
+	width: 962px;
+	min-height: 434px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 295px;
-	left: 56px;
+	margin-top: 1319px;
+	left: 15px;
 }
 
 #u5278
 {
-	z-index: 31;
+	z-index: 29;
 	width: 1200px;
 	min-height: 100px;
 	border-style: none;

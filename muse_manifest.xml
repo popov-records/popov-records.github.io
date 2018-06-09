@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="107662986" ref="index"/>
-    <file name="albums.css" crc="4260459343" ref="albums"/>
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="index.css" crc="3819856859" ref="index"/>
+    <file name="albums.css" crc="381528020" ref="albums"/>
     <file name="compilation.css" crc="4227842657" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="4138009399" mt="1525997560000"/>
-    <file name="muse_manifest.xml" crc="290365192" mt="1526158821000"/>
-    <file name="sitemap.xml" crc="318403837" mt="1526158821000"/>
+    <file name="index.html" crc="4142489935" mt="1528490226000"/>
+    <file name="muse_manifest.xml" crc="535754313" mt="1528490226000"/>
+    <file name="sitemap.xml" crc="230612652" mt="1528490226000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -89,11 +89,10 @@
     <file name="u5162-m-grad.png" crc="131545940" ref="compilation"/>
     <file name="u5215-grad.png" crc="4173427513" ref="compilation"/>
     <file name="u5215-r-grad.png" crc="477634280" ref="compilation"/>
-    <file name="u5288-grad.png" crc="3908129061" ref="index"/>
-    <file name="u5291_states.png" crc="246027396" ref="index"/>
-    <file name="u5291_states-r.png" crc="4228879692" ref="index"/>
+    <file name="u5288-grad.png" crc="3828158990" ref="index"/>
+    <file name="88-u5312.png" crc="4065932445" ref="albums"/>
   </folder>
-  <file name="index.html" crc="4088672922" mt="1528490076696" redirect="true"/>
-  <file name="albums.html" crc="4259764253" mt="1528480350996" redirect="true"/>
+  <file name="index.html" crc="3917460072" mt="1528502834561" redirect="true"/>
+  <file name="albums.html" crc="4015543468" mt="1528503119316" redirect="true"/>
   <file name="compilation.html" crc="3937080711" mt="1526158715947" redirect="true"/>
 </manifest>
