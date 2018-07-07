@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/assets/index.html</loc>
-    <lastmod>2018-07-04</lastmod>
+    <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/assets/muse_manifest.xml</loc>
-    <lastmod>2018-07-04</lastmod>
+    <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/assets/sitemap.xml</loc>
-    <lastmod>2018-07-04</lastmod>
+    <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -205,18 +205,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1813.png</loc>
-    <lastmod>2018-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u1813-r.png</loc>
-    <lastmod>2018-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4680-r.png</loc>
     <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -331,18 +319,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/7772.png</loc>
-    <lastmod>2018-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/facebook-logo.png</loc>
-    <lastmod>2018-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u2734-4.png</loc>
     <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -445,19 +421,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4674-grad.png</loc>
-    <lastmod>2018-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4679-r-grad.png</loc>
-    <lastmod>2018-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u4679-m-grad.png</loc>
+    <loc>http://wwwpopov-recordscom.000webhostapp.com/images/u5322-4.png</loc>
     <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -470,7 +434,7 @@
   </url>
   <url>
     <loc>http://wwwpopov-recordscom.000webhostapp.com/albums.html</loc>
-    <lastmod>2018-07-04</lastmod>
+    <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
