@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="3973737797" ref="index"/>
+    <file name="index.css" crc="288290214" ref="index"/>
     <file name="albums.css" crc="381528020" ref="albums"/>
     <file name="compilation.css" crc="4227842657" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="379699283" mt="1528560372000"/>
-    <file name="muse_manifest.xml" crc="4252351621" mt="1528560372000"/>
-    <file name="sitemap.xml" crc="468620149" mt="1528560372000"/>
+    <file name="index.html" crc="271258676" mt="1530689663000"/>
+    <file name="muse_manifest.xml" crc="4128426222" mt="1530689663000"/>
+    <file name="sitemap.xml" crc="61127803" mt="1530689663000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -24,7 +24,7 @@
     <file name="0001.png" crc="4110672584" ref="albums:compilation:index"/>
     <file name="u1643-4.png" crc="3913076786" ref="albums"/>
     <file name="u1681-4.png" crc="110500383" ref="albums"/>
-    <file name="popov-records-favicon.ico" crc="171653423" ref="index"/>
+    <file name="popov-records-favicon.ico" crc="527317253" ref="index"/>
     <file name="u1653-29.png" crc="439244387" ref="albums"/>
     <file name="u4449-23.png" crc="4225773529" ref="albums"/>
     <file name="u4502-grad.png" crc="4173427513" ref="albums"/>
@@ -54,9 +54,9 @@
     <file name="u1813-r.png" crc="4073107146" ref="index"/>
     <file name="u4680-r.png" crc="370896156" ref="index"/>
     <file name="u4688-r.png" crc="4279699463" ref="index"/>
-    <file name="u5127-grad.png" crc="3844420172" ref="albums:index"/>
-    <file name="u5127-r-grad.png" crc="18129895" ref="albums:index"/>
-    <file name="u5127-m-grad.png" crc="131545940" ref="albums:index"/>
+    <file name="u5127-grad.png" crc="3844420172" ref="albums"/>
+    <file name="u5127-r-grad.png" crc="18129895" ref="albums"/>
+    <file name="u5127-m-grad.png" crc="131545940" ref="albums"/>
     <file name="u5129.png" crc="4154818497" ref="albums"/>
     <file name="u5129-r.png" crc="3967864283" ref="albums"/>
     <file name="u5129-a.png" crc="4154818497" ref="albums"/>
@@ -90,8 +90,11 @@
     <file name="u5215-r-grad.png" crc="477634280" ref="compilation"/>
     <file name="u5288-grad.png" crc="3912504388" ref="index"/>
     <file name="88-u5312.png" crc="4065932445" ref="albums"/>
+    <file name="u4674-grad.png" crc="3844420172" ref="index"/>
+    <file name="u4679-r-grad.png" crc="18129895" ref="index"/>
+    <file name="u4679-m-grad.png" crc="131545940" ref="index"/>
   </folder>
-  <file name="index.html" crc="3881753391" mt="1530689549317" redirect="true"/>
+  <file name="index.html" crc="3831653487" mt="1530692109011" redirect="true"/>
   <file name="albums.html" crc="4015543468" mt="1530687949478" redirect="true"/>
   <file name="compilation.html" crc="3937080711" mt="1526158715947" redirect="true"/>
 </manifest>
