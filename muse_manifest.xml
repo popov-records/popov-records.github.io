@@ -6,9 +6,9 @@
     <file name="compilation.css" crc="4227842657" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3887667102" mt="1530988040000"/>
-    <file name="muse_manifest.xml" crc="111149522" mt="1530988040000"/>
-    <file name="sitemap.xml" crc="4199018419" mt="1530988040000"/>
+    <file name="index.html" crc="468843541" mt="1530989570000"/>
+    <file name="muse_manifest.xml" crc="3965752330" mt="1530989570000"/>
+    <file name="sitemap.xml" crc="4250680434" mt="1530989570000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -25,7 +25,7 @@
     <file name="u1643-4.png" crc="3913076786" ref="albums"/>
     <file name="u1681-4.png" crc="110500383" ref="albums"/>
     <file name="popov-records-favicon.ico" crc="527317253" ref="index"/>
-    <file name="u1653-29.png" crc="198134229" ref="albums"/>
+    <file name="u1653-29.png" crc="356672482" ref="albums"/>
     <file name="u4449-23.png" crc="175196509" ref="albums"/>
     <file name="u4502-grad.png" crc="4173427513" ref="albums"/>
     <file name="u4502-r-grad.png" crc="477634280" ref="albums"/>
@@ -89,6 +89,6 @@
     <file name="u5322-4.png" crc="495458545" ref="index"/>
   </folder>
   <file name="index.html" crc="3827622360" mt="1530988680265" redirect="true"/>
-  <file name="albums.html" crc="3762745374" mt="1530989508777" redirect="true"/>
+  <file name="albums.html" crc="530934856" mt="1531083130953" redirect="true"/>
   <file name="compilation.html" crc="3937080711" mt="1526158715947" redirect="true"/>
 </manifest>
