@@ -152,11 +152,16 @@
 #u5322-4
 {
 	z-index: 19;
-	display: block;
-	vertical-align: top;
 	position: relative;
+	width: 1201px;
 	margin-right: -10000px;
 	left: 3px;
+}
+
+#u5322-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 
 #slideshowu5559
