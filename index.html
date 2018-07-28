@@ -8,7 +8,7 @@
   <title>POPOV RECORDS</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4023935739"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?287801370" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?161622966" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -83,17 +83,17 @@ body,img{
     <div class="SlideShowWidget clearfix grpelem" id="slideshowu5559"><!-- none box -->
      <div class="popup_anchor" id="u5565popup">
       <div class="SlideShowContentPanel clearfix" id="u5565"><!-- stack box -->
-       <div class="SSSlide clip_frame clearfix grpelem" id="u5566"><!-- image -->
+       <div class="SSSlide shadow clip_frame clearfix grpelem" id="u5566"><!-- image -->
         <div id="u5566_clip">
          <img class="ImageInclude position_content" id="u5566_img" data-src="images/26230718_518810491818403_3791275404397609292_n.jpg" src="images/blank.gif" alt="" data-width="960" data-height="960"/>
         </div>
        </div>
-       <div class="SSSlide invi clip_frame clearfix grpelem" id="u5611"><!-- image -->
+       <div class="SSSlide invi shadow clip_frame clearfix grpelem" id="u5611"><!-- image -->
         <div id="u5611_clip">
          <img class="ImageInclude position_content" id="u5611_img" data-src="images/cover.jpg" src="images/blank.gif" alt="" data-width="960" data-height="960"/>
         </div>
        </div>
-       <div class="SSSlide invi clip_frame clearfix grpelem" id="u5625"><!-- image -->
+       <div class="SSSlide invi shadow clip_frame clearfix grpelem" id="u5625"><!-- image -->
         <div id="u5625_clip">
          <img class="ImageInclude position_content" id="u5625_img" data-src="images/cover2.jpg" src="images/blank.gif" alt="" data-width="960" data-height="960"/>
         </div>
@@ -186,8 +186,8 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('#slideshowu5559', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,fullScreen:false})); });/* #slideshowu5559 */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu4657').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,180.55]},{"speed":[0,0],"in":[180.55,Infinity]}]);/* scroll effect */
-$('#page').registerBackgroundPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,30]},{"speed":[0,0],"in":[30,Infinity]}]);/* scroll effect */
+$('#menuu4657').registerPositionScrollEffect([{"in":[-Infinity,180.55],"speed":[0,1]},{"in":[180.55,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#page').registerBackgroundPositionScrollEffect([{"in":[-Infinity,30],"speed":[0,1]},{"in":[30,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

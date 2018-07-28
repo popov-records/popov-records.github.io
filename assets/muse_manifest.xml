@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="436733330" ref="index"/>
+    <file name="index.css" crc="287801370" ref="index"/>
     <file name="albums.css" crc="241450024" ref="albums"/>
     <file name="compilation.css" crc="75058758" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="110958934" mt="1532803980000"/>
-    <file name="muse_manifest.xml" crc="4183191077" mt="1532803980000"/>
-    <file name="sitemap.xml" crc="4007802760" mt="1532803980000"/>
+    <file name="index.html" crc="219919678" mt="1532804139000"/>
+    <file name="muse_manifest.xml" crc="371233887" mt="1532804139000"/>
+    <file name="sitemap.xml" crc="4007802760" mt="1532804139000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -95,7 +95,7 @@
     <file name="u4679-r-grad.png" crc="18129895" ref="index"/>
     <file name="u4679-m-grad.png" crc="131545940" ref="index"/>
   </folder>
-  <file name="index.html" crc="288258051" mt="1532804093507" redirect="true"/>
+  <file name="index.html" crc="401412831" mt="1532804882310" redirect="true"/>
   <file name="albums.html" crc="169837644" mt="1532798155143" redirect="true"/>
   <file name="compilation.html" crc="4163645078" mt="1532798155159" redirect="true"/>
 </manifest>

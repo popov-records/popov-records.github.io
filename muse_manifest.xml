@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="287801370" ref="index"/>
+    <file name="index.css" crc="161622966" ref="index"/>
     <file name="albums.css" crc="241450024" ref="albums"/>
     <file name="compilation.css" crc="75058758" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="219919678" mt="1532804139000"/>
-    <file name="muse_manifest.xml" crc="371233887" mt="1532804139000"/>
-    <file name="sitemap.xml" crc="4007802760" mt="1532804139000"/>
+    <file name="index.html" crc="4248487878" mt="1532804935000"/>
+    <file name="muse_manifest.xml" crc="4252505775" mt="1532804935000"/>
+    <file name="sitemap.xml" crc="4007802760" mt="1532804935000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -16,7 +16,7 @@
     <file name="jquery.watch.js" crc="4199601726" ref="index:albums:compilation"/>
     <file name="jquery.musemenu.js" crc="32367222" ref="albums:index:compilation"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="index:albums:compilation"/>
-    <file name="pie.js" crc="4147615982" ref="albums:compilation"/>
+    <file name="pie.js" crc="4147615982" ref="albums:compilation:index"/>
     <file name="webpro.js" crc="33264525" ref="index"/>
     <file name="musewpslideshow.js" crc="272207905" ref="index"/>
     <file name="jquery.museoverlay.js" crc="466079611" ref="index"/>
@@ -95,7 +95,7 @@
     <file name="u4679-r-grad.png" crc="18129895" ref="index"/>
     <file name="u4679-m-grad.png" crc="131545940" ref="index"/>
   </folder>
-  <file name="index.html" crc="401412831" mt="1532804882310" redirect="true"/>
+  <file name="index.html" crc="490422773" mt="1532807648005" redirect="true"/>
   <file name="albums.html" crc="169837644" mt="1532798155143" redirect="true"/>
   <file name="compilation.html" crc="4163645078" mt="1532798155159" redirect="true"/>
 </manifest>
