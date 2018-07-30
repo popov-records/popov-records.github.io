@@ -7,18 +7,24 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 7846px;
+	min-height: 7845.8px;
 	border-style: none;
 	border-color: #000000;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: #323232 url("../images/presence-page-fr.png") repeat center center;
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
+#page_position_content
+{
+	margin-bottom: 1px;
+}
+
 #u4888
 {
-	z-index: 145;
+	z-index: 144;
 	width: 1199px;
 	border-width: 1px;
 	border-style: solid;
@@ -30,7 +36,7 @@
 
 #u1643-4
 {
-	z-index: 149;
+	z-index: 148;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -41,7 +47,7 @@
 
 #menuu5118
 {
-	z-index: 279;
+	z-index: 278;
 	width: 1200px;
 	position: fixed;
 	top: 153px;
@@ -246,31 +252,31 @@
 
 #u5657
 {
-	z-index: 6;
-	width: 1202px;
+	z-index: 5;
+	width: 1200px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #232121;
+	background-color: #282828;
 	margin-top: 162px;
 	position: relative;
 }
 
 #u5657_position_content
 {
-	margin-top: -42px;
+	margin-top: -43px;
 	margin-bottom: 28px;
 }
 
 #u1673
 {
-	z-index: 204;
+	z-index: 203;
 	width: 1200px;
 	position: relative;
 }
 
 #u1669-6
 {
-	z-index: 198;
+	z-index: 197;
 	display: block;
 	vertical-align: top;
 	left: -9px;
@@ -288,7 +294,7 @@
 
 #u4981
 {
-	z-index: 11;
+	z-index: 10;
 	width: 1158px;
 	background: transparent url("../images/u4981-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(36%, rgba(102, 45, 145, 0.28)),to(rgba(0, 0, 0, 0.7)));
@@ -315,7 +321,7 @@
 
 #u5235
 {
-	z-index: 277;
+	z-index: 276;
 	width: 1048px;
 	border-width: 17px;
 	border-style: solid;
@@ -327,7 +333,7 @@
 
 #u4967-133
 {
-	z-index: 12;
+	z-index: 11;
 	display: block;
 	vertical-align: top;
 	margin-left: 37px;
@@ -337,7 +343,7 @@
 
 #u1639-3
 {
-	z-index: 146;
+	z-index: 145;
 	width: 32px;
 	position: relative;
 	margin-right: -10000px;
@@ -347,7 +353,7 @@
 
 #buttonu4502
 {
-	z-index: 239;
+	z-index: 238;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -399,7 +405,7 @@
 
 #u4504
 {
-	z-index: 241;
+	z-index: 240;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -441,31 +447,31 @@
 
 #u5658
 {
-	z-index: 5;
+	z-index: 4;
 	width: 1200px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #232121;
-	padding-bottom: 15px;
+	background-color: #282828;
+	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 44px;
+	margin-top: 43px;
 }
 
 #u1650-5
 {
-	z-index: 153;
+	z-index: 152;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 58px;
+	margin-top: 59px;
 	left: 11px;
 }
 
 #u1664
 {
-	z-index: 196;
+	z-index: 195;
 	width: 1200px;
 	position: relative;
 	margin-right: -10000px;
@@ -473,7 +479,7 @@
 
 #u4982
 {
-	z-index: 10;
+	z-index: 9;
 	width: 1198px;
 	background: transparent url("../images/u4982-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
@@ -505,7 +511,7 @@
 
 #u4779
 {
-	z-index: 251;
+	z-index: 250;
 	width: 571px;
 	border-width: 6px;
 	border-style: solid;
@@ -519,7 +525,7 @@
 
 #u1653-29
 {
-	z-index: 158;
+	z-index: 157;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -5px;
@@ -531,7 +537,7 @@
 
 #u1660
 {
-	z-index: 194;
+	z-index: 193;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -544,7 +550,7 @@
 
 #u3295-3
 {
-	z-index: 213;
+	z-index: 212;
 	width: 5px;
 	font-size: 100px;
 	line-height: 120px;
@@ -556,7 +562,7 @@
 
 #buttonu4512
 {
-	z-index: 243;
+	z-index: 242;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -608,7 +614,7 @@
 
 #u4514
 {
-	z-index: 245;
+	z-index: 244;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -626,41 +632,42 @@
 
 #u5659
 {
-	z-index: 4;
+	z-index: 3;
 	width: 1200px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #232121;
+	background-color: #282828;
+	left: -1px;
 	margin-top: 56px;
 	position: relative;
 }
 
 #u5659_position_content
 {
-	margin-top: -42px;
-	margin-bottom: 41px;
+	margin-top: -43px;
+	margin-bottom: 40px;
 }
 
 #u4820
 {
-	z-index: 253;
+	z-index: 252;
 	width: 1200px;
 	position: relative;
 }
 
 #u1657-5
 {
-	z-index: 189;
+	z-index: 188;
 	display: block;
 	vertical-align: top;
-	margin-left: 38px;
+	margin-left: 39px;
 	margin-top: 15px;
 	position: relative;
 }
 
 #u4983
 {
-	z-index: 9;
+	z-index: 8;
 	width: 1198px;
 	background: transparent url("../images/u4982-grad.png") repeat-y left top;
 	background: -webkit-gradient(linear, left center, right center, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
@@ -673,8 +680,6 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	left: -1px;
-	top: -1px;
-	margin-bottom: -1px;
 	position: relative;
 }
 
@@ -693,7 +698,7 @@
 
 #u1655
 {
-	z-index: 187;
+	z-index: 186;
 	width: 573px;
 	border-width: 6px;
 	border-style: solid;
@@ -707,7 +712,7 @@
 
 #u4449-23
 {
-	z-index: 216;
+	z-index: 215;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -21px;
@@ -719,7 +724,7 @@
 
 #u1662
 {
-	z-index: 195;
+	z-index: 194;
 	width: 1200px;
 	min-height: 170px;
 	border-style: none;
@@ -732,7 +737,7 @@
 
 #buttonu4515
 {
-	z-index: 247;
+	z-index: 246;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -784,7 +789,7 @@
 
 #u4517
 {
-	z-index: 249;
+	z-index: 248;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
@@ -800,34 +805,17 @@
 	background: url("../images/u4517-r.png") no-repeat 0px 0px;
 }
 
-#u5660
-{
-	z-index: 3;
-	width: 1201px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #232121;
-	margin-top: 62px;
-	position: relative;
-}
-
-#u5660_position_content
-{
-	margin-top: -43px;
-	margin-bottom: 59px;
-}
-
 #u1684
 {
-	z-index: 211;
+	z-index: 210;
 	width: 1200px;
-	margin-left: 1px;
+	margin-top: 19px;
 	position: relative;
 }
 
 #u1681-4
 {
-	z-index: 206;
+	z-index: 205;
 	display: block;
 	vertical-align: top;
 	left: -3px;
@@ -838,12 +826,13 @@
 #pu5228
 {
 	width: 0.01px;
+	margin-top: 59px;
 	position: relative;
 }
 
 #u5228
 {
-	z-index: 7;
+	z-index: 6;
 	width: 588px;
 	background: transparent url("../images/u5228-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
@@ -864,7 +853,7 @@
 
 #u5227-22
 {
-	z-index: 255;
+	z-index: 254;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -40px;
@@ -876,7 +865,7 @@
 
 #u4984
 {
-	z-index: 8;
+	z-index: 7;
 	width: 608px;
 	background: transparent url("../images/u5228-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(rgba(255, 0, 255, 0.31)),color-stop(60%, rgba(0, 0, 0, 0.7)));
@@ -898,7 +887,7 @@
 
 #u1682
 {
-	z-index: 210;
+	z-index: 209;
 	width: 350px;
 	min-height: 455px;
 	border-style: none;
@@ -910,26 +899,26 @@
 	left: 129px;
 }
 
-#u5661
+#u5660
 {
 	z-index: 2;
 	width: 1200px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #000000;
+	background-color: #020202;
 	position: relative;
 }
 
 #u5312
 {
-	z-index: 298;
+	z-index: 297;
 	display: block;
 	vertical-align: top;
-	margin-bottom: -17px;
+	margin-bottom: -15px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 95px;
-	left: 214px;
+	margin-top: 61px;
+	left: 171px;
 }
 
 body
