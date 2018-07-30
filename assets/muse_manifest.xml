@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="4007450545" ref="index"/>
+    <file name="index.css" crc="3788008741" ref="index"/>
     <file name="albums.css" crc="336222078" ref="albums"/>
     <file name="compilation.css" crc="75058758" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3817612189" mt="1532824468000"/>
-    <file name="muse_manifest.xml" crc="4192001761" mt="1532824468000"/>
-    <file name="sitemap.xml" crc="4177426333" mt="1532824468000"/>
+    <file name="index.html" crc="3987323172" mt="1532917390000"/>
+    <file name="muse_manifest.xml" crc="193738160" mt="1532917390000"/>
+    <file name="sitemap.xml" crc="533304374" mt="1532917390000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -55,9 +55,9 @@
     <file name="u4982-grad.png" crc="4042930529" ref="albums"/>
     <file name="u4680-r.png" crc="370896156" ref="index"/>
     <file name="u4688-r.png" crc="4279699463" ref="index"/>
-    <file name="u5127-grad.png" crc="3844420172" ref="albums:compilation:index"/>
-    <file name="u5127-r-grad.png" crc="18129895" ref="albums:compilation:index"/>
-    <file name="u5127-m-grad.png" crc="131545940" ref="albums:compilation:index"/>
+    <file name="u5127-grad.png" crc="3844420172" ref="albums:compilation"/>
+    <file name="u5127-r-grad.png" crc="18129895" ref="albums:compilation"/>
+    <file name="u5127-m-grad.png" crc="131545940" ref="albums:compilation"/>
     <file name="u5129.png" crc="4154818497" ref="albums"/>
     <file name="u5129-r.png" crc="3967864283" ref="albums"/>
     <file name="u5129-a.png" crc="4154818497" ref="albums"/>
@@ -89,8 +89,11 @@
     <file name="cover.jpg" crc="3868456766" ref="index"/>
     <file name="cover2.jpg" crc="45165328" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u4674-grad.png" crc="3844420172" ref="index"/>
+    <file name="u4679-r-grad.png" crc="18129895" ref="index"/>
+    <file name="u4679-m-grad.png" crc="131545940" ref="index"/>
   </folder>
-  <file name="index.html" crc="3822549335" mt="1532917191170" redirect="true"/>
+  <file name="index.html" crc="4012457469" mt="1532917401067" redirect="true"/>
   <file name="albums.html" crc="342211691" mt="1532917066925" redirect="true"/>
   <file name="compilation.html" crc="4165858936" mt="1532916974319" redirect="true"/>
 </manifest>

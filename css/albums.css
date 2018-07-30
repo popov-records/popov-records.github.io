@@ -7,10 +7,9 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 7845.785714285717px;
+	min-height: 7846px;
 	border-style: none;
 	border-color: #000000;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 	background: #323232 url("../images/presence-page-fr.png") repeat center center;
@@ -19,7 +18,7 @@
 
 #page_position_content
 {
-	margin-bottom: 3px;
+	margin-bottom: -24px;
 }
 
 #u4888
@@ -850,8 +849,8 @@
 	z-index: 293;
 	display: block;
 	vertical-align: top;
-	margin-left: 177px;
-	margin-top: 41px;
+	margin-left: 213px;
+	margin-top: 95px;
 	position: relative;
 }
 
