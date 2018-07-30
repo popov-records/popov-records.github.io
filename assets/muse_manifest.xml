@@ -1,14 +1,14 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="index.css" crc="3788008741" ref="index"/>
-    <file name="albums.css" crc="336222078" ref="albums"/>
+    <file name="index.css" crc="4229813264" ref="index"/>
+    <file name="albums.css" crc="3803074798" ref="albums"/>
     <file name="compilation.css" crc="75058758" ref="compilation"/>
   </folder>
   <folder name="assets">
-    <file name="index.html" crc="3987323172" mt="1532917390000"/>
-    <file name="muse_manifest.xml" crc="193738160" mt="1532917390000"/>
-    <file name="sitemap.xml" crc="533304374" mt="1532917390000"/>
+    <file name="index.html" crc="3986375130" mt="1532917410000"/>
+    <file name="muse_manifest.xml" crc="4197953030" mt="1532917812000"/>
+    <file name="sitemap.xml" crc="375328006" mt="1532917812000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:albums:compilation"/>
@@ -82,7 +82,7 @@
     <file name="u5228-grad.png" crc="227719106" ref="albums"/>
     <file name="u5227-22.png" crc="3771355468" ref="albums"/>
     <file name="000.jpg" crc="36456079" ref="albums"/>
-    <file name="88-u5312.png" crc="3817317921" ref="albums"/>
+    <file name="88-u5312.png" crc="490602958" ref="albums"/>
     <file name="u5322-4.png" crc="495458545" ref="index"/>
     <file name="presence-page-fr2.png" crc="3831714568" ref="compilation"/>
     <file name="26230718_518810491818403_3791275404397609292_n.jpg" crc="4238189795" ref="index"/>
@@ -93,7 +93,7 @@
     <file name="u4679-r-grad.png" crc="18129895" ref="index"/>
     <file name="u4679-m-grad.png" crc="131545940" ref="index"/>
   </folder>
-  <file name="index.html" crc="4012457469" mt="1532917401067" redirect="true"/>
-  <file name="albums.html" crc="342211691" mt="1532917066925" redirect="true"/>
+  <file name="index.html" crc="4012457469" mt="1532918609496" redirect="true"/>
+  <file name="albums.html" crc="465210399" mt="1532917792676" redirect="true"/>
   <file name="compilation.html" crc="4165858936" mt="1532916974319" redirect="true"/>
 </manifest>
