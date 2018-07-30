@@ -913,14 +913,10 @@
 #u5661
 {
 	z-index: 2;
-	width: 1192px;
-	border-width: 8px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: #050000;
-	left: -4px;
-	top: -4px;
-	margin-bottom: -4px;
+	width: 1200px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
 	position: relative;
 }
 
@@ -929,11 +925,11 @@
 	z-index: 298;
 	display: block;
 	vertical-align: top;
-	margin-bottom: -21px;
+	margin-bottom: -17px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 91px;
-	left: 210px;
+	margin-top: 95px;
+	left: 214px;
 }
 
 body
