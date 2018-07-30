@@ -24,7 +24,7 @@
 
 #u4953
 {
-	z-index: 3;
+	z-index: 4;
 	width: 1200px;
 	border-style: none;
 	border-color: transparent;
@@ -35,7 +35,7 @@
 
 #u2734-4
 {
-	z-index: 4;
+	z-index: 5;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -46,7 +46,7 @@
 
 #menuu5153
 {
-	z-index: 81;
+	z-index: 82;
 	width: 1200px;
 	position: fixed;
 	top: 154px;
@@ -249,35 +249,55 @@
 	cursor: pointer;
 }
 
-#u2735
+#pu5662
 {
-	z-index: 8;
-	width: 1200px;
+	width: 0.01px;
 	margin-top: 125px;
 	position: relative;
 }
 
+#u5662
+{
+	z-index: 2;
+	width: 1200px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #232121;
+	padding-bottom: 34px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+}
+
 #u5206-5
 {
-	z-index: 12;
+	z-index: 13;
 	display: block;
 	vertical-align: top;
-	left: -9px;
-	margin-top: 5px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: -9px;
+}
+
+#u2735
+{
+	z-index: 9;
+	width: 1200px;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #pu5213
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 34px;
 	position: relative;
 }
 
 #u5213
 {
-	z-index: 2;
+	z-index: 3;
 	width: 1158px;
 	background: transparent url("../images/u5213-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(44%, rgba(102, 45, 145, 0.42)),to(rgba(0, 0, 0, 0.73)));
@@ -299,7 +319,7 @@
 
 #u5200
 {
-	z-index: 10;
+	z-index: 11;
 	width: 1061px;
 	border-width: 17px;
 	border-style: solid;
@@ -313,7 +333,7 @@
 
 #u5210-60
 {
-	z-index: 17;
+	z-index: 18;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -324,7 +344,7 @@
 
 #u5243
 {
-	z-index: 100;
+	z-index: 101;
 	width: 1160px;
 	min-height: 173px;
 	border-style: none;
@@ -337,7 +357,7 @@
 
 #buttonu5215
 {
-	z-index: 77;
+	z-index: 78;
 	width: 288px;
 	background: #000000 url("../images/u4502-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(40%, #00FF00),to(#000000));
@@ -389,7 +409,7 @@
 
 #u5216
 {
-	z-index: 79;
+	z-index: 80;
 	height: 36px;
 	width: 212px;
 	vertical-align: top;
