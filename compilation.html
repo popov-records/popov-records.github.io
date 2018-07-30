@@ -110,8 +110,8 @@ body,img{
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu5153').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,190.35]},{"speed":[0,0],"in":[190.35,Infinity]}]);/* scroll effect */
-$('#page').registerBackgroundPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,36]},{"speed":[0,0],"in":[36,Infinity]}]);/* scroll effect */
+$('#menuu5153').registerPositionScrollEffect([{"in":[-Infinity,190.35],"speed":[0,1]},{"in":[190.35,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#page').registerBackgroundPositionScrollEffect([{"in":[-Infinity,36],"speed":[0,1]},{"in":[36,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
